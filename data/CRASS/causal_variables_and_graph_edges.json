@@ -3,93 +3,108 @@
     "text": "A woman opens a treasure chest. What would have happened if the woman had not opened the treasure chest?",
     "factual_roles": {
       "Exposure": [
-        "opening treasure chest"
+        "act of opening treasure chest"
       ],
       "Covariate": [
-        "having key",
-        "physical ability to open chest"
+        "key possession",
+        "physical capability"
       ],
       "Mediator": [
-        "unlocking treasure chest"
+        "lock mechanism release"
       ],
       "Outcome": [
-        "N.A."
+        "chest opened"
       ]
     },
     "factual_graph_edges": [
       [
-        "having key",
-        "opening treasure chest"
+        "key possession",
+        "act of opening treasure chest"
       ],
       [
-        "having key",
-        "unlocking treasure chest"
+        "key possession",
+        "lock mechanism release"
       ],
       [
-        "physical ability to open chest",
-        "opening treasure chest"
+        "key possession",
+        "chest opened"
       ],
       [
-        "physical ability to open chest",
-        "unlocking treasure chest"
+        "physical capability",
+        "act of opening treasure chest"
       ],
       [
-        "opening treasure chest",
-        "unlocking treasure chest"
+        "physical capability",
+        "lock mechanism release"
       ],
       [
-        "unlocking treasure chest",
-        "N.A."
+        "physical capability",
+        "chest opened"
       ],
       [
-        "opening treasure chest",
-        "N.A."
+        "act of opening treasure chest",
+        "lock mechanism release"
+      ],
+      [
+        "lock mechanism release",
+        "chest opened"
+      ],
+      [
+        "act of opening treasure chest", 
+        "chest opened"
       ]
     ],
     "counterfactual_roles": {
       "Exposure": [
-        "not opening treasure chest"
+        "omission of opening action"
       ],
       "Covariate": [
-        "having key",
-        "physical ability to open chest"
+        "key possession",
+        "physical capability"
       ],
       "Mediator": [
-        "altered unlocking treasure chest"
+        "lock state preservation"
       ],
       "Outcome": [
-        "remained closed"
+        "chest remains closed"
       ]
     },
     "counterfactual_graph_edges": [
       [
-        "having key",
-        "not opening treasure chest"
+        "key possession", 
+        "act of opening treasure chest"
       ],
       [
-        "having key",
-        "altered unlocking treasure chest"
+        "key possession", 
+        "lock mechanism release"
       ],
       [
-        "physical ability to open chest",
-        "not opening treasure chest"
+        "key possession", 
+        "chest opened"
       ],
       [
-        "physical ability to open chest",
-        "altered unlocking treasure chest"
+        "physical capability", 
+        "act of opening treasure chest"
       ],
       [
-        "not opening treasure chest",
-        "altered unlocking treasure chest"
+        "physical capability", 
+        "lock mechanism release"
       ],
       [
-        "altered unlocking treasure chest",
-        "remained closed"
+        "physical capability",
+         "chest opened"
       ],
       [
-        "not opening treasure chest",
-        "remained closed"
-      ]
+        "act of opening treasure chest", 
+        "lock mechanism release"
+      ],
+      [
+        "lock mechanism release", 
+        "chest opened"
+      ],
+      [
+        "act of opening treasure chest", 
+        "chest opened"]
     ]
   },
   {
