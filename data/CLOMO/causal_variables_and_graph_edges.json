@@ -1,0 +1,2800 @@
+[
+  {
+    "text": "In the following, you will see an argument and 2 premises, where Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until Premise 2 provides a necessary assumption to the Argument instead, while Premise 1 fails to provides a necessary assumption to the Argument. Note that no additional statement should be added. ",
+    "factual_roles": {
+      "Exposure": [
+        "Premise 1 as necessary assumption"
+      ],
+      "Covariate": [
+        "Government's policy impact on demand",
+        "Demand-price relationship assumption"
+      ],
+      "Mediator": [
+        "Causal attribution mechanism (direct vs indirect)"
+      ],
+      "Outcome": [
+        "Full responsibility attribution to government"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "Government's policy impact on demand",
+        "Premise 1 as necessary assumption"
+      ],
+      [
+        "Government's policy impact on demand",
+        "Causal attribution mechanism"
+      ],
+      [
+        "Government's policy impact on demand",
+        "Full responsibility attribution to government"
+      ],
+      [
+        "Demand-price relationship assumption",
+        "Premise 1 as necessary assumption"
+      ],
+      [
+        "Demand-price relationship assumption",
+        "Causal attribution mechanism"
+      ],
+      [
+        "Demand-price relationship assumption",
+        "Full responsibility attribution to government"
+      ],
+      [
+        "Premise 1 as necessary assumption",
+        "Causal attribution mechanism"
+      ],
+      [
+        "Causal attribution mechanism",
+        "Full responsibility attribution to government"
+      ],
+      [
+        "Premise 1 as necessary assumption",
+        "Full responsibility attribution to government"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "Premise 2 as necessary assumption"
+      ],
+      "Covariate": [
+        "Government's policy impact on demand",
+        "Demand-price relationship assumption"
+      ],
+      "Mediator": [
+        "Responsibility attribution modifier (partial vs full)"
+      ],
+      "Outcome": [
+        "Partial responsibility attribution to government"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "Government's policy impact on demand",
+        "Responsibility attribution modifier"
+      ],
+      [
+        "Government's policy impact on demand",
+        "Partial responsibility attribution to government"
+      ],
+      [
+        "Demand-price relationship assumption",
+        "Responsibility attribution modifier"
+      ],
+      [
+        "Demand-price relationship assumption",
+        "Partial responsibility attribution to government"
+      ],
+      [
+        "Premise 2 as necessary assumption",
+        "Responsibility attribution modifier"
+      ],
+      [
+        "Responsibility attribution modifier",
+        "Partial responsibility attribution to government"
+      ],
+      [
+        "Premise 2 as necessary assumption",
+        "Partial responsibility attribution to government"
+      ]
+    ]
+  },
+  {
+    "text": "In the following, you will see an argument and 2 premises, where Premise 1 weakens the Argument. Please modify the Statements in the Argument until Premise 2 weakens the Argument instead, while Premise 1 fails to weakens the Argument. Note that no additional statement should be added. ",
+    "factual_roles": {
+      "Exposure": [
+        "Premise 1 weakens the Argument. Please modify the Statements in the Argument until"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "logical necessity shift"
+      ],
+      "Outcome": [
+        "general argument adjustment"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 1 weakens the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 1 weakens the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "logical structure of argument",
+        "logical necessity shift"
+      ],
+      [
+        "validity of assumptions",
+        "logical necessity shift"
+      ],
+      [
+        "Premise 1 weakens the Argument. Please modify the Statements in the Argument until",
+        "logical necessity shift"
+      ],
+      [
+        "logical necessity shift",
+        "general argument adjustment"
+      ],
+      [
+        "Premise 1 weakens the Argument. Please modify the Statements in the Argument until",
+        "general argument adjustment"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "Premise 2 weakens the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "altered logical necessity"
+      ],
+      "Outcome": [
+        "general argument adjustment changed"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 2 weakens the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 2 weakens the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "logical structure of argument",
+        "altered logical necessity"
+      ],
+      [
+        "validity of assumptions",
+        "altered logical necessity"
+      ],
+      [
+        "Premise 2 weakens the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "altered logical necessity"
+      ],
+      [
+        "altered logical necessity",
+        "general argument adjustment changed"
+      ],
+      [
+        "Premise 2 weakens the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "general argument adjustment changed"
+      ]
+    ]
+  },
+  {
+    "text": "In the following, you will see an argument and 2 premises, where Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until Premise 2 provides a necessary assumption to the Argument instead, while Premise 1 fails to provides a necessary assumption to the Argument. Note that no additional statement should be added. ",
+    "factual_roles": {
+      "Exposure": [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "logical necessity shift"
+      ],
+      "Outcome": [
+        "special detergent needed for clean washing"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "logical structure of argument",
+        "logical necessity shift"
+      ],
+      [
+        "validity of assumptions",
+        "logical necessity shift"
+      ],
+      [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until",
+        "logical necessity shift"
+      ],
+      [
+        "logical necessity shift",
+        "special detergent needed for clean washing"
+      ],
+      [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until",
+        "special detergent needed for clean washing"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "altered logical necessity"
+      ],
+      "Outcome": [
+        "ordinary detergent insufficient without washing again"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "logical structure of argument",
+        "altered logical necessity"
+      ],
+      [
+        "validity of assumptions",
+        "altered logical necessity"
+      ],
+      [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "altered logical necessity"
+      ],
+      [
+        "altered logical necessity",
+        "ordinary detergent insufficient without washing again"
+      ],
+      [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "ordinary detergent insufficient without washing again"
+      ]
+    ]
+  },
+  {
+    "text": "In the following, you will see an argument and 2 premises, where Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until Premise 2 provides a necessary assumption to the Argument instead, while Premise 1 fails to provides a necessary assumption to the Argument. Note that no additional statement should be added. ",
+    "factual_roles": {
+      "Exposure": [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "logical necessity shift"
+      ],
+      "Outcome": [
+        "dean must be from computer science department"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "logical structure of argument",
+        "logical necessity shift"
+      ],
+      [
+        "validity of assumptions",
+        "logical necessity shift"
+      ],
+      [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until",
+        "logical necessity shift"
+      ],
+      [
+        "logical necessity shift",
+        "dean must be from computer science department"
+      ],
+      [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until",
+        "dean must be from computer science department"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "altered logical necessity"
+      ],
+      "Outcome": [
+        "dean must hold a doctorate in computer science"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "logical structure of argument",
+        "altered logical necessity"
+      ],
+      [
+        "validity of assumptions",
+        "altered logical necessity"
+      ],
+      [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "altered logical necessity"
+      ],
+      [
+        "altered logical necessity",
+        "dean must hold a doctorate in computer science"
+      ],
+      [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "dean must hold a doctorate in computer science"
+      ]
+    ]
+  },
+  {
+    "text": "In the following, you will see an argument and 2 premises, where Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until Premise 2 provides a necessary assumption to the Argument instead, while Premise 1 fails to provides a necessary assumption to the Argument. Note that no additional statement should be added. ",
+    "factual_roles": {
+      "Exposure": [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "logical necessity shift"
+      ],
+      "Outcome": [
+        "side effects justify banning ephedra"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "logical structure of argument",
+        "logical necessity shift"
+      ],
+      [
+        "validity of assumptions",
+        "logical necessity shift"
+      ],
+      [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until",
+        "logical necessity shift"
+      ],
+      [
+        "logical necessity shift",
+        "side effects justify banning ephedra"
+      ],
+      [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until",
+        "side effects justify banning ephedra"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "altered logical necessity"
+      ],
+      "Outcome": [
+        "lack of evidence about side effects undermines ban"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "logical structure of argument",
+        "altered logical necessity"
+      ],
+      [
+        "validity of assumptions",
+        "altered logical necessity"
+      ],
+      [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "altered logical necessity"
+      ],
+      [
+        "altered logical necessity",
+        "lack of evidence about side effects undermines ban"
+      ],
+      [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "lack of evidence about side effects undermines ban"
+      ]
+    ]
+  },
+  {
+    "text": "In the following, you will see an argument and 2 premises, where Premise 1 strengthens the Argument. Please modify the Statements in the Argument until Premise 2 strengthens the Argument instead, while Premise 1 fails to strengthens the Argument. Note that no additional statement should be added. ",
+    "factual_roles": {
+      "Exposure": [
+        "Premise 1 strengthens the Argument. Please modify the Statements in the Argument until"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "logical necessity shift"
+      ],
+      "Outcome": [
+        "general argument adjustment"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 1 strengthens the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 1 strengthens the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "logical structure of argument",
+        "logical necessity shift"
+      ],
+      [
+        "validity of assumptions",
+        "logical necessity shift"
+      ],
+      [
+        "Premise 1 strengthens the Argument. Please modify the Statements in the Argument until",
+        "logical necessity shift"
+      ],
+      [
+        "logical necessity shift",
+        "general argument adjustment"
+      ],
+      [
+        "Premise 1 strengthens the Argument. Please modify the Statements in the Argument until",
+        "general argument adjustment"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "Premise 2 strengthens the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "altered logical necessity"
+      ],
+      "Outcome": [
+        "general argument adjustment changed"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 2 strengthens the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 2 strengthens the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "logical structure of argument",
+        "altered logical necessity"
+      ],
+      [
+        "validity of assumptions",
+        "altered logical necessity"
+      ],
+      [
+        "Premise 2 strengthens the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "altered logical necessity"
+      ],
+      [
+        "altered logical necessity",
+        "general argument adjustment changed"
+      ],
+      [
+        "Premise 2 strengthens the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "general argument adjustment changed"
+      ]
+    ]
+  },
+  {
+    "text": "In the following, you will see an argument and 2 premises, where Premise 1 strengthens the Argument. Please modify the Statements in the Argument until Premise 2 strengthens the Argument instead, while Premise 1 fails to strengthens the Argument. Note that no additional statement should be added. ",
+    "factual_roles": {
+      "Exposure": [
+        "Premise 1 strengthens the Argument. Please modify the Statements in the Argument until"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "logical necessity shift"
+      ],
+      "Outcome": [
+        "contingency fees increase law firm income"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 1 strengthens the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 1 strengthens the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "logical structure of argument",
+        "logical necessity shift"
+      ],
+      [
+        "validity of assumptions",
+        "logical necessity shift"
+      ],
+      [
+        "Premise 1 strengthens the Argument. Please modify the Statements in the Argument until",
+        "logical necessity shift"
+      ],
+      [
+        "logical necessity shift",
+        "contingency fees increase law firm income"
+      ],
+      [
+        "Premise 1 strengthens the Argument. Please modify the Statements in the Argument until",
+        "contingency fees increase law firm income"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "Premise 2 strengthens the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "altered logical necessity"
+      ],
+      "Outcome": [
+        "contingency fees make law firm income unstable"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 2 strengthens the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 2 strengthens the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "logical structure of argument",
+        "altered logical necessity"
+      ],
+      [
+        "validity of assumptions",
+        "altered logical necessity"
+      ],
+      [
+        "Premise 2 strengthens the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "altered logical necessity"
+      ],
+      [
+        "altered logical necessity",
+        "contingency fees make law firm income unstable"
+      ],
+      [
+        "Premise 2 strengthens the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "contingency fees make law firm income unstable"
+      ]
+    ]
+  },
+  {
+    "text": "In the following, you will see an argument and 2 premises, where Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until Premise 2 provides a necessary assumption to the Argument instead, while Premise 1 fails to provides a necessary assumption to the Argument. Note that no additional statement should be added. ",
+    "factual_roles": {
+      "Exposure": [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "logical necessity shift"
+      ],
+      "Outcome": [
+        "poetry can be objectively interpreted"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "logical structure of argument",
+        "logical necessity shift"
+      ],
+      [
+        "validity of assumptions",
+        "logical necessity shift"
+      ],
+      [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until",
+        "logical necessity shift"
+      ],
+      [
+        "logical necessity shift",
+        "poetry can be objectively interpreted"
+      ],
+      [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until",
+        "poetry can be objectively interpreted"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "altered logical necessity"
+      ],
+      "Outcome": [
+        "poetry cannot be objectively interpreted"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "logical structure of argument",
+        "altered logical necessity"
+      ],
+      [
+        "validity of assumptions",
+        "altered logical necessity"
+      ],
+      [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "altered logical necessity"
+      ],
+      [
+        "altered logical necessity",
+        "poetry cannot be objectively interpreted"
+      ],
+      [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "poetry cannot be objectively interpreted"
+      ]
+    ]
+  },
+  {
+    "text": "In the following, you will see an argument and 2 premises, where Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until Premise 2 provides a necessary assumption to the Argument instead, while Premise 1 fails to provides a necessary assumption to the Argument. Note that no additional statement should be added. ",
+    "factual_roles": {
+      "Exposure": [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "logical necessity shift"
+      ],
+      "Outcome": [
+        "rock music is declining due to digital trends"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "logical structure of argument",
+        "logical necessity shift"
+      ],
+      [
+        "validity of assumptions",
+        "logical necessity shift"
+      ],
+      [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until",
+        "logical necessity shift"
+      ],
+      [
+        "logical necessity shift",
+        "rock music is declining due to digital trends"
+      ],
+      [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until",
+        "rock music is declining due to digital trends"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "altered logical necessity"
+      ],
+      "Outcome": [
+        "rock music retains cultural relevance"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "logical structure of argument",
+        "altered logical necessity"
+      ],
+      [
+        "validity of assumptions",
+        "altered logical necessity"
+      ],
+      [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "altered logical necessity"
+      ],
+      [
+        "altered logical necessity",
+        "rock music retains cultural relevance"
+      ],
+      [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "rock music retains cultural relevance"
+      ]
+    ]
+  },
+  {
+    "text": "In the following, you will see an argument and 2 premises, where Premise 1 weakens the Argument. Please modify the Statements in the Argument until Premise 2 weakens the Argument instead, while Premise 1 fails to weakens the Argument. Note that no additional statement should be added. ",
+    "factual_roles": {
+      "Exposure": [
+        "Premise 1 weakens the Argument. Please modify the Statements in the Argument until"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "logical necessity shift"
+      ],
+      "Outcome": [
+        "young musicians encouraged in classical music"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 1 weakens the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 1 weakens the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "logical structure of argument",
+        "logical necessity shift"
+      ],
+      [
+        "validity of assumptions",
+        "logical necessity shift"
+      ],
+      [
+        "Premise 1 weakens the Argument. Please modify the Statements in the Argument until",
+        "logical necessity shift"
+      ],
+      [
+        "logical necessity shift",
+        "young musicians encouraged in classical music"
+      ],
+      [
+        "Premise 1 weakens the Argument. Please modify the Statements in the Argument until",
+        "young musicians encouraged in classical music"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "Premise 2 weakens the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "altered logical necessity"
+      ],
+      "Outcome": [
+        "classical music less appealing to youth"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 2 weakens the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 2 weakens the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "logical structure of argument",
+        "altered logical necessity"
+      ],
+      [
+        "validity of assumptions",
+        "altered logical necessity"
+      ],
+      [
+        "Premise 2 weakens the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "altered logical necessity"
+      ],
+      [
+        "altered logical necessity",
+        "classical music less appealing to youth"
+      ],
+      [
+        "Premise 2 weakens the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "classical music less appealing to youth"
+      ]
+    ]
+  },
+  {
+    "text": "In the following, you will see an argument and 2 premises, where Premise 1 weakens the Argument. Please modify the Statements in the Argument until Premise 2 weakens the Argument instead, while Premise 1 fails to weakens the Argument. Note that no additional statement should be added. ",
+    "factual_roles": {
+      "Exposure": [
+        "Premise 1 weakens the Argument. Please modify the Statements in the Argument until"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "logical necessity shift"
+      ],
+      "Outcome": [
+        "general argument adjustment"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 1 weakens the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 1 weakens the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "logical structure of argument",
+        "logical necessity shift"
+      ],
+      [
+        "validity of assumptions",
+        "logical necessity shift"
+      ],
+      [
+        "Premise 1 weakens the Argument. Please modify the Statements in the Argument until",
+        "logical necessity shift"
+      ],
+      [
+        "logical necessity shift",
+        "general argument adjustment"
+      ],
+      [
+        "Premise 1 weakens the Argument. Please modify the Statements in the Argument until",
+        "general argument adjustment"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "Premise 2 weakens the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "altered logical necessity"
+      ],
+      "Outcome": [
+        "general argument adjustment changed"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 2 weakens the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 2 weakens the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "logical structure of argument",
+        "altered logical necessity"
+      ],
+      [
+        "validity of assumptions",
+        "altered logical necessity"
+      ],
+      [
+        "Premise 2 weakens the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "altered logical necessity"
+      ],
+      [
+        "altered logical necessity",
+        "general argument adjustment changed"
+      ],
+      [
+        "Premise 2 weakens the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "general argument adjustment changed"
+      ]
+    ]
+  },
+  {
+    "text": "In the following, you will see an argument and 2 premises, where Premise 1 weakens the Argument. Please modify the Statements in the Argument until Premise 2 weakens the Argument instead, while Premise 1 fails to weakens the Argument. Note that no additional statement should be added. ",
+    "factual_roles": {
+      "Exposure": [
+        "Premise 1 weakens the Argument. Please modify the Statements in the Argument until"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "logical necessity shift"
+      ],
+      "Outcome": [
+        "general argument adjustment"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 1 weakens the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 1 weakens the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "logical structure of argument",
+        "logical necessity shift"
+      ],
+      [
+        "validity of assumptions",
+        "logical necessity shift"
+      ],
+      [
+        "Premise 1 weakens the Argument. Please modify the Statements in the Argument until",
+        "logical necessity shift"
+      ],
+      [
+        "logical necessity shift",
+        "general argument adjustment"
+      ],
+      [
+        "Premise 1 weakens the Argument. Please modify the Statements in the Argument until",
+        "general argument adjustment"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "Premise 2 weakens the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "altered logical necessity"
+      ],
+      "Outcome": [
+        "general argument adjustment changed"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 2 weakens the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 2 weakens the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "logical structure of argument",
+        "altered logical necessity"
+      ],
+      [
+        "validity of assumptions",
+        "altered logical necessity"
+      ],
+      [
+        "Premise 2 weakens the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "altered logical necessity"
+      ],
+      [
+        "altered logical necessity",
+        "general argument adjustment changed"
+      ],
+      [
+        "Premise 2 weakens the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "general argument adjustment changed"
+      ]
+    ]
+  },
+  {
+    "text": "In the following, you will see an argument and 2 premises, where Premise 1 provides a sufficient assumption to the Argument. Please modify the Statements in the Argument until Premise 2 provides a sufficient assumption to the Argument instead, while Premise 1 fails to provides a sufficient assumption to the Argument. Note that no additional statement should be added. ",
+    "factual_roles": {
+      "Exposure": [
+        "Premise 1 provides a sufficient assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "logical necessity shift"
+      ],
+      "Outcome": [
+        "general argument adjustment"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 1 provides a sufficient assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 1 provides a sufficient assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "logical structure of argument",
+        "logical necessity shift"
+      ],
+      [
+        "validity of assumptions",
+        "logical necessity shift"
+      ],
+      [
+        "Premise 1 provides a sufficient assumption to the Argument. Please modify the Statements in the Argument until",
+        "logical necessity shift"
+      ],
+      [
+        "logical necessity shift",
+        "general argument adjustment"
+      ],
+      [
+        "Premise 1 provides a sufficient assumption to the Argument. Please modify the Statements in the Argument until",
+        "general argument adjustment"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "Premise 2 provides a sufficient assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "altered logical necessity"
+      ],
+      "Outcome": [
+        "general argument adjustment changed"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 2 provides a sufficient assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 2 provides a sufficient assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "logical structure of argument",
+        "altered logical necessity"
+      ],
+      [
+        "validity of assumptions",
+        "altered logical necessity"
+      ],
+      [
+        "Premise 2 provides a sufficient assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "altered logical necessity"
+      ],
+      [
+        "altered logical necessity",
+        "general argument adjustment changed"
+      ],
+      [
+        "Premise 2 provides a sufficient assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "general argument adjustment changed"
+      ]
+    ]
+  },
+  {
+    "text": "In the following, you will see an argument and 2 premises, where Premise 1 provides a sufficient assumption to the Argument. Please modify the Statements in the Argument until Premise 2 provides a sufficient assumption to the Argument instead, while Premise 1 fails to provides a sufficient assumption to the Argument. Note that no additional statement should be added. ",
+    "factual_roles": {
+      "Exposure": [
+        "Premise 1 provides a sufficient assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "logical necessity shift"
+      ],
+      "Outcome": [
+        "general argument adjustment"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 1 provides a sufficient assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 1 provides a sufficient assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "logical structure of argument",
+        "logical necessity shift"
+      ],
+      [
+        "validity of assumptions",
+        "logical necessity shift"
+      ],
+      [
+        "Premise 1 provides a sufficient assumption to the Argument. Please modify the Statements in the Argument until",
+        "logical necessity shift"
+      ],
+      [
+        "logical necessity shift",
+        "general argument adjustment"
+      ],
+      [
+        "Premise 1 provides a sufficient assumption to the Argument. Please modify the Statements in the Argument until",
+        "general argument adjustment"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "Premise 2 provides a sufficient assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "altered logical necessity"
+      ],
+      "Outcome": [
+        "general argument adjustment changed"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 2 provides a sufficient assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 2 provides a sufficient assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "logical structure of argument",
+        "altered logical necessity"
+      ],
+      [
+        "validity of assumptions",
+        "altered logical necessity"
+      ],
+      [
+        "Premise 2 provides a sufficient assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "altered logical necessity"
+      ],
+      [
+        "altered logical necessity",
+        "general argument adjustment changed"
+      ],
+      [
+        "Premise 2 provides a sufficient assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "general argument adjustment changed"
+      ]
+    ]
+  },
+  {
+    "text": "In the following, you will see an argument and 2 premises, where Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until Premise 2 provides a necessary assumption to the Argument instead, while Premise 1 fails to provides a necessary assumption to the Argument. Note that no additional statement should be added. ",
+    "factual_roles": {
+      "Exposure": [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "logical necessity shift"
+      ],
+      "Outcome": [
+        "general argument adjustment"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "logical structure of argument",
+        "logical necessity shift"
+      ],
+      [
+        "validity of assumptions",
+        "logical necessity shift"
+      ],
+      [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until",
+        "logical necessity shift"
+      ],
+      [
+        "logical necessity shift",
+        "general argument adjustment"
+      ],
+      [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until",
+        "general argument adjustment"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "altered logical necessity"
+      ],
+      "Outcome": [
+        "general argument adjustment changed"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "logical structure of argument",
+        "altered logical necessity"
+      ],
+      [
+        "validity of assumptions",
+        "altered logical necessity"
+      ],
+      [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "altered logical necessity"
+      ],
+      [
+        "altered logical necessity",
+        "general argument adjustment changed"
+      ],
+      [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "general argument adjustment changed"
+      ]
+    ]
+  },
+  {
+    "text": "In the following, you will see an argument and 2 premises, where Premise 1 strengthens the Argument. Please modify the Statements in the Argument until Premise 2 strengthens the Argument instead, while Premise 1 fails to strengthens the Argument. Note that no additional statement should be added. ",
+    "factual_roles": {
+      "Exposure": [
+        "Premise 1 strengthens the Argument. Please modify the Statements in the Argument until"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "logical necessity shift"
+      ],
+      "Outcome": [
+        "general argument adjustment"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 1 strengthens the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 1 strengthens the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "logical structure of argument",
+        "logical necessity shift"
+      ],
+      [
+        "validity of assumptions",
+        "logical necessity shift"
+      ],
+      [
+        "Premise 1 strengthens the Argument. Please modify the Statements in the Argument until",
+        "logical necessity shift"
+      ],
+      [
+        "logical necessity shift",
+        "general argument adjustment"
+      ],
+      [
+        "Premise 1 strengthens the Argument. Please modify the Statements in the Argument until",
+        "general argument adjustment"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "Premise 2 strengthens the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "altered logical necessity"
+      ],
+      "Outcome": [
+        "general argument adjustment changed"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 2 strengthens the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 2 strengthens the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "logical structure of argument",
+        "altered logical necessity"
+      ],
+      [
+        "validity of assumptions",
+        "altered logical necessity"
+      ],
+      [
+        "Premise 2 strengthens the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "altered logical necessity"
+      ],
+      [
+        "altered logical necessity",
+        "general argument adjustment changed"
+      ],
+      [
+        "Premise 2 strengthens the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "general argument adjustment changed"
+      ]
+    ]
+  },
+  {
+    "text": "In the following, you will see an argument and 2 premises, where Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until Premise 2 provides a necessary assumption to the Argument instead, while Premise 1 fails to provides a necessary assumption to the Argument. Note that no additional statement should be added. ",
+    "factual_roles": {
+      "Exposure": [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "logical necessity shift"
+      ],
+      "Outcome": [
+        "general argument adjustment"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "logical structure of argument",
+        "logical necessity shift"
+      ],
+      [
+        "validity of assumptions",
+        "logical necessity shift"
+      ],
+      [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until",
+        "logical necessity shift"
+      ],
+      [
+        "logical necessity shift",
+        "general argument adjustment"
+      ],
+      [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until",
+        "general argument adjustment"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "altered logical necessity"
+      ],
+      "Outcome": [
+        "general argument adjustment changed"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "logical structure of argument",
+        "altered logical necessity"
+      ],
+      [
+        "validity of assumptions",
+        "altered logical necessity"
+      ],
+      [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "altered logical necessity"
+      ],
+      [
+        "altered logical necessity",
+        "general argument adjustment changed"
+      ],
+      [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "general argument adjustment changed"
+      ]
+    ]
+  },
+  {
+    "text": "In the following, you will see an argument and 2 premises, where Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until Premise 2 provides a necessary assumption to the Argument instead, while Premise 1 fails to provides a necessary assumption to the Argument. Note that no additional statement should be added. ",
+    "factual_roles": {
+      "Exposure": [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "logical necessity shift"
+      ],
+      "Outcome": [
+        "general argument adjustment"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "logical structure of argument",
+        "logical necessity shift"
+      ],
+      [
+        "validity of assumptions",
+        "logical necessity shift"
+      ],
+      [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until",
+        "logical necessity shift"
+      ],
+      [
+        "logical necessity shift",
+        "general argument adjustment"
+      ],
+      [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until",
+        "general argument adjustment"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "altered logical necessity"
+      ],
+      "Outcome": [
+        "general argument adjustment changed"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "logical structure of argument",
+        "altered logical necessity"
+      ],
+      [
+        "validity of assumptions",
+        "altered logical necessity"
+      ],
+      [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "altered logical necessity"
+      ],
+      [
+        "altered logical necessity",
+        "general argument adjustment changed"
+      ],
+      [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "general argument adjustment changed"
+      ]
+    ]
+  },
+  {
+    "text": "In the following, you will see an argument and 2 premises, where Premise 1 strengthens the Argument. Please modify the Statements in the Argument until Premise 2 strengthens the Argument instead, while Premise 1 fails to strengthens the Argument. Note that no additional statement should be added. ",
+    "factual_roles": {
+      "Exposure": [
+        "Premise 1 strengthens the Argument. Please modify the Statements in the Argument until"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "logical necessity shift"
+      ],
+      "Outcome": [
+        "general argument adjustment"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 1 strengthens the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 1 strengthens the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "logical structure of argument",
+        "logical necessity shift"
+      ],
+      [
+        "validity of assumptions",
+        "logical necessity shift"
+      ],
+      [
+        "Premise 1 strengthens the Argument. Please modify the Statements in the Argument until",
+        "logical necessity shift"
+      ],
+      [
+        "logical necessity shift",
+        "general argument adjustment"
+      ],
+      [
+        "Premise 1 strengthens the Argument. Please modify the Statements in the Argument until",
+        "general argument adjustment"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "Premise 2 strengthens the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "altered logical necessity"
+      ],
+      "Outcome": [
+        "general argument adjustment changed"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 2 strengthens the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 2 strengthens the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "logical structure of argument",
+        "altered logical necessity"
+      ],
+      [
+        "validity of assumptions",
+        "altered logical necessity"
+      ],
+      [
+        "Premise 2 strengthens the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "altered logical necessity"
+      ],
+      [
+        "altered logical necessity",
+        "general argument adjustment changed"
+      ],
+      [
+        "Premise 2 strengthens the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "general argument adjustment changed"
+      ]
+    ]
+  },
+  {
+    "text": "In the following, you will see an argument and 2 premises, where Premise 1 strengthens the Argument. Please modify the Statements in the Argument until Premise 2 strengthens the Argument instead, while Premise 1 fails to strengthens the Argument. Note that no additional statement should be added. ",
+    "factual_roles": {
+      "Exposure": [
+        "Premise 1 strengthens the Argument. Please modify the Statements in the Argument until"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "logical necessity shift"
+      ],
+      "Outcome": [
+        "general argument adjustment"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 1 strengthens the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 1 strengthens the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "logical structure of argument",
+        "logical necessity shift"
+      ],
+      [
+        "validity of assumptions",
+        "logical necessity shift"
+      ],
+      [
+        "Premise 1 strengthens the Argument. Please modify the Statements in the Argument until",
+        "logical necessity shift"
+      ],
+      [
+        "logical necessity shift",
+        "general argument adjustment"
+      ],
+      [
+        "Premise 1 strengthens the Argument. Please modify the Statements in the Argument until",
+        "general argument adjustment"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "Premise 2 strengthens the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "altered logical necessity"
+      ],
+      "Outcome": [
+        "general argument adjustment changed"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 2 strengthens the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 2 strengthens the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "logical structure of argument",
+        "altered logical necessity"
+      ],
+      [
+        "validity of assumptions",
+        "altered logical necessity"
+      ],
+      [
+        "Premise 2 strengthens the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "altered logical necessity"
+      ],
+      [
+        "altered logical necessity",
+        "general argument adjustment changed"
+      ],
+      [
+        "Premise 2 strengthens the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "general argument adjustment changed"
+      ]
+    ]
+  },
+  {
+    "text": "In the following, you will see an argument and 2 premises, where Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until Premise 2 provides a necessary assumption to the Argument instead, while Premise 1 fails to provides a necessary assumption to the Argument. Note that no additional statement should be added. ",
+    "factual_roles": {
+      "Exposure": [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "logical necessity shift"
+      ],
+      "Outcome": [
+        "general argument adjustment"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "logical structure of argument",
+        "logical necessity shift"
+      ],
+      [
+        "validity of assumptions",
+        "logical necessity shift"
+      ],
+      [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until",
+        "logical necessity shift"
+      ],
+      [
+        "logical necessity shift",
+        "general argument adjustment"
+      ],
+      [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until",
+        "general argument adjustment"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "altered logical necessity"
+      ],
+      "Outcome": [
+        "general argument adjustment changed"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "logical structure of argument",
+        "altered logical necessity"
+      ],
+      [
+        "validity of assumptions",
+        "altered logical necessity"
+      ],
+      [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "altered logical necessity"
+      ],
+      [
+        "altered logical necessity",
+        "general argument adjustment changed"
+      ],
+      [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "general argument adjustment changed"
+      ]
+    ]
+  },
+  {
+    "text": "In the following, you will see an argument and 2 premises, where Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until Premise 2 provides a necessary assumption to the Argument instead, while Premise 1 fails to provides a necessary assumption to the Argument. Note that no additional statement should be added. ",
+    "factual_roles": {
+      "Exposure": [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "logical necessity shift"
+      ],
+      "Outcome": [
+        "general argument adjustment"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "logical structure of argument",
+        "logical necessity shift"
+      ],
+      [
+        "validity of assumptions",
+        "logical necessity shift"
+      ],
+      [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until",
+        "logical necessity shift"
+      ],
+      [
+        "logical necessity shift",
+        "general argument adjustment"
+      ],
+      [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until",
+        "general argument adjustment"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "altered logical necessity"
+      ],
+      "Outcome": [
+        "general argument adjustment changed"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "logical structure of argument",
+        "altered logical necessity"
+      ],
+      [
+        "validity of assumptions",
+        "altered logical necessity"
+      ],
+      [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "altered logical necessity"
+      ],
+      [
+        "altered logical necessity",
+        "general argument adjustment changed"
+      ],
+      [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "general argument adjustment changed"
+      ]
+    ]
+  },
+  {
+    "text": "In the following, you will see an argument and 2 premises, where Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until Premise 2 provides a necessary assumption to the Argument instead, while Premise 1 fails to provides a necessary assumption to the Argument. Note that no additional statement should be added. ",
+    "factual_roles": {
+      "Exposure": [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "logical necessity shift"
+      ],
+      "Outcome": [
+        "general argument adjustment"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "logical structure of argument",
+        "logical necessity shift"
+      ],
+      [
+        "validity of assumptions",
+        "logical necessity shift"
+      ],
+      [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until",
+        "logical necessity shift"
+      ],
+      [
+        "logical necessity shift",
+        "general argument adjustment"
+      ],
+      [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until",
+        "general argument adjustment"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "altered logical necessity"
+      ],
+      "Outcome": [
+        "general argument adjustment changed"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "logical structure of argument",
+        "altered logical necessity"
+      ],
+      [
+        "validity of assumptions",
+        "altered logical necessity"
+      ],
+      [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "altered logical necessity"
+      ],
+      [
+        "altered logical necessity",
+        "general argument adjustment changed"
+      ],
+      [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "general argument adjustment changed"
+      ]
+    ]
+  },
+  {
+    "text": "In the following, you will see an argument and 2 premises, where Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until Premise 2 provides a necessary assumption to the Argument instead, while Premise 1 fails to provides a necessary assumption to the Argument. Note that no additional statement should be added. ",
+    "factual_roles": {
+      "Exposure": [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "logical necessity shift"
+      ],
+      "Outcome": [
+        "general argument adjustment"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "logical structure of argument",
+        "logical necessity shift"
+      ],
+      [
+        "validity of assumptions",
+        "logical necessity shift"
+      ],
+      [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until",
+        "logical necessity shift"
+      ],
+      [
+        "logical necessity shift",
+        "general argument adjustment"
+      ],
+      [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until",
+        "general argument adjustment"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "altered logical necessity"
+      ],
+      "Outcome": [
+        "general argument adjustment changed"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "logical structure of argument",
+        "altered logical necessity"
+      ],
+      [
+        "validity of assumptions",
+        "altered logical necessity"
+      ],
+      [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "altered logical necessity"
+      ],
+      [
+        "altered logical necessity",
+        "general argument adjustment changed"
+      ],
+      [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "general argument adjustment changed"
+      ]
+    ]
+  },
+  {
+    "text": "In the following, you will see an argument and 2 premises, where Premise 1 provides a sufficient assumption to the Argument. Please modify the Statements in the Argument until Premise 2 provides a sufficient assumption to the Argument instead, while Premise 1 fails to provides a sufficient assumption to the Argument. Note that no additional statement should be added. ",
+    "factual_roles": {
+      "Exposure": [
+        "Premise 1 provides a sufficient assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "logical necessity shift"
+      ],
+      "Outcome": [
+        "general argument adjustment"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 1 provides a sufficient assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 1 provides a sufficient assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "logical structure of argument",
+        "logical necessity shift"
+      ],
+      [
+        "validity of assumptions",
+        "logical necessity shift"
+      ],
+      [
+        "Premise 1 provides a sufficient assumption to the Argument. Please modify the Statements in the Argument until",
+        "logical necessity shift"
+      ],
+      [
+        "logical necessity shift",
+        "general argument adjustment"
+      ],
+      [
+        "Premise 1 provides a sufficient assumption to the Argument. Please modify the Statements in the Argument until",
+        "general argument adjustment"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "Premise 2 provides a sufficient assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "altered logical necessity"
+      ],
+      "Outcome": [
+        "general argument adjustment changed"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 2 provides a sufficient assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 2 provides a sufficient assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "logical structure of argument",
+        "altered logical necessity"
+      ],
+      [
+        "validity of assumptions",
+        "altered logical necessity"
+      ],
+      [
+        "Premise 2 provides a sufficient assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "altered logical necessity"
+      ],
+      [
+        "altered logical necessity",
+        "general argument adjustment changed"
+      ],
+      [
+        "Premise 2 provides a sufficient assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "general argument adjustment changed"
+      ]
+    ]
+  },
+  {
+    "text": "In the following, you will see an argument and 2 premises, where Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until Premise 2 provides a necessary assumption to the Argument instead, while Premise 1 fails to provides a necessary assumption to the Argument. Note that no additional statement should be added. ",
+    "factual_roles": {
+      "Exposure": [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "logical necessity shift"
+      ],
+      "Outcome": [
+        "general argument adjustment"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "logical structure of argument",
+        "logical necessity shift"
+      ],
+      [
+        "validity of assumptions",
+        "logical necessity shift"
+      ],
+      [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until",
+        "logical necessity shift"
+      ],
+      [
+        "logical necessity shift",
+        "general argument adjustment"
+      ],
+      [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until",
+        "general argument adjustment"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "altered logical necessity"
+      ],
+      "Outcome": [
+        "general argument adjustment changed"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "logical structure of argument",
+        "altered logical necessity"
+      ],
+      [
+        "validity of assumptions",
+        "altered logical necessity"
+      ],
+      [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "altered logical necessity"
+      ],
+      [
+        "altered logical necessity",
+        "general argument adjustment changed"
+      ],
+      [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "general argument adjustment changed"
+      ]
+    ]
+  },
+  {
+    "text": "In the following, you will see an argument and 2 premises, where Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until Premise 2 provides a necessary assumption to the Argument instead, while Premise 1 fails to provides a necessary assumption to the Argument. Note that no additional statement should be added. ",
+    "factual_roles": {
+      "Exposure": [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "logical necessity shift"
+      ],
+      "Outcome": [
+        "general argument adjustment"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "logical structure of argument",
+        "logical necessity shift"
+      ],
+      [
+        "validity of assumptions",
+        "logical necessity shift"
+      ],
+      [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until",
+        "logical necessity shift"
+      ],
+      [
+        "logical necessity shift",
+        "general argument adjustment"
+      ],
+      [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until",
+        "general argument adjustment"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "altered logical necessity"
+      ],
+      "Outcome": [
+        "general argument adjustment changed"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "logical structure of argument",
+        "altered logical necessity"
+      ],
+      [
+        "validity of assumptions",
+        "altered logical necessity"
+      ],
+      [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "altered logical necessity"
+      ],
+      [
+        "altered logical necessity",
+        "general argument adjustment changed"
+      ],
+      [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "general argument adjustment changed"
+      ]
+    ]
+  },
+  {
+    "text": "In the following, you will see an argument and 2 premises, where Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until Premise 2 provides a necessary assumption to the Argument instead, while Premise 1 fails to provides a necessary assumption to the Argument. Note that no additional statement should be added. ",
+    "factual_roles": {
+      "Exposure": [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "logical necessity shift"
+      ],
+      "Outcome": [
+        "general argument adjustment"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "logical structure of argument",
+        "logical necessity shift"
+      ],
+      [
+        "validity of assumptions",
+        "logical necessity shift"
+      ],
+      [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until",
+        "logical necessity shift"
+      ],
+      [
+        "logical necessity shift",
+        "general argument adjustment"
+      ],
+      [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until",
+        "general argument adjustment"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "altered logical necessity"
+      ],
+      "Outcome": [
+        "general argument adjustment changed"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "logical structure of argument",
+        "altered logical necessity"
+      ],
+      [
+        "validity of assumptions",
+        "altered logical necessity"
+      ],
+      [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "altered logical necessity"
+      ],
+      [
+        "altered logical necessity",
+        "general argument adjustment changed"
+      ],
+      [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "general argument adjustment changed"
+      ]
+    ]
+  },
+  {
+    "text": "In the following, you will see an argument and 2 premises, where Premise 1 weakens the Argument. Please modify the Statements in the Argument until Premise 2 weakens the Argument instead, while Premise 1 fails to weakens the Argument. Note that no additional statement should be added. ",
+    "factual_roles": {
+      "Exposure": [
+        "Premise 1 weakens the Argument. Please modify the Statements in the Argument until"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "logical necessity shift"
+      ],
+      "Outcome": [
+        "general argument adjustment"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 1 weakens the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 1 weakens the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "logical structure of argument",
+        "logical necessity shift"
+      ],
+      [
+        "validity of assumptions",
+        "logical necessity shift"
+      ],
+      [
+        "Premise 1 weakens the Argument. Please modify the Statements in the Argument until",
+        "logical necessity shift"
+      ],
+      [
+        "logical necessity shift",
+        "general argument adjustment"
+      ],
+      [
+        "Premise 1 weakens the Argument. Please modify the Statements in the Argument until",
+        "general argument adjustment"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "Premise 2 weakens the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "altered logical necessity"
+      ],
+      "Outcome": [
+        "general argument adjustment changed"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 2 weakens the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 2 weakens the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "logical structure of argument",
+        "altered logical necessity"
+      ],
+      [
+        "validity of assumptions",
+        "altered logical necessity"
+      ],
+      [
+        "Premise 2 weakens the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "altered logical necessity"
+      ],
+      [
+        "altered logical necessity",
+        "general argument adjustment changed"
+      ],
+      [
+        "Premise 2 weakens the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "general argument adjustment changed"
+      ]
+    ]
+  },
+  {
+    "text": "In the following, you will see an argument and 2 premises, where Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until Premise 2 provides a necessary assumption to the Argument instead, while Premise 1 fails to provides a necessary assumption to the Argument. Note that no additional statement should be added. ",
+    "factual_roles": {
+      "Exposure": [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "logical necessity shift"
+      ],
+      "Outcome": [
+        "general argument adjustment"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until"
+      ],
+      [
+        "logical structure of argument",
+        "logical necessity shift"
+      ],
+      [
+        "validity of assumptions",
+        "logical necessity shift"
+      ],
+      [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until",
+        "logical necessity shift"
+      ],
+      [
+        "logical necessity shift",
+        "general argument adjustment"
+      ],
+      [
+        "Premise 1 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until",
+        "general argument adjustment"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      "Covariate": [
+        "logical structure of argument",
+        "validity of assumptions"
+      ],
+      "Mediator": [
+        "altered logical necessity"
+      ],
+      "Outcome": [
+        "general argument adjustment changed"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "logical structure of argument",
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "validity of assumptions",
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not"
+      ],
+      [
+        "logical structure of argument",
+        "altered logical necessity"
+      ],
+      [
+        "validity of assumptions",
+        "altered logical necessity"
+      ],
+      [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "altered logical necessity"
+      ],
+      [
+        "altered logical necessity",
+        "general argument adjustment changed"
+      ],
+      [
+        "Premise 2 provides a necessary assumption to the Argument. Please modify the Statements in the Argument until, Premise 1 does not",
+        "general argument adjustment changed"
+      ]
+    ]
+  }
+]
