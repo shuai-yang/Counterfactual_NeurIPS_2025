@@ -1,0 +1,1132 @@
+file_name,query,answer,new query,new answer,type
+COCO_val2014_000000000042.jpg,Is there a red sandal here?,yes,Would there be a red sandal here if all shoes were removed?,no,boolean
+COCO_val2014_000000000873.jpg,Is this a hospital?,no,Would this be a hospital if there were red crosses on the roof?,yes,boolean
+COCO_val2014_000000000074.jpg,Does this dog have a collar?,no,Would this dog have a collar if the dog had a rope around its neck?,no,boolean
+COCO_val2014_000000000192.jpg,Is the catcher wearing safety gear?,yes,Would the catcher be wearing safety gear if there were no helmets on their heads?,no,boolean
+COCO_val2014_000000000285.jpg,Is the bear sitting?,yes,Would the bear be sitting if it kept its hind legs upright?,no,boolean
+COCO_val2014_000000000400.jpg,Is there a dog?,yes,Would there be a dog if there were a cat on the blue deck?,yes,boolean
+COCO_val2014_000000000428.jpg,Is he going to need a bath soon?,yes,Would he need a bath soon if he were clean all over?,no,boolean
+COCO_val2014_000000000459.jpg,Is there a camera?,yes,Would there be a camera if the man dropped whatever was on his left hand?,no,boolean
+COCO_val2014_000000000474.jpg,Is there grass?,yes,Would there be grass if this place just burned down?,no,boolean
+COCO_val2014_000000000486.jpg,Are there bicycles?,no,Would there be bicycles if a man parked a bicycle here?,yes,boolean
+COCO_val2014_000000000520.jpg,Is this a high bridge?,no,Would this be a high bridge if the bottom of the bridge were 100 meters above the water?,yes,boolean
+COCO_val2014_000000000544.jpg,Is the catcher wearing blue?,no,Would the catcher be wearing blue if all players were wearing red?,no,boolean
+COCO_val2014_000000000636.jpg,Is the lid up?,yes,Would the lid be up if the lid had been closed?,no,boolean
+COCO_val2014_000000000661.jpg,There a person holding the sandwich?,no,Would there be a person holding the sandwich if a man were to grab this bag?,yes,boolean
+COCO_val2014_000000000675.jpg,Is the light on?,yes,Would the light be on if a man pressed the light switch?,no,boolean
+COCO_val2014_000000000692.jpg,Is the baby wearing stripes?,yes,Would the baby be wearing stripes if the baby were wearing the same clothes as his mother?,no,boolean
+COCO_val2014_000000000711.jpg,Is the remote control on the table?,yes,Would the remote control be on the table if someone moved it to the sofa?,no,boolean
+COCO_val2014_000000000724.jpg,Are there clouds?,yes,Would there be clouds if the sky were pure blue?,no,boolean
+COCO_val2014_000000000757.jpg,Are the animals in the wild?,yes,Would the animals be in the wild if there were no water?,yes,boolean
+COCO_val2014_000000000772.jpg,Are the sheep eating grass?,no,Would the sheep be eating grass if we could see grass on the sheep's mouths?,yes,boolean
+COCO_val2014_000000000785.jpg,Are the goggles covering her eyes?,yes,Would the goggles be covering her eyes if she took off the glasses?,no,boolean
+COCO_val2014_000000000873.jpg,Is this a hospital?,no,Would this be a hospital if there were red crosses on the roof?,yes,boolean
+COCO_val2014_000000000969.jpg,Are both men bending down?,no,Would both men be bending down if the boy were bending down?,yes,boolean
+COCO_val2014_000000001029.jpg,Are there clouds?,yes,Would there be clouds if there were no planes?,yes,boolean
+COCO_val2014_000000001064.jpg,Is the toast burned on the edges?,yes,Would the toast be burned on the edges if there were no black on the edge of the toast?,no,boolean
+COCO_val2014_000000001083.jpg,Are these cows suffering?,no,Would these cows be suffering if they were seriously ill?,yes,boolean
+COCO_val2014_000000001103.jpg,Is this a color photograph?,no,Would this be a color photograph if the sea on it were blue and the sand on it were golden?,yes,boolean
+COCO_val2014_000000001146.jpg,Does he have on the appropriate shirt to wear with a tie?,yes,Would he have on the appropriate shirt to wear with a tie if his clothes were fancy?,no,boolean
+COCO_val2014_000000001153.jpg,Have these bananas been peeled?,no,Would these bananas have been peeled if we could only see the pulp and not see the peel?,yes,boolean
+COCO_val2014_000000001205.jpg,Is the light on?,yes,Would the light be on if it were not glowing?,no,boolean
+COCO_val2014_000000001270.jpg,Are the spectators bored?,yes,Would the spectators be bored if they were concentrating on the game?,no,boolean
+COCO_val2014_000000001340.jpg,Are these flowers artificial?,yes,Would these flowers be artificial if these flowers wouldn't die without water?,no,boolean
+COCO_val2014_000000001342.jpg,Are any of these items edible?,no,Would any of these items be edible if there were bananas and apples?,yes,boolean
+COCO_val2014_000000001369.jpg,Is this man in the ocean?,yes,"Would this man be in the ocean if this were a desert, not a beach?",no,boolean
+COCO_val2014_000000001404.jpg,Is the child dressed for warm weather?,yes,Would the child be dressed for warm weather if he were also wearing a padded jacket?,no,boolean
+COCO_val2014_000000001425.jpg,Is there color in this picture?,no,Would there be color in this picture if the food were eaten?,no,boolean
+COCO_val2014_000000001436.jpg,Is the man wearing glasses?,yes,Would the man be wearing glasses if he had taken off his glasses?,no,boolean
+COCO_val2014_000000001448.jpg,Is the giraffe shown here standing erect?,no,Would the giraffe shown here be standing erect if the giraffe straightened its limbs and raised its head?,yes,boolean
+COCO_val2014_000000001554.jpg,Are these sheep shaved?,yes,Would these sheep be shaved if they were covered in hair?,no,boolean
+COCO_val2014_000000001563.jpg,Is this skier a female?,yes,Would this skier be a female if the skier had a man's face and Adam's apple?,no,boolean
+COCO_val2014_000000001577.jpg,Are the vases full of water?,yes,Would the vases be full of water if the vase toppled over?,no,boolean
+COCO_val2014_000000001584.jpg,Is this bus more than one color?,no,Would this bus be more than one color if the second story of the bus were painted blue?,yes,boolean
+COCO_val2014_000000001592.jpg,Is this female an adult?,no,Would this female be an adult if she were mature?,yes,boolean
+COCO_val2014_000000001700.jpg,Is this snowboarder in the air?,no,Would this snowboarder be in the air if he jumped up?,yes,boolean
+COCO_val2014_000000001841.jpg,Is the girl wearing a tied?,yes,Would the girl be wearing a tie if there were something around her neck?,no,boolean
+COCO_val2014_000000001856.jpg,Will he wipe out?,no,Would he wipe out if his feet left the surfboard?,yes,boolean
+COCO_val2014_000000002139.jpg,Is the bicycle upright?,yes,Would the bicycle be upright if it were not pushed over?,no,boolean
+COCO_val2014_000000002142.jpg,Is there a lot of pigeons in this picture?,yes,Would there be a lot of pigeons in this picture if all the pigeons had not flown away?,no,boolean
+COCO_val2014_000000002149.jpg,Is there three oranges in this picture?,no,Would there be three oranges in this picture if all the apples were not red?,yes,boolean
+COCO_val2014_000000002154.jpg,Is the shopping cart parked in a corral?,no,Would the shopping cart be parked in a corral if there weren't many other shopping carts here?,yes,boolean
+COCO_val2014_000000002164.jpg,Are there any stones on the grass?,no,Would there be any stones on the grass if there were not a stone beside each sheep?,yes,boolean
+COCO_val2014_000000002225.jpg,Does this doughnut have cherry frosting?,no,Would this doughnut have cherry frosting if it were not embellished with pink?,yes,boolean
+COCO_val2014_000000002240.jpg,Are the dolls weird?,yes,Would the dolls be weird if the bear were not removed?,no,boolean
+COCO_val2014_000000002255.jpg,Are there two elephants?,no,Would there be two elephants if another baby elephant did not come?,yes,boolean
+COCO_val2014_000000002290.jpg,Does this ship have sails?,yes,Would this ship have sails if there were no masts on the ship?,no,boolean
+COCO_val2014_000000002295.jpg,Is the cat sleeping?,no,Would the cat be sleeping if the cat were on its stomach and its eyes were not closed?,yes,boolean
+COCO_val2014_000000002302.jpg,Is the lead person wearing a blue cap?,yes,Would the lead person be wearing a blue cap if all the people did not take off their caps?,no,boolean
+COCO_val2014_000000002346.jpg,Are the flowers larger than the coin?,no,Would the flowers be larger than the coin if the coin were not the same size as a flower petal?,yes,boolean
+COCO_val2014_000000002431.jpg,Is the wine in the glass white?,no,Would the wine in the glass be white if it had been drunk out?,no,boolean
+COCO_val2014_000000002434.jpg,Are the computers on?,yes,Would the computers on if they had run down?,no,boolean
+COCO_val2014_000000002453.jpg,Are there any boats on the water?,yes,Would there be any boats on the water if the boats had sailed away?,no,boolean
+COCO_val2014_000000002495.jpg,Is this toilet clean?,no,Would this toilet be clean if it were not neat and bright?,yes,boolean
+COCO_val2014_000000002521.jpg,Is the building yellow?,no,Would the building be yellow if it were painted blue?,no,boolean
+COCO_val2014_000000002529.jpg,Is the ground cold?,no,Would the ground be cold if it were not covered with shadows?,yes,boolean
+COCO_val2014_000000002759.jpg,Does that spoon appear tarnished?,yes,Would that spoon appear tarnished if it were replaced by a brand new one?,no,boolean
+COCO_val2014_000000002839.jpg,Is the child looking to the left?,no,Would the child be looking to the left if he did not turn his head to the left?,yes,boolean
+COCO_val2014_000000002867.jpg,Are they wearing backpacks?,yes,Would they be wearing backpacks if there was nothing on their backs?,no,boolean
+COCO_val2014_000000002985.jpg,Is the road paved?,yes,Would the road be paved if it were bumpy and the cement were not dry yet?,no,boolean
+COCO_val2014_000000002988.jpg,Is the cat sleeping on a blue chair?,yes,Would the cat be sleeping on a blue chair if the cat were not standing?,no,boolean
+COCO_val2014_000000003035.jpg,Is the plane flying?,no,Would the plane be flying if it were not in the air but not on the ground?,yes,boolean
+COCO_val2014_000000003134.jpg,Is the sign on the bus in English?,yes,Would the sign on the bus be in English if we could see Chinese on it?,no,boolean
+COCO_val2014_000000003217.jpg,Is there a pathway?,yes,Would there be a pathway if the place were not overgrown with thorns?,no,boolean
+COCO_val2014_000000003425.jpg,Is the curtain a floral pattern?,no,Would the curtain be a floral pattern if there were no violets on it?,yes,boolean
+COCO_val2014_000000003488.jpg,Is this man wearing a team uniform?,yes,Would this man be wearing a team uniform if there were no numbers on his clothes?,no,boolean
+COCO_val2014_000000003501.jpg,Is there meat in this dish?,no,Would there be meat in this dish if the broccoli were not replaced by beef?,yes,boolean
+COCO_val2014_000000003661.jpg,Do these look fresh?,yes,Would these look fresh if the bananas were covered with black spots?,no,boolean
+COCO_val2014_000000003693.jpg,Is there graffiti on the wall?,yes,Would there be graffiti on the wall if the wall were pure white?,no,boolean
+COCO_val2014_000000003716.jpg,Is the woman happy?,no,Would the woman be happy if there were no smile on her face?,yes,boolean
+COCO_val2014_000000003761.jpg,Is this horse too close?,yes,Would this horse be too close if the person were fifty meters away?,no,boolean
+COCO_val2014_000000003786.jpg,Is this woman wearing shoes?,yes,Would this woman be wearing shoes if she had her bare feet not on the ground?,no,boolean
+COCO_val2014_000000003817.jpg,Are the bananas ripe?,no,Would the bananas be ripe if they were not yellow?,yes,boolean
+COCO_val2014_000000003832.jpg,Does the water look clear?,yes,Would the water look clear if there were not much rubbish floating on it and it were dark?,no,boolean
+COCO_val2014_000000003939.jpg,Are the kids under 3 years old?,yes,Would the kids be under 3 years old if two more years had passed?,no,boolean
+COCO_val2014_000000004243.jpg,Can that boy carry all the luggage?,no,Can that boy carry all the luggage if only one trunk is shown?,yes,boolean
+COCO_val2014_000000004396.jpg,Is the bear wearing shoes?,no,Would the bear be wearing shoes if it had red shoes on its feet?,yes,boolean
+COCO_val2014_000000004438.jpg,Is he inside?,no,Would he be inside if in the background there were walls and furniture?,yes,boolean
+COCO_val2014_000000004749.jpg,Are the bananas ripe?,yes,Would the bananas be ripe if they had the same color as the bowl?,no,boolean
+COCO_val2014_000000004760.jpg,Are the benches empty?,yes,Would the benches be empty if two dogs jumped on the bench?,no,boolean
+COCO_val2014_000000004795.jpg,Is there a laptop in this picture?,yes,Would there be a laptop in this picture if the white laptop were removed?,no,boolean
+COCO_val2014_000000005154.jpg,Are there lamps in this room?,no,Would there be lamps in this room if there were ceiling lamps here?,yes,boolean
+COCO_val2014_000000005193.jpg,Can you see the faces of the children?,yes,Could you see the faces of the children if all children turned back?,no,boolean
+COCO_val2014_000000005225.jpg,Is there a teddy bear by the baby?,yes,Would there be a teddy bear by the baby if all toys were removed?,no,boolean
+COCO_val2014_000000005278.jpg,Is there a train?,yes,Would there be a train if the current train had left the station and the next train hadn't arrived yet?,no,boolean
+COCO_val2014_000000005385.jpg,Is the pitcher visible?,no,Would the pitcher be visible if we turned left?,yes,boolean
+COCO_val2014_000000005412.jpg,Is there a QR image?,no,Would there be a QR image if the walls were pure black?,yes,boolean
+COCO_val2014_000000005418.jpg,Does this look like the giraffes natural habitat?,yes,Would this look like the giraffes' natural habitat if this place were urban rather than wild?,no,boolean
+COCO_val2014_000000005503.jpg,Has someone used the toilet?,yes,Would someone have used the toilet if the person had left here?,no,boolean
+COCO_val2014_000000005644.jpg,Is the athlete wearing safety gear?,no,Would the athlete be wearing safety gear if he were wearing knee pads and a helmet?,yes,boolean
+COCO_val2014_000000005690.jpg,Are there clouds in the sky?,no,Would there be any clouds in the sky if it were going to rain?,yes,boolean
+COCO_val2014_000000005724.jpg,Is this a vegetarian meal?,no,Would this be a vegetarian meal if there were only vegetables and no meat?,yes,boolean
+COCO_val2014_000000005804.jpg,Is the chair and the stand made out of the same material?,yes,Would the chair and the stand be made out of the same material if the chair were replaced by a wooden one?,no,boolean
+COCO_val2014_000000005860.jpg,Has this Pepsi been drunk from yet?,yes,Had this Pepsi been drunk from yet if the glass was filled with coke?,no,boolean
+COCO_val2014_000000005879.jpg,Are the bikers police officers?,yes,Would these bikers be police officers if they were dressed casually?,no,boolean
+COCO_val2014_000000006005.jpg,Are there any baby giraffes?,yes,Would there be any baby giraffes if all the giraffes were very tall?,no,boolean
+COCO_val2014_000000006040.jpg,Is that a yellow train?,no,Would that be a yellow train if the train were painted yellow?,yes,boolean
+COCO_val2014_000000006213.jpg,Does the light on the left have a bulb missing?,no,Would the light on the left have a bulb missing if the leftmost bulb were removed?,yes,boolean
+COCO_val2014_000000006226.jpg,Is the train moving?,yes,Would the train be moving if someone were getting on the train?,no,boolean
+COCO_val2014_000000006306.jpg,Is the beach crowded?,no,Would the beach be crowded if this place were full of people?,yes,boolean
+COCO_val2014_000000006450.jpg,Is the zebra tired?,yes,Would the zebra be tired if it were running?,no,boolean
+COCO_val2014_000000006471.jpg,Is the team celebrating?,no,Would the team be celebrating if they were cheering and hugging?,yes,boolean
+COCO_val2014_000000006688.jpg,Are the animals eating?,yes,Would the animals be eating if all the zebras were running?,no,boolean
+COCO_val2014_000000006723.jpg,Is the sky blue?,yes,Would the sky be blue if it were raining heavily?,no,boolean
+COCO_val2014_000000006763.jpg,Is he holding a phone?,yes,Would he be holding a phone if the man had nothing in his right hand?,no,boolean
+COCO_val2014_000000006783.jpg,Is this a water sport?,yes,Would this be a water sport if the man were skiing in the snow mountains?,no,boolean
+COCO_val2014_000000006861.jpg,Is the grout clean?,yes,Would the grout be clean if hair and scraps of paper were everywhere?,no,boolean
+COCO_val2014_000000007023.jpg,Is this an outdoor court?,yes,Would this be an outdoor court if the court were surrounded by walls and there was a roof over here?,no,boolean
+COCO_val2014_000000007125.jpg,Is it night time?,no,Would it be night time if the sky were darkening?,yes,boolean
+COCO_val2014_000000007241.jpg,Is this a doughnuts?,yes,Would this be doughnuts if the bottle were removed?,yes,boolean
+COCO_val2014_000000007253.jpg,Would this color of paint be considered pastel?,yes,Would this color of paint be considered pastel if the motorcycle's paint were light blue?,yes,boolean
+COCO_val2014_000000007288.jpg,Is this a high tech toilet?,yes,Would this be a high tech toilet if there weren't any buttons?,no,boolean
+COCO_val2014_000000008128.jpg,Is the sky dark and overcast?,no,Would the sky be dark and overcast if it were going to rain?,yes,boolean
+COCO_val2014_000000008181.jpg,Are there clouds in the sky?,yes,Would there be clouds in the sky if it were raining?,yes,boolean
+COCO_val2014_000000008351.jpg,Is there frost on the ground?,yes,Were there frost on the ground if it were hot summer?,no,boolean
+COCO_val2014_000000008457.jpg,Do these animals look skinny?,yes,Would these animals look skinny if they were well nourished?,no,boolean
+COCO_val2014_000000008495.jpg,Can you see the man's eyes through his goggles?,yes,Would you see the man's eyes through his goggles if the goggles were opaque?,no,boolean
+COCO_val2014_000000008690.jpg,Are there two black goats?,no,Would there be two black goats if all goats were black?,yes,boolean
+COCO_val2014_000000008721.jpg,Is the laptop on?,no,Would the laptop be on if all screens were on?,yes,boolean
+COCO_val2014_000000009186.jpg,Are the vases milk glass?,yes,Would the vases be milk glass if their color were red?,no,boolean
+COCO_val2014_000000009236.jpg,Are there lights on behind the door?,no,Would the lights be on behind the door if all lights were turned on?,yes,boolean
+COCO_val2014_000000009262.jpg,Is this a shop?,yes,Would this be a shop if the shelf were removed?,no,boolean
+COCO_val2014_000000009379.jpg,Is there a dog in the picture?,no,Would there be a dog in the picture if a woman with her dog did not come?,yes,boolean
+COCO_val2014_000000009426.jpg,Is the airplane flying?,yes,Would the airplane be flying if it were stopped on the ground?,no,boolean
+COCO_val2014_000000009448.jpg,Is this girl eating a cookie?,yes,Would this girl be eating a cookie if there were nothing on her hands?,no,boolean
+COCO_val2014_000000009699.jpg,Do you see Alaskan Airlines?,no,Would you see Alaskan Airlines if the words on the plane said 'Alaskan'?,yes,boolean
+COCO_val2014_000000010104.jpg,Has it been raining?,yes,Would it have been raining if the ground were dry?,no,boolean
+COCO_val2014_000000010114.jpg,Is this an electric stove?,no,Would this be an electric stove if a gas stove were put here?,yes,boolean
+COCO_val2014_000000010138.jpg,Does the cake have icing on it?,no,Would the cake have icing on it if a layer of icing were on the cake?,yes,boolean
+COCO_val2014_000000010217.jpg,Are all the bags made from the same material?,yes,Would all the bags be made from the same material if another cloth bag were here?,no,boolean
+COCO_val2014_000000010219.jpg,Is this dog solid white?,yes,Would this dog be solid white if there were black dots on its body?,no,boolean
+COCO_val2014_000000010463.jpg,Is there a guy in view?,no,Would there be a guy in view if a man were sitting on the bench?,yes,boolean
+COCO_val2014_000000010580.jpg,Are these animals all the same species?,yes,Would these animals all be the same species if another zebra came?,no,boolean
+COCO_val2014_000000010643.jpg,Is the water running?,no,Would the water be running if the tap were running?,yes,boolean
+COCO_val2014_000000010693.jpg,Is the car lights on?,no,Would the car lights be on if the car had its high beams on?,yes,boolean
+COCO_val2014_000000010766.jpg,Does the girl have bangs?,yes,Would the girl have bangs if she had no hair?,no,boolean
+COCO_val2014_000000010822.jpg,Are the zebras all facing in the same direction?,yes,Would the zebras all be facing in the same direction if the left zebra turned back?,no,boolean
+COCO_val2014_000000010935.jpg,Are these elephants drinking?,yes,Would these elephants be drinking if there were no water here?,no,boolean
+COCO_val2014_000000010986.jpg,Does a person have a tattoo?,yes,Would the person have a tattoo if the person in white left?,no,boolean
+COCO_val2014_000000010995.jpg,Is there a chair in this picture?,no,Would there be a chair in this picture if the bed were replaced by a chair?,yes,boolean
+COCO_val2014_000000011042.jpg,Is the plate made of paper?,yes,Would the plate be made of paper if the pizza on the plate were eaten?,yes,boolean
+COCO_val2014_000000011051.jpg,Are these two headed to prom?,yes,Would these two be headed to prom if they were wearing casual clothes?,no,boolean
+COCO_val2014_000000011099.jpg,Are these people on their devices all day?,yes,Would these people be on their devices all day if they had books in their hands?,no,boolean
+COCO_val2014_000000011184.jpg,Are there two keyboards?,no,Would there be two keyboards if another keyboard was put on the table?,yes,boolean
+COCO_val2014_000000011197.jpg,Is it safe to cross the road?,yes,Would it be safe to cross the road if the traffic light were red and cars were running?,no,boolean
+COCO_val2014_000000011202.jpg,Is the giraffe sleeping?,no,Would the giraffe be sleeping if it were lying down with its eyes closed?,yes,boolean
+COCO_val2014_000000011364.jpg,Do the trees have leaf's on them?,yes,Would the trees have leaves on them if all the leaves fell off?,no,boolean
+COCO_val2014_000000011727.jpg,Is there a sink in this room?,yes,Would there be a sink in this room if it were a bedroom?,no,boolean
+COCO_val2014_000000011796.jpg,Is this child old enough to write?,no,Would this child be old enough to write if she were a ten-year-old girl?,yes,boolean
+COCO_val2014_000000012020.jpg,Is the skateboarder completely airborne?,no,Would the skateboarder be completely airborne if his right leg were in the air?,yes,boolean
+COCO_val2014_000000012085.jpg,Do all the pillows have the same design on them?,no,Would all the pillows have the same design on them if the yellow pillows were removed from here?,yes,boolean
+COCO_val2014_000000012147.jpg,Is there a chair in the corner?,yes,Would there be a chair in the corner if the chair were removed?,no,boolean
+COCO_val2014_000000012231.jpg,Are there more than 10 pieces of broccoli?,no,Would there be more than 10 pieces of broccoli if 8 other pieces of broccoli were here?,yes,boolean
+COCO_val2014_000000012236.jpg,Is this place crowded?,yes,Would this place be crowded if few people were shown?,no,boolean
+COCO_val2014_000000012370.jpg,Is anyone riding this motorcycle?,yes,Would anyone be riding this motorcycle if there were no people here?,no,boolean
+COCO_val2014_000000012448.jpg,Is the baby bald?,no,Would the baby be bald if there were no hairs on its head?,yes,boolean
+COCO_val2014_000000012754.jpg,Is there a plaid scarf?,yes,Would there be a plaid scarf if the man left here?,no,boolean
+COCO_val2014_000000012764.jpg,Are the cat and dog interacting?,no,Would the cat and dog be interacting if the cat were on the back of the dog?,yes,boolean
+COCO_val2014_000000012817.jpg,Is he wearing jeans?,yes,Would he be wearing jeans if he put on shorts?,no,boolean
+COCO_val2014_000000012887.jpg,Is there a piano in this room?,yes,Would there be a piano in this room if musical instruments were moved out from the room?,no,boolean
+COCO_val2014_000000012896.jpg,Is there a vehicle in this picture?,yes,Would there be a vehicle in this picture if the man rode away on the bike?,no,boolean
+COCO_val2014_000000012959.jpg,Is the sun out?,no,Would the sun be out if there were no clouds?,yes,boolean
+COCO_val2014_000000013061.jpg,Are all these remotes facing the same way?,yes,Would all these remotes be facing the same way if a boy turned a remote 90 degrees?,no,boolean
+COCO_val2014_000000013127.jpg,Is the moon showing in the sky?,no,Would the moon be showing in the sky if it were night and there were no clouds?,yes,boolean
+COCO_val2014_000000013175.jpg,Is the man on a skateboard?,yes,Would the man be on a skateboard if he were standing on the ground?,no,boolean
+COCO_val2014_000000013300.jpg,Is it nighttime?,no,Would it be nighttime if it were very dark and there was a moon in the sky?,yes,boolean
+COCO_val2014_000000014723.jpg,Is the man in the air?,yes,Would the man be in the air if he were lying on the ground?,no,boolean
+COCO_val2014_000000014773.jpg,Is there a hotdog on this car?,yes,Would there be a hotdog on this car if all the food were removed from here?,no,boolean
+COCO_val2014_000000014781.jpg,Does the bathroom look occupied?,no,Would the bathroom look occupied if a boy came in?,yes,boolean
+COCO_val2014_000000014821.jpg,Does the chair look velvety soft?,yes,Would the chair look velvety soft if it were made of wood?,no,boolean
+COCO_val2014_000000014831.jpg,Is the animal shedding?,no,Would the animal be shedding if there were a lot of hair on the bed?,yes,boolean
+COCO_val2014_000000014874.jpg,Are the people looking at the sky?,no,Would the people be looking at the sky if the man looked up?,yes,boolean
+COCO_val2014_000000015070.jpg,Is it winter?,yes,Would it be winter if there were green grass instead of snow on the ground?,no,boolean
+COCO_val2014_000000015074.jpg,Is there a game console in the picture?,no,Would there be a game console in the picture if the computers were replaced by a game console?,yes,boolean
+COCO_val2014_000000015079.jpg,Is the sandwich cut?,yes,Would the sandwich be cut if there were no knife?,yes,boolean
+COCO_val2014_000000015085.jpg,Are the trees behind the giraffe?,yes,Would the trees be behind the giraffe if the giraffe turned back?,no,boolean
+COCO_val2014_000000015709.jpg,Is this an airport?,yes,Would this be an airport if there were cars instead of planes?,no,boolean
+COCO_val2014_000000015738.jpg,Is he playing baseball?,no,Would he be playing baseball if he were holding a baseball bat?,yes,boolean
+COCO_val2014_000000016327.jpg,Are these people at a beach?,yes,Would these people be at a beach if they were wearing thick padded jackets?,no,boolean
+COCO_val2014_000000016356.jpg,Are they both wearing hats?,no,Would they both be wearing hats if the boy were wearing a cap?,yes,boolean
+COCO_val2014_000000016377.jpg,Is this outdoor?,yes,Would this be outdoors if it were cloudy?,yes,boolean
+COCO_val2014_000000016410.jpg,Is ice in the vase?,yes,Would there be ice in the vase if the vase were empty?,no,boolean
+COCO_val2014_000000016439.jpg,Is the glass full?,yes,Would the glass be full if the drink were consumed?,no,boolean
+COCO_val2014_000000016523.jpg,Is there trash on the floor?,no,Would there be trash on the floor if there were waste paper on the floor?,yes,boolean
+COCO_val2014_000000016593.jpg,Is the man on the far right wearing glasses?,no,Would the man on the far right be wearing glasses if all men were wearing glasses?,yes,boolean
+COCO_val2014_000000016897.jpg,Are all the individuals using electronic devices?,yes,Would all the individuals be using electronic devices if the leftmost man were reading books?,no,boolean
+COCO_val2014_000000016931.jpg,Is this photo taken in the wintertime?,yes,Would this photo have been taken in the wintertime if there were no snow here and the trees were flourishing?,no,boolean
+COCO_val2014_000000016958.jpg,Is this a bathtub?,no,Would this be a bathtub if this were a bathroom with a bathtub?,yes,boolean
+COCO_val2014_000000017029.jpg,Is this a poodle?,no,Would this be a poodle if the dog went away and a poodle came?,yes,boolean
+COCO_val2014_000000017089.jpg,Do these animals have stripes on them?,yes,Would these animals have stripes on them if there were no zebras and many giraffes?,no,boolean
+COCO_val2014_000000017095.jpg,Is this woman doing something active?,no,Would this woman be doing something active if she were dancing?,yes,boolean
+COCO_val2014_000000022236.jpg,Is it nighttime?,no,Would it be nighttime if the sky were dark and there were a moon in the sky?,yes,boolean
+COCO_val2014_000000022498.jpg,Is the man holding a sail?,yes,Would the man be holding a sail if he had pulp on his hands?,no,boolean
+COCO_val2014_000000022628.jpg,Is the beach crowded?,no,Would the beach be crowded if thousands of people were here?,yes,boolean
+COCO_val2014_000000022929.jpg,Is the bear bigger than the baby?,yes,Would the bear be bigger than the baby if the bear were half the size?,no,boolean
+COCO_val2014_000000023359.jpg,Is the man touching the ground?,no,Would the man be touching the ground if he were standing on the ground?,yes,boolean
+COCO_val2014_000000023587.jpg,Is the boy playing tee ball?,yes,Would the boy be playing tee ball if there were nothing on his hands?,no,boolean
+COCO_val2014_000000035076.jpg,Is the ground wet?,no,Would the ground be wet if it had just rained?,yes,boolean
+COCO_val2014_000000044003.jpg,Is the sky clear?,yes,Would the sky be clear if it were cloudy?,no,boolean
+COCO_val2014_000000044250.jpg,Is this polar bear looking for fish?,yes,Would this polar bear be looking for fish if the bear were sleeping?,no,boolean
+COCO_val2014_000000044877.jpg,Is the woman using wheelchair?,yes,Would the woman be using the wheelchair if she were running?,no,boolean
+COCO_val2014_000000046432.jpg,Do the mountains have snow on them?,no,Would the mountains have snow on them if they were covered with snow?,yes,boolean
+COCO_val2014_000000057006.jpg,Are there any cars visible in this photo?,yes,Would any cars be visible in this photo?,yes,boolean
+COCO_val2014_000000065948.jpg,Are there many people in the room?,no,Would many people be in the room if there were no empty chairs?,yes,boolean
+COCO_val2014_000000066263.jpg,Are there any cars on the road?,no,Would any cars be on the road if a trunk were shown?,yes,boolean
+COCO_val2014_000000067131.jpg,Are these old cars?,yes,Would these be old cars if they were brand new?,no,boolean
+COCO_val2014_000000067431.jpg,Does Em have some connection with the medical field?,yes,"Would Em have any connection with the medical field if there were no Band-aids, needles, and pills?",no,boolean
+COCO_val2014_000000067569.jpg,Is the plane flying?,no,Would the plane be flying if it were in the air?,yes,boolean
+COCO_val2014_000000068059.jpg,Are any of the fruit shiny?,yes,Would any of the fruits be shiny if there were no light here?,no,boolean
+COCO_val2014_000000088517.jpg,Is there a sun on the signs?,yes,Would there be a sun on the signs if no light shone on the sign?,no,boolean
+COCO_val2014_000000088695.jpg,Does this man look happy?,yes,Would this man look happy if he were crying instead of smiling?,no,boolean
+COCO_val2014_000000091754.jpg,Do you see any water?,no,Would you see any water if there were a river here?,yes,boolean
+COCO_val2014_000000091766.jpg,Are there fruits and vegetables shown?,yes,Would there be fruits and vegetables shown here if there were only meats here?,no,boolean
+COCO_val2014_000000109888.jpg,Is there a hill behind the animal?,yes,Would there be a hill behind the animal if there were no hills here?,no,boolean
+COCO_val2014_000000110784.jpg,Is the road not very wide?,no,Would the road not be very wide if it could only accommodate one car?,yes,boolean
+COCO_val2014_000000111031.jpg,Are the people having fun?,yes,Would the people be having fun if they were sad?,no,boolean
+COCO_val2014_000000111609.jpg,Is the man sleeping?,yes,Would the man be sleeping if he were playing mobile games?,no,boolean
+COCO_val2014_000000111864.jpg,Is anyone wearing a tie?,yes,Would anyone be wearing a tie if the left man took off his tie?,no,boolean
+COCO_val2014_000000122777.jpg,Is there a cell phone?,no,Would there be a cell phone if one of the computers were replaced by a smartphone?,yes,boolean
+COCO_val2014_000000131089.jpg,Did the batter hit the ball?,yes,Did the batter hit the ball if he missed the ball?,no,boolean
+COCO_val2014_000000131171.jpg,Is this bread?,yes,Would this be bread if the box on the right were moved away?,no,boolean
+COCO_val2014_000000131418.jpg,Is this a color photograph?,no,Would this be a colored photograph if it showed bright colors?,yes,boolean
+COCO_val2014_000000131497.jpg,Is the dog's collar red?,no,Would the dog's collar be red if the owner replaced the collar with a red one?,yes,boolean
+COCO_val2014_000000131539.jpg,Are they doing the same sport?,yes,Would they be doing the same sport if one of them were swimming?,no,boolean
+COCO_val2014_000000131556.jpg,Is the skier wearing goggles?,yes,Would the skier be wearing goggles if the person were not wearing them?,no,boolean
+COCO_val2014_000000131581.jpg,Is there any people riding the bikes?,yes,Would there be people riding the bikes if no one were sitting on the bike?,no,boolean
+COCO_val2014_000000131611.jpg,Does this animal have claws?,no,Would this animal have claws if the animals were cats?,yes,boolean
+COCO_val2014_000000131743.jpg,Does a woman have her hand in her pocket?,no,Would the woman have her hand in her pocket if all the people had their hands in their pockets?,yes,boolean
+COCO_val2014_000000000472.jpg,Is that an airplane in the image?,yes,Would that be an airplane in the image if all aircraft were removed from the frame?,no,boolean
+COCO_val2014_000000000564.jpg,Is the man running?,yes,Would the man be running if he were standing still?,no,boolean
+COCO_val2014_000000000626.jpg,Is there a balcony under the clock?,yes,Would there be a balcony under the clock if the balcony was removed?,no,boolean
+COCO_val2014_000000000699.jpg,Are there any people?,no,Would there be people if two boys were added to the scene?,yes,boolean
+COCO_val2014_000000001063.jpg,Is the giraffe taller than trees?,no,Would the giraffe be taller than trees if trees were smaller?,yes,boolean
+COCO_val2014_000000001138.jpg,Is this an indoor scene?,yes,Would this scene be indoor if it was moved outside?,no,boolean
+COCO_val2014_000000001347.jpg,Is there  cup of tea?,yes,Would there be a cup of tea if all the tea was drunk?,no,boolean
+COCO_val2014_000000001353.jpg,Are the kids teens?,no,Would the kids be teens if they grew up?,yes,boolean
+COCO_val2014_000000002299.jpg,Is this a school picture?,yes,Would this be a school picture if the picture was taken at the park?,no,boolean
+COCO_val2014_000000002532.jpg,Is the skier going downhill?,no,Would the skier be going downhill if the hill was sloping downwards?,yes,boolean
+COCO_val2014_000000002562.jpg,Are all the men tennis players?,yes,Would all the men be tennis players if some of them were golf players?,no,boolean
+COCO_val2014_000000003694.jpg,Is this a professional skater?,no,Would this person be a professional skater if he had been practicing skating?,yes,boolean
+COCO_val2014_000000003837.jpg,Are the surfboards floating?,no,Would the surfboards be floating if they were in the water?,yes,boolean
+COCO_val2014_000000003845.jpg,Was this stir fried?,yes,"Would this dish be considered ""stir fried"" if it was cooked at a low temperature?",no,boolean
+COCO_val2014_000000003865.jpg,Is the sun rising?,no,Would the sun have already risen if it was evening?,yes,boolean
+COCO_val2014_000000004079.jpg,Is this a faucet?,no,Would this object have running water if it was a sink?,yes,boolean
+COCO_val2014_000000004175.jpg,Is this being broadcasted?,yes,Would this program still be broadcasted if it was cancelled?,no,boolean
+COCO_val2014_000000004246.jpg,Are those boys brothers?,yes,"If one of those boys was a girl, would they still be brothers?",no,boolean
+COCO_val2014_000000004395.jpg,Does the man have a beard?,no,"If the man let his beard grow, would he have a beard now?",yes,boolean
+COCO_val2014_000000004764.jpg,Can people use these bike?,yes,"If those bikes were broken, could people use them?",no,boolean
+COCO_val2014_000000005032.jpg,Is there snow on trees?,yes,"If it was summer, would there be snow on trees?",no,boolean
+COCO_val2014_000000005076.jpg,Is the sun in the picture?,no,"If the sun was in front of the camera, would it be in the picture?",yes,boolean
+COCO_val2014_000000005529.jpg,Are the trees covered with snow?,yes,Would the trees be covered in snow if it all melted?,no,boolean
+COCO_val2014_000000005673.jpg,Is the man wearing glasses?,yes,Would the man be wearing glasses if he took off his glasses?,no,boolean
+COCO_val2014_000000005706.jpg,Are the waves breaking?,yes,Would the waves be breaking if the ocean was calm?,no,boolean
+COCO_val2014_000000005754.jpg,Do both pastries have chocolate on them?,no,Would both pastries have chocolate on them if chocolate was added to them equally?,yes,boolean
+COCO_val2014_000000006019.jpg,Is someone riding the bike?,no,Would someone be riding the bike if they got on it?,yes,boolean
+COCO_val2014_000000006180.jpg,Is the train moving?,yes,Would the train be moving if the engine was stopped?,no,boolean
+COCO_val2014_000000006189.jpg,Does the guy wear glasses?,yes,Would the guy be wearing glasses if he took them off?,no,boolean
+COCO_val2014_000000006810.jpg,Is the clock above the roof?,no,Would the clock be above the roof if it was lifted onto the roof?,yes,boolean
+COCO_val2014_000000007050.jpg,Does the woman in the front look happy?,yes,Would the woman in the front look happy if something unpleasant happened to her?,no,boolean
+COCO_val2014_000000007386.jpg,Is the garage door open?,yes,Would the garage door be closed if someone closed it?,yes,boolean
+COCO_val2014_000000007398.jpg,Are there lines in the picture?,no,Would there be lines in the picture if lines were drawn on the picture?,yes,boolean
+COCO_val2014_000000007556.jpg,Are the Kites flying over water?,yes,Would the kites be flying over water if the water was removed?,no,boolean
+COCO_val2014_000000007666.jpg,Is the train lonely?,no,Would the train be lonely if all other trains were removed?,yes,boolean
+COCO_val2014_000000007722.jpg,Is the sink the cat's bed?,yes,Would the sink be the cat's bed if the cat slept somewhere else?,no,boolean
+COCO_val2014_000000007873.jpg,Is the woman wearing a hat?,no,Would the woman be wearing a hat if she was given a hat to wear?,yes,boolean
+COCO_val2014_000000007938.jpg,Is the man wearing a business outfit?,yes,Would the man be wearing a business outfit if he changed his clothes to casual?,no,boolean
+COCO_val2014_000000007991.jpg,Are there carrots?,yes,Would there be carrots if all carrots were removed from the area?,no,boolean
+COCO_val2014_000000008065.jpg,Is the batter wearing knee pads?,no,Would the batter be wearing knee pads if the batter was given knee pads to wear?,yes,boolean
+COCO_val2014_000000008080.jpg,Are there lines painted on the road?,yes,Would there be lines painted on the road if the lines were erased?,no,boolean
+COCO_val2014_000000008170.jpg,Is the stove electric?,yes,Would the stove be electric if it was a gas stove?,no,boolean
+COCO_val2014_000000008922.jpg,Is this a home kitchen?,yes,Would this be a home kitchen if the house was turned into a commercial kitchen?,no,boolean
+COCO_val2014_000000009050.jpg,Is this filling?,no,Would this be filling if more food was added to it?,yes,boolean
+COCO_val2014_000000009142.jpg,Are the waves crashing?,yes,Would the waves be crashing if the sea was calm?,no,boolean
+COCO_val2014_000000009572.jpg,Is there a plate here?,yes,Would there be a plate here if the plates were removed?,no,boolean
+COCO_val2014_000000009807.jpg,Is the cat looking at a mirror?,no,Would the cat be looking at a mirror if a mirror was placed in front of it?,yes,boolean
+COCO_val2014_000000009813.jpg,Is this a horse?,yes,"Would this be a horse if it were changed into a different creature, such as a unicorn?",no,boolean
+COCO_val2014_000000010012.jpg,Is the player on the field?,yes,Would the player be on the field if they had left?,no,boolean
+COCO_val2014_000000010092.jpg,Is there a bed?,yes,Would there be a bed if all furniture was removed?,no,boolean
+COCO_val2014_000000010142.jpg,Is this man headed downhill?,no,Would this man be headed downhill if he were descending?,yes,boolean
+COCO_val2014_000000010386.jpg,Is the guy wearing a tie?,yes,Would the guy be wearing a tie if his necktie was removed?,no,boolean
+COCO_val2014_000000011291.jpg,Is his top button buttoned?,no,Would his top button be buttoned if he buttoned it up?,yes,boolean
+COCO_val2014_000000011374.jpg,Is this a prop plane?,no,Would this be a prop plane if it had a propeller?,yes,boolean
+COCO_val2014_000000011538.jpg,Is the person wearing a helmet?,yes,Would the person be wearing a helmet if the helmet was removed?,no,boolean
+COCO_val2014_000000012204.jpg,Is the giraffe taller than the fence?,yes,Would the giraffe be taller than the fence if the fence was much higher?,no,boolean
+COCO_val2014_000000012323.jpg,Is this bathroom under construction?,yes,Would this bathroom be under construction if all the work had been completed?,no,boolean
+COCO_val2014_000000012748.jpg,Does the baby have shoes on?,no,Would the baby have shoes on if shoes were put on their feet?,yes,boolean
+COCO_val2014_000000012818.jpg,Are they at a gas station?,yes,Would they be at a gas station if they drove away?,no,boolean
+COCO_val2014_000000012897.jpg,Are there suitcases?,yes,Would there be suitcases if all luggage was removed?,no,boolean
+COCO_val2014_000000012966.jpg,Is the dog wearing a hat?,no,Would the dog be wearing a hat if a hat was put on it?,yes,boolean
+COCO_val2014_000000013081.jpg,Do the men have the same collars?,no,Would the men have the same collars if they both wore the same collared shirt?,yes,boolean
+COCO_val2014_000000013132.jpg,Is there a bench?,yes,Would there be a bench if the bench was removed?,no,boolean
+COCO_val2014_000000013159.jpg,Is there a fire hydrant in the picture?,yes,Would there be a fire hydrant in the picture if it was edited out?,no,boolean
+COCO_val2014_000000013348.jpg,Is this plane flying?,no,Would the plane be flying if it took off?,yes,boolean
+COCO_val2014_000000013383.jpg,Is there a candle?,no,Would there be a candle if a candle was put in the room?,yes,boolean
+COCO_val2014_000000013721.jpg,Are these tall socks?,yes,Would these be tall socks if the top part of the sock was cut off?,no,boolean
+COCO_val2014_000000013789.jpg,Is this a warning sign?,yes,Would this be a warning sign if the message on the sign recommended something different?,no,boolean
+COCO_val2014_000000013876.jpg,Is this a bench?,yes,Would this be a bench if it did not have a back part?,yes,boolean
+COCO_val2014_000000013991.jpg,Are there mushrooms in this dish?,yes,Would there be mushrooms in this dish if the mushrooms were removed?,no,boolean
+COCO_val2014_000000014004.jpg,Is he wearing glasses?,yes,Would he be wearing glasses if his glasses were removed?,no,boolean
+COCO_val2014_000000014088.jpg,Is the television turned on?,no,Would the television be turned on if someone used the remote control?,yes,boolean
+COCO_val2014_000000014167.jpg,Is the skateboarder wearing safety gear?,no,Would the skateboarder be wearing safety gear if someone gave them safety gear?,yes,boolean
+COCO_val2014_000000014248.jpg,Is this a human child?,yes,Would this be a human child if it was a different kind of creature?,no,boolean
+COCO_val2014_000000014265.jpg,Is the man carrying a bag?,yes,Would the man be carrying a bag if you took the bag from him?,no,boolean
+COCO_val2014_000000014276.jpg,Is the zebra wearing a tiara?,no,Would the zebra be wearing a tiara if the zebra's head had a tiara on it?,yes,boolean
+COCO_val2014_000000014629.jpg,Is she cooking?,yes,Would she be cooking if the stove was turned off?,no,boolean
+COCO_val2014_000000014681.jpg,Does this do look like he is going to jump?,no,Would this dog look like he's going to jump if he took a deep breath and bent his knees?,yes,boolean
+COCO_val2014_000000014743.jpg,Does the fence look hand built?,yes,Would the fence look hand built if the wooden fence panels were replaced with metal ones?,no,boolean
+COCO_val2014_000000014880.jpg,Is this bus currently in commute?,no,Would this bus be in commute if the engine was started and it hit the road?,yes,boolean
+COCO_val2014_000000015259.jpg,Are the flowers indoors?,no,Would the flowers be indoors if they were taken inside and placed in a vase?,yes,boolean
+COCO_val2014_000000015260.jpg,Is the cake on a table?,yes,Would the cake be on the table if it was moved to the refrigerator?,no,boolean
+COCO_val2014_000000016995.jpg,Is this animal full-grown?,no,Would this animal be full-grown if it had reached maturity?,yes,boolean
+COCO_val2014_000000017003.jpg,Is this man blind?,no,Would this man be blind if he were blindfolded?,yes,boolean
+COCO_val2014_000000017152.jpg,Does the sandwich have two types of meat?,no,Would the sandwich have two types of meat if another type of meat was added to it?,yes,boolean
+COCO_val2014_000000017282.jpg,Does the elephant have tusks?,yes,Would the elephant have tusks if they had been shaved off?,no,boolean
+COCO_val2014_000000022382.jpg,Is there a bell present?,yes,Would there be a bell present if the bells were removed from their location?,no,boolean
+COCO_val2014_000000022461.jpg,Is there milk in the cereal?,yes,Would there be milk in the cereal if the cereal was taken out of the milk?,no,boolean
+COCO_val2014_000000023251.jpg,Is this breakfast food?,yes,Would this be breakfast food if it was spaghetti?,no,boolean
+COCO_val2014_000000024144.jpg,Is this a pepperoni pizza?,yes,Would this be a pepperoni pizza if we remove the pepperoni?,no,boolean
+COCO_val2014_000000031041.jpg,Are these people a couple?,yes,Would these people be a couple if they were siblings?,no,boolean
+COCO_val2014_000000044260.jpg,Is that an apple on the tree?,yes,Would that be an apple if it was replaced with an orange?,no,boolean
+COCO_val2014_000000089909.jpg,Do the bushes have flowers?,yes,Would the bushes have flowers if the flowers were removed from them?,no,boolean
+COCO_val2014_000000118343.jpg,Should the man in the middle be on his cell phone?,no,Would the man in the middle be on his cell phone if he got a phone call?,yes,boolean
+COCO_val2014_000000127451.jpg,Is the man at the right on a snowboard?,yes,Would the man at the right be on a snowboard if he stepped off the snowboard?,no,boolean
+COCO_val2014_000000131152.jpg,Are any of these people wearing a wetsuit?,yes,Would any of these people wear a wetsuit if we removed wetsuits from them?,no,boolean
+COCO_val2014_000000131386.jpg,Are the planes fast?,yes,Would these planes be fast if we compared them to faster planes?,no,boolean
+COCO_val2014_000000131504.jpg,Are the numbers on the clock Roman numerals?,yes,Would the numbers be Roman numerals if they were changed to Arabic numerals?,no,boolean
+COCO_val2014_000000131527.jpg,Is this vegetable cooked?,no,Would this vegetable be cooked if we boil it?,yes,boolean
+COCO_val2014_000000131593.jpg,Is she wearing a ring?,yes,Would she be wearing a ring if we remove the ring from her finger?,no,boolean
+COCO_val2014_000000131597.jpg,Is the parking lot marked in white lines?,no,Would the parking lot be marked with white lines if we added lines in white?,yes,boolean
+COCO_val2014_000000131804.jpg,Is the man wearing socks?,no,Would the man be wearing socks if we give him a pair of socks to wear?,yes,boolean
+COCO_val2014_000000131815.jpg,Is there an outlet on the wall?,yes,Would there be an outlet on the wall if we covered the outlet with a wall plate?,no,boolean
+COCO_val2014_000000131882.jpg,Are all the cows standing?,no,Would all the cows be standing if we prodded and nudged them until they all stood up?,yes,boolean
+COCO_val2014_000000131919.jpg,Is there a child in the bike seat?,yes,Would there be a child in the bike seat if we removed the child from the bike seat?,no,boolean
+COCO_val2014_000000131920.jpg,Is the anything in the blender?,yes,Would there be anything in the blender if it was emptied?,no,boolean
+COCO_val2014_000000131969.jpg,Is there a fire?,no,Would there be a fire if a match was lit?,yes,boolean
+COCO_val2014_000000132001.jpg,Is the mouse wireless?,yes,Would the mouse be wireless if a wire was connected?,no,boolean
+COCO_val2014_000000132042.jpg,Is the man wearing glasses?,yes,Would the man be wearing glasses if he took off the glasses?,no,boolean
+COCO_val2014_000000132084.jpg,Is this a hog?,no,Would this be a hog if the animal was changed to a hog?,yes,boolean
+COCO_val2014_000000132121.jpg,Is the room tidy?,yes,Would the room be tidy if it was messed up?,no,boolean
+COCO_val2014_000000132161.jpg,Is this bread?,yes,Would this be bread if it was dough?,no,boolean
+COCO_val2014_000000132272.jpg,Is the man smiling?,yes,Would the man be smiling if he got bad news?,no,boolean
+COCO_val2014_000000132373.jpg,Is this a patriotic building?,yes,Would this be a patriotic building if the flag was removed?,no,boolean
+COCO_val2014_000000132408.jpg,Are these working horses?,yes,Would these be working horses if their harnesses were removed?,no,boolean
+COCO_val2014_000000132544.jpg,Are these players tired out?,yes,Would these players be tired out if they had enough rest?,no,boolean
+COCO_val2014_000000132554.jpg,Is the woman standing up straight?,yes,Would the woman be standing up straight if she was slouching?,no,boolean
+COCO_val2014_000000132615.jpg,Did he hit the ball?,yes,Would he have hit the ball if he had missed it?,no,boolean
+COCO_val2014_000000132652.jpg,Are they having a party?,no,Would they be having a party if they invited guests and prepared food and drinks?,yes,boolean
+COCO_val2014_000000132682.jpg,Is the seat up?,yes,Would the seat be up if it was put down?,no,boolean
+COCO_val2014_000000132686.jpg,Is it clear skies?,no,Would it be clear skies if the clouds cleared?,yes,boolean
+COCO_val2014_000000132796.jpg,Are there seats on the elephants?,yes,Would there be seats on elephants if there were no animal riding facilities?,no,boolean
+COCO_val2014_000000132931.jpg,Are these men on the same team?,no,Would these men be on the same team if they were in the same team?,yes,boolean
+COCO_val2014_000000132953.jpg,Is the man wet?,yes,Would the man be wet if he was dried with a towel?,no,boolean
+COCO_val2014_000000133000.jpg,Are the headlights illuminated?,no,Would the headlights be illuminated if the lights were turned on?,yes,boolean
+COCO_val2014_000000133050.jpg,Is the cutting board wet?,no,Would the cutting board be wet if it was washed with water?,yes,boolean
+COCO_val2014_000000133060.jpg,Is the child wearing a helmet?,yes,Would the child be wearing a helmet if it was removed from their head?,no,boolean
+COCO_val2014_000000133078.jpg,Is there a man in the picture?,yes,Would there be a man in the picture if it was cropped?,no,boolean
+COCO_val2014_000000133087.jpg,Are there any people in the picture?,no,Would there be people in the picture if boys were included?,yes,boolean
+COCO_val2014_000000133100.jpg,Are there yellow flowers?,yes,Would there be yellow flowers if all yellow flowers are removed?,no,boolean
+COCO_val2014_000000133596.jpg,Is this a professional sport event?,no,Would this be a professional sport event if professional athletes competed?,yes,boolean
+COCO_val2014_000000133620.jpg,Is she wearing glasses?,yes,Would she be wearing glasses if she took them off?,no,boolean
+COCO_val2014_000000133622.jpg,Is this a high class dish?,no,Would this be a high class dish if it had expensive ingredients?,yes,boolean
+COCO_val2014_000000133645.jpg,Is there someone on the bench?,no,Would there be someone on the bench if someone was sitting there?,yes,boolean
+COCO_val2014_000000133648.jpg,Is the bat blue?,yes,Would the bat be blue if it was not painted a different color?,no,boolean
+COCO_val2014_000000133698.jpg,Is that marshmallows on top of the pizza?,no,Would there be marshmallows on top of the pizza if they were added as a topping?,yes,boolean
+COCO_val2014_000000133750.jpg,Can the zebras jump the fence?,no,Would the zebras be able to jump the fence if the fence was lowered or if they had a platform to jump off of?,yes,boolean
+COCO_val2014_000000133827.jpg,Do you see animals in picture?,no,Would there be animals in the picture if there was an image of animals?,yes,boolean
+COCO_val2014_000000133928.jpg,Is the boat in the water?,yes,Would the boat be in the water if it was taken out?,no,boolean
+COCO_val2014_000000133969.jpg,Are the batter and catcher on the same team?,no,Would the batter and catcher be on the same team if they played for the same team?,yes,boolean
+COCO_val2014_000000134016.jpg,Is the food ready?,yes,Would the food be ready if it was being made?,no,boolean
+COCO_val2014_000000134034.jpg,Is there a fence?,yes,Would there be a fence if the fence was removed?,no,boolean
+COCO_val2014_000000134074.jpg,Is there a tornado happening?,no,Would there be a tornado happening if a tornado was created?,yes,boolean
+COCO_val2014_000000134098.jpg,Is the person wearing a blue jacket?,yes,Would the person be wearing a blue jacket if they were wearing a different color jacket?,no,boolean
+COCO_val2014_000000134103.jpg,Is this a resort?,no,Would this be a resort if the area was turned into a resort?,yes,boolean
+COCO_val2014_000000134133.jpg,Are the people sitting on the ground?,yes,Would the people be sitting on the ground if they had chairs?,no,boolean
+COCO_val2014_000000134194.jpg,Are there any pigs in this picture?,no,Would there be pigs in this picture if they were Photoshopped in?,yes,boolean
+COCO_val2014_000000134198.jpg,Is he airborne?,yes,Would he be airborne if he landed?,no,boolean
+COCO_val2014_000000134223.jpg,Is there a burger?,no,Would there be a burger if one was added to the plate?,yes,boolean
+COCO_val2014_000000134285.jpg,Can you see the sun?,yes,Would you be able to see the sun if it was nighttime?,no,boolean
+COCO_val2014_000000134518.jpg,Does this lady have on earrings?,yes,"If the lady wasn't wearing earrings, would she still have them on?",no,boolean
+COCO_val2014_000000134537.jpg,Are there Christmas lights strung near the tower?,yes,"If the Christmas lights were removed, would they still be strung near the tower?",no,boolean
+COCO_val2014_000000134551.jpg,Is he wearing a cap?,yes,"If he wasn't wearing a cap, would he still have it on?",no,boolean
+COCO_val2014_000000134574.jpg,Is that a spoon in the plate?,yes,"If there was no spoon in the plate, would there still be one?",no,boolean
+COCO_val2014_000000134618.jpg,Is that man wearing a watch?,yes,"If he wasn't wearing a watch, would he still have it on?",no,boolean
+COCO_val2014_000000134649.jpg,Has the toilet recently been cleaned?,yes,"If the toilet was dirty, would it still have been recently cleaned?",no,boolean
+COCO_val2014_000000134657.jpg,Is the road two lanes in each direction?,yes,"If the road only had one lane in each direction, would it still have had two lanes in each direction?",no,boolean
+COCO_val2014_000000134964.jpg,Is this a teenager's cake?,no,Would this be a teenager's cake if it had teenage decorations instead?,yes,boolean
+COCO_val2014_000000135076.jpg,Does the bird match the berries?,yes,Would the bird match the berries if its color was changed?,no,boolean
+COCO_val2014_000000135116.jpg,Is this a large dog?,yes,Would this be a large dog if it were compared with bigger dogs?,no,boolean
+COCO_val2014_000000135266.jpg,Could he be in a hot dog eating contest?,no,Would he be able to participate in a hot dog eating contest if he enjoyed eating hot dogs?,yes,boolean
+COCO_val2014_000000135436.jpg,Is this a tomato sandwich?,no,Would this be a tomato sandwich if a slice of tomato was added?,yes,boolean
+COCO_val2014_000000135748.jpg,Do you see a cat?,no,Would there be a cat in the room if a cat was brought in?,yes,boolean
+COCO_val2014_000000135797.jpg,Is there a chair in the mirror?,yes,Would there be a chair in the mirror if the chair was removed?,no,boolean
+COCO_val2014_000000135900.jpg,Is that ham in the pan?,yes,Would that be ham in the pan if it was replaced with something else?,no,boolean
+COCO_val2014_000000135976.jpg,Is the computer on?,yes,Would the computer be on if the power cord was unplugged?,yes,boolean
+COCO_val2014_000000136077.jpg,Are the zebras fighting?,no,Would the zebras be fighting if they were provoked?,yes,boolean
+COCO_val2014_000000136117.jpg,Are there gifts in luggage?,yes,Would there be gifts in luggage if we removed them all?,no,boolean
+COCO_val2014_000000136170.jpg,Is the animal eating?,no,Would the animal be eating if it was being fed?,yes,boolean
+COCO_val2014_000000136181.jpg,Is the bed messy?,no,Would the bed be messy if someone messed it up?,yes,boolean
+COCO_val2014_000000136218.jpg,Do you see a plane?,yes,Would you see a plane if you closed your eyes?,no,boolean
+COCO_val2014_000000136227.jpg,Is the chair soft?,no,Would the chair be soft if it had cushions on it?,yes,boolean
+COCO_val2014_000000136355.jpg,Is there more than one type of flower?,no,Would there be more than one type of flower if different types of flowers were planted?,yes,boolean
+COCO_val2014_000000136400.jpg,Is the sign slanted?,yes,Would the sign be slanted if it was straightened?,no,boolean
+COCO_val2014_000000136440.jpg,Does this room have a ceiling fan?,yes,Would there be a ceiling fan in the room if there was no ceiling fan?,no,boolean
+COCO_val2014_000000136501.jpg,Has the ball left the pitcher's hand?,no,Would the ball have left the pitcher's hand if the pitcher had thrown the ball?,yes,boolean
+COCO_val2014_000000136555.jpg,Is the baby going to a special event?,yes,Would the baby be going to a special event if the event was cancelled?,no,boolean
+COCO_val2014_000000136572.jpg,Are there two motorcycles here?,yes,Would there be two motorcycles here if one of the motorcycles was removed?,no,boolean
+COCO_val2014_000000136633.jpg,Is this taking place outdoors?,yes,Would this take place outdoors if it were moved indoors?,no,boolean
+COCO_val2014_000000136720.jpg,Is the bathroom messy?,yes,Would the bathroom be messy if it were cleaned up?,no,boolean
+COCO_val2014_000000136770.jpg,Is he holding a cigar?,no,Would he be holding a cigar if he were given one to hold?,yes,boolean
+COCO_val2014_000000136772.jpg,Have these fruits been prepared for eating?,yes,Would these fruits have been prepared for eating if they were left whole?,no,boolean
+COCO_val2014_000000136820.jpg,Is she eating?,yes,Would she be eating if the food was taken away?,no,boolean
+COCO_val2014_000000136841.jpg,Is the train moving?,yes,Would the train be moving if the engine was stopped?,no,boolean
+COCO_val2014_000000136846.jpg,Does the road look wet?,yes,Would the road look wet if it was dried up?,no,boolean
+COCO_val2014_000000136915.jpg,Are all the men wearing suits?,no,Would all the men be wearing suits if they were given suits to wear?,yes,boolean
+COCO_val2014_000000136920.jpg,Is someone in the bathroom?,no,Would someone be in the bathroom if someone had entered?,yes,boolean
+COCO_val2014_000000136938.jpg,Are doughnuts sitting in a tray?,yes,Would doughnuts be sitting in a tray if they were removed?,no,boolean
+COCO_val2014_000000136941.jpg,Are all the cows black and white?,no,Would all the cows be black and white if the other cows were painted black and white?,yes,boolean
+COCO_val2014_000000137031.jpg,Is this a Boeing?,no,Would this be a Boeing if the plane was repainted?,no,boolean
+COCO_val2014_000000137221.jpg,Are these two players on the same team?,yes,Would these two players be on the same team if one of them had been traded to another team?,no,boolean
+COCO_val2014_000000137294.jpg,Is there a fence?,yes,Would there be a fence if it was removed?,no,boolean
+COCO_val2014_000000137362.jpg,Is everyone wearing a life vest?,yes,Would everyone wear a life vest if they were only provided to children?,no,boolean
+COCO_val2014_000000137369.jpg,Is someone on the bike?,no,Would someone be on the bike if it was being ridden?,yes,boolean
+COCO_val2014_000000137501.jpg,Are the people dressed in the usual way for a skiing event?,no,Would the people be dressed in the usual way for a skiing event if they wore ski attires?,yes,boolean
+COCO_val2014_000000137507.jpg,Does the cat have long whiskers?,yes,Would the cat have long whiskers if it has lost its whiskers?,no,boolean
+COCO_val2014_000000137560.jpg,Is this a tennis camp for kids?,yes,Would this be a tennis camp for kids if other toys were used in place of rackets and balls?,no,boolean
+COCO_val2014_000000137573.jpg,Is the computer on?,yes,Would the computer be on if the device was turned off?,no,boolean
+COCO_val2014_000000137576.jpg,Are the cows hungry?,yes,Would the cows be hungry if they had just been fed?,no,boolean
+COCO_val2014_000000137586.jpg,Is the man smiling?,yes,Would the man be smiling if he had just received bad news?,no,boolean
+COCO_val2014_000000137612.jpg,Is there a bridge in the background?,yes,Would there be a bridge in the background if the bridge was removed?,no,boolean
+COCO_val2014_000000137619.jpg,Does the bird have long legs?,yes,Would the bird have long legs if the legs were made short?,no,boolean
+COCO_val2014_000000137763.jpg,Is this a big bathroom?,yes,Would this be a big bathroom if it was smaller?,no,boolean
+COCO_val2014_000000137810.jpg,Is this a city street?,yes,Would this be a city street if it was rural?,no,boolean
+COCO_val2014_000000137822.jpg,Are there any buses in the picture?,no,Would there be buses in the picture if buses were added to the picture?,yes,boolean
+COCO_val2014_000000137826.jpg,Is there a parking meter in the image?,no,Would there be a parking meter in the image if it was added to the image?,yes,boolean
+COCO_val2014_000000137861.jpg,Is the tv on?,yes,Would the tv be on if it was turned off?,no,boolean
+COCO_val2014_000000137888.jpg,Do these chairs have wheels?,no,Would these chairs have wheels if caster wheels were attached to them?,yes,boolean
+COCO_val2014_000000137911.jpg,Is the waves breaking?,yes,Would the waves be breaking if the water was calm?,no,boolean
+COCO_val2014_000000137954.jpg,Is the boys hair curly?,yes,Would the boy's hair be curly if it was straightened?,no,boolean
+COCO_val2014_000000137992.jpg,Is the snowboarder going downhill?,yes,Would the snowboarder be going downhill if they stopped or went uphill?,no,boolean
+COCO_val2014_000000138040.jpg,Are people getting off the bus?,yes,Would people be getting off the bus if the doors were not open?,no,boolean
+COCO_val2014_000000138079.jpg,Is there towel hanging?,no,Would there be a towel hanging if it was placed on a hanger or hook?,yes,boolean
+COCO_val2014_000000138086.jpg,Are those cutting boards plastic?,no,Would those cutting boards be plastic if they were made from plastic material?,yes,boolean
+COCO_val2014_000000138180.jpg,Is the player smiling at the camera?,no,"If the player had just scored a winning goal, would they be smiling at the camera?",yes,boolean
+COCO_val2014_000000138227.jpg,Is this fruit seedless?,yes,Would this fruit have seeds if it were seedless?,no,boolean
+COCO_val2014_000000138241.jpg,Is there a sausage on the tortilla?,yes,"If we removed the sausage, would there be a sausage on the tortilla?",no,boolean
+COCO_val2014_000000138271.jpg,Is that a normal appliance?,yes,"If it were an unusual appliance, would that be normal?",no,boolean
+COCO_val2014_000000138503.jpg,Is this a police officer?,yes,Would this person be a police officer if they were wearing a firefighter's uniform?,no,boolean
+COCO_val2014_000000138517.jpg,Is the woman drinking white wine?,yes,"If she were holding a glass of red wine, would she be drinking white wine?",no,boolean
+COCO_val2014_000000138549.jpg,Is there fruit on the plate?,yes,"If we removed the fruit, would there be fruit on the plate?",no,boolean
+COCO_val2014_000000138553.jpg,Has the grass just been mowed?,yes,Would the grass have just been mowed if it was morning?,no,boolean
+COCO_val2014_000000138556.jpg,Is the floor made of tile?,no,Would the floor be made of tile if it was replaced with tiles?,yes,boolean
+COCO_val2014_000000138589.jpg,Do they have luggage?,yes,Would they have luggage if they left it behind?,no,boolean
+COCO_val2014_000000138601.jpg,Is the bus colorful?,no,Would the bus be colorful if it was repainted with bright colors?,yes,boolean
+COCO_val2014_000000138656.jpg,Are these circus animals?,no,Would these be circus animals if they were brought to the circus?,yes,boolean
+COCO_val2014_000000138704.jpg,Does the man have a controller in his hand?,yes,Would the man have a controller in his hand if it was taken away?,no,boolean
+COCO_val2014_000000138728.jpg,Is there water bottles in the picture?,yes,Would there be water bottles in the picture if they were edited out?,no,boolean
+COCO_val2014_000000138755.jpg,Is there a bridge?,no,Would there be a bridge if one was built?,yes,boolean
+COCO_val2014_000000138768.jpg,Is the street deserted?,yes,"If the street were bustling with people, would it still be deserted?",no,boolean
+COCO_val2014_000000138814.jpg,Is the sign in the background printed in English?,yes,"If the sign in the background were printed in a different language, would it still be in English?",no,boolean
+COCO_val2014_000000138821.jpg,Is a tall pole covering a part of the animals body?,yes,"If the tall pole were removed, would it still be covering a part of the animal's body?",no,boolean
+COCO_val2014_000000138856.jpg,Is the bread on a cooking rack?,yes,"If the bread were taken off the cooking rack, would it still be on the rack?",no,boolean
+COCO_val2014_000000139004.jpg,Are the counters clean?,yes,"If the counters were covered in crumbs, would they still be clean?",no,boolean
+COCO_val2014_000000139072.jpg,Are any of the players standing straight up?,yes,"If all of the players were sitting down, would any of them be standing straight up?",no,boolean
+COCO_val2014_000000139094.jpg,Is the forklift freshly painted?,no,Would the forklift be freshly painted if it was painted?,yes,boolean
+COCO_val2014_000000139127.jpg,Is the boat moving?,yes,Would the boat be moving if it was anchored?,no,boolean
+COCO_val2014_000000139141.jpg,Are the players both wearing eyeglasses?,no,Would both players be wearing eyeglasses if both got glasses?,yes,boolean
+COCO_val2014_000000139260.jpg,Is this in a clear plastic dish?,yes,Would this be in a clear plastic dish if it were transferred to a non-clear dish?,no,boolean
+COCO_val2014_000000139306.jpg,Does this sandwich have any tomatoes visible in it?,yes,Would there be any visible tomatoes in the sandwich if all visible tomatoes were removed?,no,boolean
+COCO_val2014_000000139518.jpg,Is that a usable board?,no,Would that board be usable if it were fixed?,yes,boolean
+COCO_val2014_000000139605.jpg,Is the light in the beacon lit?,no,Would the light in the beacon be lit if you turned it on?,yes,boolean
+COCO_val2014_000000139637.jpg,Is anybody riding the bike?,yes,Would anybody be riding the bike if you took the rider off?,no,boolean
+COCO_val2014_000000139684.jpg,Are there any empty picture frames?,no,Would there be any empty picture frames if their pictures were removed?,yes,boolean
+COCO_val2014_000000139781.jpg,Is this woman running?,no,Would this woman be running if she was asked to start running?,yes,boolean
+COCO_val2014_000000139785.jpg,Is this a berry pie?,yes,Would this be a berry pie if it had different fruits inside?,no,boolean
+COCO_val2014_000000139872.jpg,Are all four legs on the ground?,yes,Would all four legs be on the ground if one of the legs was lifted up?,no,boolean
+COCO_val2014_000000139953.jpg,Is this a breakfast meal?,yes,Would this be a breakfast meal if it was prepared for lunch?,no,boolean
+COCO_val2014_000000140010.jpg,Is there chocolate in this item?,yes,Would this item have chocolate if chocolate was removed from the recipe?,no,boolean
+COCO_val2014_000000140021.jpg,Has the scissors cut the ribbon?,no,Would the scissors have cut the ribbon if it cut it?,yes,boolean
+COCO_val2014_000000140307.jpg,Are there bananas?,no,Would there be bananas if some were put on the table?,yes,boolean
+COCO_val2014_000000140391.jpg,Is there a plant in the picture?,yes,Would there be a plant in the picture if it was edited to remove the plant?,no,boolean
+COCO_val2014_000000140420.jpg,Does this photo show a zoo?,no,Would this photo show a zoo if it was a photo of a zoo?,yes,boolean
+COCO_val2014_000000140454.jpg,Is there a lighthouse?,yes,Would there be a lighthouse if it was removed from the scene?,no,boolean
+COCO_val2014_000000140490.jpg,Is this a beach?,yes,Would this be a beach if the sand was replaced with pavement and buildings?,no,boolean
+COCO_val2014_000000140501.jpg,Are the engines started?,yes,Would the engines be started if the airplane was turned off?,no,boolean
+COCO_val2014_000000140545.jpg,Is there any food?,yes,Would there be any food if all food was removed?,no,boolean
+COCO_val2014_000000140556.jpg,Are the men construction workers?,yes,Would the men be construction workers if they changed their profession?,no,boolean
+COCO_val2014_000000140583.jpg,Is this a flock of sheep?,yes,Would this be a flock of sheep if the animal was changed?,no,boolean
+COCO_val2014_000000140636.jpg,Is the bird in the water?,yes,Would the bird be in the water if it were flying?,no,boolean
+COCO_val2014_000000140640.jpg,Do any of these girls have a scarf on?,yes,Would any of these girls have a scarf on if the scarf was removed?,no,boolean
+COCO_val2014_000000140664.jpg,Is there broccoli?,yes,Would there be broccoli if the broccoli was removed?,no,boolean
+COCO_val2014_000000140696.jpg,Are the people fighting?,no,Would the people be fighting if there was a brawl?,yes,boolean
+COCO_val2014_000000140743.jpg,Does this girl have her ears pierced?,yes,"If this girl never had her ears pierced, would she be wearing earrings?",no,boolean
+COCO_val2014_000000141040.jpg,Are the people standing?,no,Would the people be standing if they were asked to stand?,yes,boolean
+COCO_val2014_000000141086.jpg,Is it wearing a collar?,yes,Would it be wearing a collar if the collar was removed?,no,boolean
+COCO_val2014_000000141135.jpg,Is he on a phone?,yes,Would he be on a phone if the phone was taken away?,no,boolean
+COCO_val2014_000000141143.jpg,Was this photo taken near water?,yes,Would this photo have been taken near water if it was moved to the desert?,no,boolean
+COCO_val2014_000000141172.jpg,Is the cat real?,no,Would there be a real cat in the scene if a cat was brought in?,yes,boolean
+COCO_val2014_000000141219.jpg,Is there a fence in the scene?,yes,Would there be a fence in the scene if the fence was removed?,no,boolean
+COCO_val2014_000000141247.jpg,Are the flowers alive?,yes,Would these flowers be alive if they were artificial?,no,boolean
+COCO_val2014_000000141278.jpg,Is the laptop open?,yes,Would the laptop be open if it was closed?,no,boolean
+COCO_val2014_000000141317.jpg,Is the crust stuffed?,no,Would the crust be stuffed if we added filling?,yes,boolean
+COCO_val2014_000000141597.jpg,Is the bumper of the black car touching the van?,yes,Would the bumper of the black car be touching the van if the car was moved?,no,boolean
+COCO_val2014_000000141651.jpg,Is the rider wearing a cowboy hat?,no,Would the rider be wearing a cowboy hat if we gave them one?,yes,boolean
+COCO_val2014_000000141671.jpg,Are the horses grazing?,no,Would the horses be grazing if we fed them?,yes,boolean
+COCO_val2014_000000141673.jpg,Is the bartender wearing a headband?,no,Would the bartender be wearing a headband if we gave them one?,yes,boolean
+COCO_val2014_000000141755.jpg,Are there any houses nearby?,yes,Would there be any houses nearby if all houses in the surroundings were removed?,no,boolean
+COCO_val2014_000000141795.jpg,Is there a plunger on the side of the toilet?,no,Would there be a plunger on the side of the toilet if someone put it there?,yes,boolean
+COCO_val2014_000000141887.jpg,Is the water clear?,yes,Would the water be clear if there was dirt in it?,no,boolean
+COCO_val2014_000000141910.jpg,Is there cleaner in the bathroom?,yes,Would there be cleaner in the bathroom if someone took it out?,no,boolean
+COCO_val2014_000000141962.jpg,Is this man wearing a helmet?,yes,Would this man be wearing a helmet if it was taken off?,no,boolean
+COCO_val2014_000000142092.jpg,Is there sliced cheese on this pizza?,yes,Would there be sliced cheese on this pizza if it was taken off?,no,boolean
+COCO_val2014_000000142127.jpg,Are the two half's equal?,no,Would the two halves be equal if they were the same size?,yes,boolean
+COCO_val2014_000000142177.jpg,Are the foods on the plate different colors?,yes,Would the foods on the plate be the same color if they were colored the same?,yes,boolean
+COCO_val2014_000000142189.jpg,Is it sleeping?,no,Would it be sleeping if it had been given a sedative?,yes,boolean
+COCO_val2014_000000142207.jpg,Is this a fire engine?,yes,Would this be a fire engine if its paint color was different?,yes,boolean
+COCO_val2014_000000142340.jpg,Is this toilet in a showroom?,yes,Would this toilet be in a showroom if it was moved to a bathroom?,no,boolean
+COCO_val2014_000000142346.jpg,Does the child have goggles on his face?,yes,Would the child have goggles on his face if the goggles were removed?,no,boolean
+COCO_val2014_000000142483.jpg,Is this pizza?,yes,Would this be pizza if its toppings were different?,yes,boolean
+COCO_val2014_000000142484.jpg,Is the cat wearing an eyepatch?,no,Would the cat be wearing an eyepatch if it had been put on?,yes,boolean
+COCO_val2014_000000142552.jpg,Is there a person there?,yes,Would there be a person there if people were removed?,no,boolean
+COCO_val2014_000000142564.jpg,Are the children playing in the tub?,yes,Would the children be playing in the tub if they were taken out?,no,boolean
+COCO_val2014_000000142592.jpg,Is there a bench?,no,Would there be a bench if a bench was brought in?,yes,boolean
+COCO_val2014_000000142698.jpg,Are the bananas ripe?,yes,Would the bananas be ripe if they were overripe?,yes,boolean
+COCO_val2014_000000142722.jpg,Do the cows have ear tags?,yes,Would the cows have ear tags if their ear tags were removed?,no,boolean
+COCO_val2014_000000142815.jpg,Is the man videotaping the other man?,yes,Would the man be videotaping the other man if his camera was taken away?,no,boolean
+COCO_val2014_000000142856.jpg,Are there olives on this pizza?,no,Would there be olives on this pizza if olives were added to the pizza?,yes,boolean
+COCO_val2014_000000142891.jpg,Are the cat's eyes open?,yes,Would the cat's eyes be open if it had been asleep?,no,boolean
+COCO_val2014_000000142903.jpg,Are the speakers facing the same direction?,yes,Would the speakers be facing the same direction if one of them had been rotated?,no,boolean
+COCO_val2014_000000142919.jpg,Is the pizza cooked?,yes,Would the pizza be cooked if it had been taken out of the oven before it was ready?,no,boolean
+COCO_val2014_000000143010.jpg,Are there shadows?,yes,Would there be shadows if the light source had been removed?,no,boolean
+COCO_val2014_000000143040.jpg,Is the stove on?,no,Would the stove be on if it had been turned on?,yes,boolean
+COCO_val2014_000000143103.jpg,Does the child have skis on?,yes,Would the child have skis on if they had been taken off?,no,boolean
+COCO_val2014_000000143107.jpg,Are there many skiers on the mountain?,no,Would there be many skiers on the mountain if it's peak skiing season?,yes,boolean
+COCO_val2014_000000143167.jpg,Are there clouds in the sky?,yes,Would there be clouds in the sky if it was a clear day?,no,boolean
+COCO_val2014_000000143483.jpg,Is the lamp on?,yes,Would the lamp be on if it was unplugged?,no,boolean
+COCO_val2014_000000143541.jpg,Are the waves breaking big?,no,Would the waves be breaking big if the wind speed increased?,yes,boolean
+COCO_val2014_000000143554.jpg,Is this man holding up a Frisbee?,yes,Would the man be holding up a Frisbee if it was taken away from him?,no,boolean
+COCO_val2014_000000143582.jpg,Does the rider have on safety gear?,yes,Would the rider have on safety gear if it was taken off?,no,boolean
+COCO_val2014_000000143671.jpg,Does this picture show carrots in a basket?,yes,Would this picture show carrots in a basket if they were removed?,no,boolean
+COCO_val2014_000000143696.jpg,Do the buildings have solid roofs?,yes,Would the buildings have solid roofs if the roofs were broken apart?,no,boolean
+COCO_val2014_000000143767.jpg,Is there a notebook on the bed?,yes,Would there be a notebook on the bed if the notebook was removed?,no,boolean
+COCO_val2014_000000143822.jpg,Is this a Wii controller?,yes,Would this be a Wii controller if a different controller was not used?,no,boolean
+COCO_val2014_000000143825.jpg,Is the brown dog wearing a collar?,yes,Would the brown dog be wearing a collar if the collar was removed?,no,boolean
+COCO_val2014_000000143859.jpg,Does this look like healthy food?,yes,Would this look like healthy food if sugar was added?,no,boolean
+COCO_val2014_000000143876.jpg,Are these cats waiting in a vehicle?,yes,Would these cats be waiting in a vehicle if they were removed from the vehicle?,no,boolean
+COCO_val2014_000000143891.jpg,Is this an electric train?,yes,Would this be an electric train if a diesel train was used?,no,boolean
+COCO_val2014_000000143961.jpg,Is anybody shirtless in the picture?,yes,Would anybody be shirtless in the picture if clothes were added to the shirtless person?,no,boolean
+COCO_val2014_000000144114.jpg,Can one see the pilot?,yes,Would someone be able to see the pilot if there was a curtain blocking the cockpit?,no,boolean
+COCO_val2014_000000144157.jpg,Are the zebras roaming free?,no,Would the zebras be roaming free if the gate was open to the enclosure?,yes,boolean
+COCO_val2014_000000144243.jpg,Are they playing soccer?,yes,Would they be playing soccer if they had a basketball instead?,no,boolean
+COCO_val2014_000000144269.jpg,Is the person taking a picture?,yes,Would the person be taking a picture if they didn't have their camera?,no,boolean
+COCO_val2014_000000144273.jpg,Does the bin have wheels?,yes,Would the bin have wheels if the wheels were removed?,no,boolean
+COCO_val2014_000000144305.jpg,Is that a fast computer?,yes,Would the computer be fast if the processor was slow?,no,boolean
+COCO_val2014_000000144333.jpg,Is this lady using her cell phone while riding a bike?,yes,Would this lady be using her cell phone while riding a bike if her cell phone was taken away?,no,boolean
+COCO_val2014_000000144365.jpg,Are the curtains green?,no,Would the curtains be green if they were green in color?,yes,boolean
+COCO_val2014_000000144379.jpg,Do all the bags have wheels?,no,Would all the bags have wheels if we added wheels to all bags?,yes,boolean
+COCO_val2014_000000144383.jpg,Is the surfer shirtless?,yes,Would the surfer be shirtless if he wore a shirt?,no,boolean
+COCO_val2014_000000144438.jpg,Is there anything sweet to eat on this table?,yes,Would there be anything sweet to eat on this table if all sweet dishes were removed?,no,boolean
+COCO_val2014_000000144809.jpg,Do you think the walls of this bathroom have just been painted?,no,Would the walls in this bathroom have just been painted if they were just painted?,yes,boolean
+COCO_val2014_000000144862.jpg,Is there an animal here?,yes,Would there be an animal here if we took away all animals nearby?,no,boolean
+COCO_val2014_000000144870.jpg,Are there clouds on the ceiling?,yes,Would there be clouds on the ceiling if all decorations were removed?,no,boolean
+COCO_val2014_000000144878.jpg,Does the person in the truck likely live nearby?,no,Would the person in the truck likely live nearby if they gave directions to their home?,yes,boolean
+COCO_val2014_000000144959.jpg,Is there cheese on the sandwich?,yes,Would there be cheese on the sandwich if the cheese was removed?,no,boolean
+COCO_val2014_000000144984.jpg,Is the child dressed for warm weather?,yes,Would the child be dressed for warm weather if they were wearing winter clothes?,no,boolean
+COCO_val2014_000000144992.jpg,Are there any Ads in this photo?,no,Would there be ads in this photo if some ads were added?,yes,boolean
+COCO_val2014_000000145149.jpg,Is the man looking at you?,yes,Would the man be looking at you if you turned around?,yes,boolean
+COCO_val2014_000000145199.jpg,Are the walls yellow?,yes,Would the walls be yellow if they were painted white?,no,boolean
+COCO_val2014_000000145208.jpg,Is the wave big?,yes,Would the wave be big if its height was decreased?,no,boolean
+COCO_val2014_000000145215.jpg,Is the water salty?,yes,Would the water be salty if it was diluted with fresh water?,no,boolean
+COCO_val2014_000000145227.jpg,Is he wearing a medal?,yes,Would he be wearing a medal if he took it off?,no,boolean
+COCO_val2014_000000145284.jpg,Is there a bush beside the bench?,no,Would there be a bush beside the bench if a bush was planted there?,yes,boolean
+COCO_val2014_000000145295.jpg,Is this a farming area?,no,Would this be a farming area if crops were planted here?,yes,boolean
+COCO_val2014_000000145567.jpg,Is this at a beach?,yes,Would this be at a beach if there was no sand?,no,boolean
+COCO_val2014_000000145591.jpg,Is this an apartment building?,yes,Would this be an apartment building if it had no residential units?,no,boolean
+COCO_val2014_000000145604.jpg,Are the bananas ripe?,yes,Would the bananas be ripe if they were unripe?,no,boolean
+COCO_val2014_000000145620.jpg,Is this a racer?,yes,Would this be a racer if it had no wheels?,no,boolean
+COCO_val2014_000000145651.jpg,Is the bed made?,no,Would the bed be made if it was tidied?,yes,boolean
+COCO_val2014_000000145665.jpg,Is there snow on the ground?,no,Would there be snow on the ground if artificial snow was sprinkled?,yes,boolean
+COCO_val2014_000000145668.jpg,Is this cat laying on a Sims 2 Book?,yes,Would the cat be lying on the Sims 2 Book if the book was moved away?,no,boolean
+COCO_val2014_000000145700.jpg,Is the road clear?,yes,Would the road be clear if there was a roadblock?,no,boolean
+COCO_val2014_000000145728.jpg,Is there lettuce on this sandwich?,yes,Would there be lettuce on this sandwich if the lettuce was removed?,no,boolean
+COCO_val2014_000000145747.jpg,Does the foliage color imply the season is fall?,yes,Would the foliage color imply the season is fall if the leaves of the trees were green?,no,boolean
+COCO_val2014_000000145751.jpg,Is the man wearing glasses?,no,Would the man be wearing glasses if the glasses were on his face?,yes,boolean
+COCO_val2014_000000146042.jpg,Is this a garden?,no,Would this be a garden if flowers and trees were planted in it?,yes,boolean
+COCO_val2014_000000146112.jpg,Is there a lady bug toy in the picture?,no,Would there be a ladybug toy in the picture if the toy was added to the picture?,yes,boolean
+COCO_val2014_000000146120.jpg,Are the people holding pets?,no,Would the people be holding pets if they were given pets to hold?,yes,boolean
+COCO_val2014_000000146126.jpg,Is the glass more than half full?,yes,Would the glass be more than half full if some of the liquid was poured out?,no,boolean
+COCO_val2014_000000146155.jpg,Is the bartender pouring a drink for someone?,no,Would the bartender be pouring a drink for someone if a person ordered a drink?,yes,boolean
+COCO_val2014_000000146240.jpg,Is the skateboard in the air?,yes,Would the skateboard be in the air if it was touching the ground?,no,boolean
+COCO_val2014_000000146253.jpg,Is this cross country skiing?,yes,Would this be cross country skiing if it was on a beach?,no,boolean
+COCO_val2014_000000146451.jpg,Is there spray paint on the hydrant?,no,Would there be spray paint on the hydrant if it was sprayed painted?,yes,boolean
+COCO_val2014_000000146541.jpg,Is the zebra tired?,yes,Would the zebra be tired if it rested?,no,boolean
+COCO_val2014_000000146601.jpg,Is this a factory machine?,yes,"Would this be a factory machine if all factory equipment was removed, and it was replaced with furniture?",no,boolean
+COCO_val2014_000000146614.jpg,Is it a living room?,yes,Would this be a living room if the furniture and decorations were removed?,no,boolean
+COCO_val2014_000000146672.jpg,Are those real clocks?,yes,Would those be real clocks if they were changed to decorative art?,no,boolean
+COCO_val2014_000000146773.jpg,Did someone eat cake?,yes,Would someone have eaten cake if there was no cake on the plate?,no,boolean
+COCO_val2014_000000146785.jpg,Is the disk golfer teeing off?,no,Would the disk golfer be teeing off if the disc was placed in the tee area?,yes,boolean
+COCO_val2014_000000146825.jpg,Is the train at a station?,yes,Would the train be at a station if it was sent to the next station?,no,boolean
+COCO_val2014_000000146836.jpg,Is the train platform covered?,no,Would the train platform be covered if it had a roof?,yes,boolean
+COCO_val2014_000000146910.jpg,Is this man eating healthy?,no,Would this man be eating healthy if he was given a salad?,yes,boolean
+COCO_val2014_000000146917.jpg,Are there chocolate donuts on the shelves?,no,Would there be chocolate donuts on the shelves if some chocolate donuts were put on them?,yes,boolean
+COCO_val2014_000000146929.jpg,Are there two hot dogs?,no,Would there be two hot dogs if one more hot dog was added?,yes,boolean
+COCO_val2014_000000146936.jpg,Is the woman holding a baby?,no,Would the woman be holding a baby if she was given a baby to hold?,yes,boolean
+COCO_val2014_000000146979.jpg,Is these cheese?,yes,Would this be cheese if it was turned into tofu?,no,boolean
+COCO_val2014_000000146986.jpg,Is the plane in the air?,yes,Would the plane be in the air if it landed?,no,boolean
+COCO_val2014_000000146999.jpg,Is there a window?,yes,Would there be a window if the glass was removed?,no,boolean
+COCO_val2014_000000147128.jpg,Is there water nearby?,yes,Would there be water nearby if all water sources were removed?,no,boolean
+COCO_val2014_000000147132.jpg,Is there a fence in view?,no,Would there be a fence in view if a fence was installed?,yes,boolean
+COCO_val2014_000000147140.jpg,Is she wearing green?,yes,Would she be wearing green if her clothes were changed?,no,boolean
+COCO_val2014_000000147205.jpg,Is there any bread?,yes,Would there be any bread if all bread was removed?,no,boolean
+COCO_val2014_000000147346.jpg,Is the man trying to kill the other man?,no,Would the man be trying to kill the other man if he was aggressive?,yes,boolean
+COCO_val2014_000000147409.jpg,Is the bus driving over a crosswalk?,yes,Would the bus be driving over a crosswalk if it stopped at the red light?,no,boolean
+COCO_val2014_000000147415.jpg,Is she writing in the dark?,yes,Would she be writing in the dark if the light was not turned on?,no,boolean
+COCO_val2014_000000147418.jpg,Are these planes about to collide?,no,Would these planes be about to collide if they were on a collision course?,yes,boolean
+COCO_val2014_000000147518.jpg,Is the bathroom clean?,yes,Would the bathroom be clean if it was used for a week without cleaning?,no,boolean
+COCO_val2014_000000147577.jpg,Is this art?,yes,Would this be art if it was a random scribble?,no,boolean
+COCO_val2014_000000147586.jpg,Is there an oven rack?,no,Would there be an oven rack if it was installed?,yes,boolean
+COCO_val2014_000000147762.jpg,Is this a cake?,yes,Would this be a cake if it was a pizza instead?,no,boolean
+COCO_val2014_000000147769.jpg,Is this man worried about making a hit?,no,Would this man be worried about making a hit if he was in a high-stake situation?,yes,boolean
+COCO_val2014_000000147835.jpg,Are these animals owned by a human?,yes,Would these animals be owned by a human if they were set free in the wild?,no,boolean
+COCO_val2014_000000147866.jpg,Is the vehicle too close to the meter?,yes,Would the vehicle be too close to the meter if it was moved a little away?,no,boolean
+COCO_val2014_000000147921.jpg,Can you see any street signs?,yes,Would there be any street signs to be seen if all street signs had been removed?,no,boolean
+COCO_val2014_000000147979.jpg,Is the man riding the bike?,yes,Would the man be riding the bike if the bike is taken away from him?,no,boolean
+COCO_val2014_000000148042.jpg,Is this an old cell phone?,yes,Would this still be an old cell phone if it was upgraded to the latest model?,no,boolean
+COCO_val2014_000000148077.jpg,Is the plane in flight?,yes,Would the plane be in flight if it was parked on the ground?,no,boolean
+COCO_val2014_000000148128.jpg,Does everyone have a shirt on?,no,Would everyone have a shirt on if everyone was given a shirt to wear?,yes,boolean
+COCO_val2014_000000148170.jpg,Is the tub orange?,no,Would the tub be orange if it was painted with an orange color?,yes,boolean
+COCO_val2014_000000148193.jpg,Does the woman appear to be relaxed?,yes,Would the woman appear to be relaxed if she was given some stressful news?,no,boolean
+COCO_val2014_000000148272.jpg,Is this a domesticated animal?,yes,Would this still be a domesticated animal if it was released back into the wild and let to live in its natural habitat?,no,boolean
+COCO_val2014_000000148329.jpg,Is there a red truck on the background?,yes,Would there be a red truck in the background if the red truck was removed from the scene?,no,boolean
+COCO_val2014_000000148444.jpg,Is this plate overflowing with food?,no,Would this plate be overflowing with food if more dishes were added?,yes,boolean
+COCO_val2014_000000153061.jpg,Is there lights on the vehicle?,yes,Would there be lights on the vehicle if they were turned off?,no,boolean
+COCO_val2014_000000153094.jpg,IS this Big Ben?,no,Would this be Big Ben if it was renamed?,yes,boolean
+COCO_val2014_000000153392.jpg,Does it look like it's windy in the photo?,yes,Would it look windy in the photo if the lighting was changed?,yes,boolean
+COCO_val2014_000000153764.jpg,Is a man standing under an umbrella?,yes,Would a man be standing under an umbrella if the umbrella was removed?,no,boolean
+COCO_val2014_000000154721.jpg,Is the book open?,yes,Would the book be open if its cover was closed?,no,boolean
+COCO_val2014_000000154816.jpg,Is this a college baseball game?,no,Would this be a college baseball game if college students were playing baseball?,yes,boolean
+COCO_val2014_000000155793.jpg,Can you see any cheese?,yes,Would there be any cheese if all the dishes that had cheese were removed?,no,boolean
+COCO_val2014_000000174989.jpg,Is this a prom or wedding or other similar formal event?,yes,Would this be a prom or wedding or other similar formal event if there were no formal attire present?,no,boolean
+COCO_val2014_000000175102.jpg,Is the container recyclable?,yes,Would the container be recyclable if it was made of non-recyclable materials?,no,boolean
+COCO_val2014_000000175539.jpg,Are there any trees in the background?,no,Would there be any trees in the background if some were added?,yes,boolean
+COCO_val2014_000000175619.jpg,Are there tattoos?,no,Would there be tattoos if some were added?,yes,boolean
+COCO_val2014_000000175785.jpg,Are the woman and cake in motion?,no,Would the woman and cake be in motion if they were moving?,yes,boolean
+COCO_val2014_000000176193.jpg,Is the window frame freshly painted?,no,Would the window frame be freshly painted if it had a fresh coat of paint?,yes,boolean
+COCO_val2014_000000186892.jpg,Is that a lot of hamburgers?,no,Would that be a lot of hamburgers if more were added?,yes,boolean
+COCO_val2014_000000187852.jpg,Is there a news interview taking place?,yes,Would there be a news interview taking place if it was canceled?,no,boolean
+COCO_val2014_000000197369.jpg,Is the woman smiling?,yes,Would the woman be smiling if she was frowning?,no,boolean
+COCO_val2014_000000198163.jpg,Is the man a painter?,yes,Would the man be a painter if he was a teacher?,no,boolean
+COCO_val2014_000000198349.jpg,Is there a sand castle?,no,Would there be a sand castle if one were built on the ground?,yes,boolean
+COCO_val2014_000000198799.jpg,Are they having a fight?,no,Would they be having a fight if they started arguing with each other?,yes,boolean
+COCO_val2014_000000205196.jpg,Have any of these been partially eaten?,yes,Would any of these be partially eaten if they were put on display for the first time?,no,boolean
+COCO_val2014_000000205253.jpg,Is the woman telling a story?,yes,Would the woman be telling a story if she stopped talking?,no,boolean
+COCO_val2014_000000205333.jpg,Is there a ski lift?,no,Would there be a ski lift if one was built?,yes,boolean
+COCO_val2014_000000219144.jpg,Is there a man boarding the bus?,yes,Would there be a man boarding the bus if he missed it?,no,boolean
+COCO_val2014_000000219260.jpg,Is this a steam engine?,yes,Would this be a steam engine if the steam engine components were removed?,no,boolean
+COCO_val2014_000000219737.jpg,Will the man hit the ball?,yes,Would the man hit the ball if he was distracted?,no,boolean
+COCO_val2014_000000219916.jpg,Is the toilet paper roll almost gone?,no,Would the toilet paper roll be almost gone if a lot of it was used?,yes,boolean
+COCO_val2014_000000240323.jpg,Is there meat on this plate?,yes,"If all meat was removed from this plate, would there be meat on this plate?",no,boolean
+COCO_val2014_000000240783.jpg,Is this a healthy food?,no,"If this food was prepared with healthy ingredients and cooking methods, would this be a healthy food?",yes,boolean
+COCO_val2014_000000241326.jpg,Is the cat concerned about having the dog so close?,no,"If the dog's behavior was threatening to the cat, would the cat be concerned about having the dog so close?",yes,boolean
+COCO_val2014_000000242368.jpg,Are there radishes in the photo?,no,"If radishes were incorporated in the photo, would there be radishes in the photo?",yes,boolean
+COCO_val2014_000000253607.jpg,Is that a real bird on the tree?,yes,Would that be a real bird on the tree if it was replaced with a fake one?,no,boolean
+COCO_val2014_000000262197.jpg,Is there a tree in front of the building?,yes,Would there be a tree in front of the building if it was cut down?,no,boolean
+COCO_val2014_000000262227.jpg,Are there pill bottles?,no,Would there be pill bottles if they were put there?,yes,boolean
+COCO_val2014_000000262360.jpg,Is this a glass flower vase?,yes,Would this be a glass flower vase if the material was changed?,no,boolean
+COCO_val2014_000000262376.jpg,Are flowers on the Umbrellas?,yes,Would there be flowers on the umbrellas if they were removed?,no,boolean
+COCO_val2014_000000262391.jpg,Can you see through these curtains?,no,Would you be able to see through these curtains if they were opened?,yes,boolean
+COCO_val2014_000000262396.jpg,Is this cat clawing the chair?,yes,Would the cat be clawing the chair if it had a scratching post?,no,boolean
+COCO_val2014_000000262440.jpg,Are the walls tiled?,yes,Would the walls be tiled if the tiles were taken off?,no,boolean
+COCO_val2014_000000262460.jpg,Was this outfit picked out?,yes,Would this outfit be picked out if a different outfit was chosen?,no,boolean
+COCO_val2014_000000262471.jpg,Has the grass been mowed?,yes,Would the grass be mowed if it wasn't mowed?,no,boolean
+COCO_val2014_000000262476.jpg,Are the people having a party?,yes,Would the people be having a party if it was cancelled or postponed?,no,boolean
+COCO_val2014_000000262505.jpg,Are the cars on the road?,yes,Would the cars be on the road if they were removed from the road?,no,boolean
+COCO_val2014_000000262509.jpg,Are the boats seaworthy?,yes,Would the boats be seaworthy if they were damaged?,no,boolean
+COCO_val2014_000000262531.jpg,Is anyone watching the skater?,yes,Would anyone be watching the skater if there were no people?,no,boolean
+COCO_val2014_000000262576.jpg,Is the power connected to the laptop?,yes,Would the power be connected to the laptop if it was unplugged?,no,boolean
+COCO_val2014_000000262605.jpg,Does this child need more responsibilities?,no,Would this child need more responsibilities if they were given more tasks?,yes,boolean
+COCO_val2014_000000262608.jpg,Is this a meal for a child?,no,Would this be a meal for a child if it was served to a child?,yes,boolean
+COCO_val2014_000000262642.jpg,Is this man standing on a crowded street?,no,Would this man be standing on a crowded street if he was put in a crowded street?,yes,boolean
+COCO_val2014_000000262654.jpg,Is there anything healthy on the plate?,yes,Would there be anything healthy on the plate if all healthy food was removed?,no,boolean
+COCO_val2014_000000262800.jpg,Is the plane gray?,no,Would the plane be gray if it was painted gray?,yes,boolean
+COCO_val2014_000000262873.jpg,Is the person in motion?,yes,Would the person be in motion if they stopped moving?,no,boolean
+COCO_val2014_000000262985.jpg,Are there flags in the picture?,yes,Would there be flags in the picture if all flags were removed?,no,boolean
+COCO_val2014_000000262986.jpg,Is there moss on the rocks?,yes,Would there be moss on the rocks if they were clean?,no,boolean
+COCO_val2014_000000262993.jpg,Is this animal alive?,yes,Would this animal be alive if its heart was stopped?,no,boolean
+COCO_val2014_000000263120.jpg,Would the animals drink from this water source?,yes,Would the animals drink from this water source if it was poisoned?,no,boolean
+COCO_val2014_000000263136.jpg,Is there any humans here?,yes,Would there be any human here if all present humans were removed?,no,boolean
+COCO_val2014_000000263146.jpg,Is a dog riding the motorcycle?,yes,Would a dog be riding the motorcycle if there were no dog on the motorcycle?,no,boolean
+COCO_val2014_000000263163.jpg,Is there a backpack on the bench?,yes,Would there be a backpack on the bench if the backpack was removed?,no,boolean
+COCO_val2014_000000263223.jpg,Is there snow?,yes,Would there be snow if the temperature were above freezing point?,no,boolean
+COCO_val2014_000000263251.jpg,Is the umbrella spinning?,yes,Would the umbrella be spinning if its motion was stopped using force?,no,boolean
+COCO_val2014_000000263346.jpg,Is this plane flying?,no,Would the plane be flying if it took off?,yes,boolean
+COCO_val2014_000000263351.jpg,Does this woman look happy?,no,Would this woman look happy if she saw something she loves?,yes,boolean
+COCO_val2014_000000263355.jpg,Are the skiers in a competition?,yes,Would the skiers be in a competition if they were skiing for fun?,no,boolean
+COCO_val2014_000000263412.jpg,Is there a ticket machine on the sidewalk?,no,Would there be a ticket machine on the sidewalk if a machine were placed there?,yes,boolean
+COCO_val2014_000000263428.jpg,Is this a farm?,yes,Would this place be a farm if a non-farm-related building was constructed here?,no,boolean
+COCO_val2014_000000263474.jpg,Is the toilet seat down?,yes,Would the toilet seat be down if it were lifted?,no,boolean
+COCO_val2014_000000263520.jpg,Does this appear to be taken in a zoo?,no,Would this photo appear to be taken in a zoo if elements commonly seen at a zoo were added to it?,yes,boolean
+COCO_val2014_000000263594.jpg,Are the car doors open?,no,Would the car doors be open if the unlock button was pressed?,yes,boolean
+COCO_val2014_000000263647.jpg,Is the person on the ground wearing gloves?,yes,Would the person on the ground be wearing gloves if their gloves were removed?,no,boolean
+COCO_val2014_000000263664.jpg,Is everyone in this photo the same gender?,yes,Would everyone in this photo be the same gender if a person of a different gender was added?,no,boolean
+COCO_val2014_000000263668.jpg,Are there people in the image?,yes,Would there be people in the image if there weren't any human beings in the image?,no,boolean
+COCO_val2014_000000263679.jpg,Are they near water?,yes,Would they be near water if they were taken away from the water source?,no,boolean
+COCO_val2014_000000263687.jpg,Does the man have curly hair?,no,Would the man have curly hair if his hair was curled with a curling iron?,yes,boolean
+COCO_val2014_000000263700.jpg,Does that man have a free hand?,yes,Would that man have a free hand if he was holding an object in both hands?,no,boolean
+COCO_val2014_000000263723.jpg,Are there red peppers on the pizza?,yes,Would there be red peppers on the pizza if they were removed from the pizza?,no,boolean
+COCO_val2014_000000263758.jpg,Is the plane at an airport?,yes,Would the plane be at an airport if it was flying in the sky?,no,boolean
+COCO_val2014_000000263858.jpg,Are the boats moving?,yes,Would the boats be moving if they were anchored?,no,boolean
+COCO_val2014_000000263929.jpg,Are these animals all facing the same direction?,yes,Would these animals all be facing the same direction if one of them was turned around?,no,boolean
+COCO_val2014_000000264017.jpg,Is there Parmesan cheese on the pizza?,yes,Would there be Parmesan cheese on the pizza if it was scraped off?,no,boolean
+COCO_val2014_000000264110.jpg,Is something sleeping?,yes,Would something be sleeping if noise was made?,no,boolean
+COCO_val2014_000000264124.jpg,Is someone on the phone?,yes,Would someone be on the phone if the call was ended?,no,boolean
+COCO_val2014_000000264161.jpg,Is there a pager in this picture?,no,Would there be a pager in this picture if it was Photoshopped into the picture?,yes,boolean
+COCO_val2014_000000264180.jpg,Are the cows in open pasture?,no,"If the cows were moved out of their pen, would they be in open pasture?",yes,boolean
+COCO_val2014_000000264209.jpg,Does the window have curtains?,no,"If curtains were added to the window, would it have curtains?",yes,boolean
+COCO_val2014_000000264222.jpg,Is there a plate?,yes,"If the plate was removed, would there be a plate?",no,boolean
+COCO_val2014_000000264268.jpg,Are there any clouds in the sky?,no,"If there was a storm, would there be any clouds in the sky?",yes,boolean
+COCO_val2014_000000264279.jpg,Is this person on the surfboard?,yes,"If the person got off the surfboard, would they be on the surfboard?",no,boolean
+COCO_val2014_000000264382.jpg,Is the pitcher in this photo?,yes,"If the pitcher was taken out of the photo, would the pitcher be in the photo?",no,boolean
+COCO_val2014_000000264385.jpg,Are there multiple serving dishes on the table?,no,"If more serving dishes were added to the table, would there be multiple serving dishes on the table?",yes,boolean
+COCO_val2014_000000264420.jpg,Is there any pavement?,no,"If all pavement was removed, would there be any pavement?",no,boolean
+COCO_val2014_000000264423.jpg,Are there clouds in the sky?,no,"If there were a storm, would there be clouds in the sky?",yes,boolean
+COCO_val2014_000000264554.jpg,Is the seat open?,yes,Would the seat be open if a bag was on it?,no,boolean
+COCO_val2014_000000264568.jpg,Is the woman wearing glasses?,yes,Would the woman be wearing glasses if she took off the glasses?,no,boolean
+COCO_val2014_000000264615.jpg,Are the cows eating the grass?,yes,Would the cows be eating the grass if there was no grass?,no,boolean
+COCO_val2014_000000264628.jpg,Is the small mirror attached to the wall?,yes,Would the small mirror be attached to the wall if it was removed from the wall?,no,boolean
+COCO_val2014_000000264659.jpg,Are there any people in the street?,yes,Would there be people in the street if all shops and businesses were closed?,no,boolean
+COCO_val2014_000000264976.jpg,Is the toilet paper roll full?,no,Would the toilet paper roll be full if more paper was added to the roll?,yes,boolean
+COCO_val2014_000000265050.jpg,Is the person watching a movie?,yes,Would the person be watching a movie if the laptop was turned off?,no,boolean
+COCO_val2014_000000265059.jpg,Is the giraffe in a forest?,yes,Would the giraffe be in a forest if it was in a savannah?,no,boolean
+COCO_val2014_000000265085.jpg,Is the net on this tennis racket yellow?,yes,Would the net on this tennis racket be yellow if it was changed to another color?,no,boolean
+COCO_val2014_000000265234.jpg,Are people playing in the water?,no,Would people be playing in the water if they were in a water park?,yes,boolean
+COCO_val2014_000000265372.jpg,Are there people in the boat?,no,Would there be people in the boat if people were added to the boat?,yes,boolean
+COCO_val2014_000000265374.jpg,Is the tennis Court Green?,no,Would the tennis court be green if it was painted green?,yes,boolean
+COCO_val2014_000000265433.jpg,Does the dog look like it's smiling?,yes,Would the dog look like it's smiling if its expression was changed?,no,boolean
+COCO_val2014_000000265550.jpg,Is he wearing a wetsuit?,yes,Would he be wearing a wetsuit if he changed his clothes?,no,boolean
+COCO_val2014_000000265596.jpg,Is the napkin patterned?,yes,Would the napkin be patterned if a plain napkin was used?,no,boolean
+COCO_val2014_000000265635.jpg,Is this woman pooping?,no,Would this woman be pooping if she had taken laxatives?,yes,boolean
+COCO_val2014_000000265636.jpg,Is the bear wearing a Santa outfit?,no,Would the bear be wearing a Santa outfit if dressed in a Santa costume?,yes,boolean
+COCO_val2014_000000265719.jpg,Is the man's mouth open?,yes,Would the man's mouth be open if he was told to close it?,no,boolean
+COCO_val2014_000000265742.jpg,Has this elephant been trained?,no,Would the elephant have been trained if it was trained?,yes,boolean
+COCO_val2014_000000265771.jpg,Is there a microwave on the table?,yes,Would there be a microwave on the table if the microwave was taken off the table?,no,boolean
+COCO_val2014_000000265777.jpg,Is there food on the table?,yes,Would there be food on the table if the table was cleared?,no,boolean
+COCO_val2014_000000265872.jpg,Is anyone riding the motorcycle?,no,Would anyone be riding the motorcycle if they got on it?,yes,boolean
+COCO_val2014_000000265879.jpg,Is the man drinking wine?,yes,Would the man be drinking wine if the wine was replaced with water?,no,boolean
+COCO_val2014_000000265916.jpg,Does the dog enjoy being in a backpack?,yes,Would the dog enjoy being in a backpack if it was taken out of the backpack?,no,boolean
+COCO_val2014_000000266370.jpg,Are these vegetables cooked?,yes,Would these vegetables be cooked if they were raw?,no,boolean
+COCO_val2014_000000266376.jpg,Is this a pro baseball player?,yes,Would this be a pro baseball player if the baseball equipment was removed?,no,boolean
+COCO_val2014_000000266385.jpg,Is this clock working?,yes,Would this clock be working if the batteries were removed?,no,boolean
+COCO_val2014_000000266434.jpg,Is there fencing between the players and photographer?,yes,Would there be fencing between the players and photographer if the fencing was removed?,no,boolean
+COCO_val2014_000000266491.jpg,Are the trees snowy?,yes,Would the trees be snowy if the snow was melted?,no,boolean
+COCO_val2014_000000266611.jpg,Is this a busy road?,no,Would this be a busy road if the traffic was increased?,yes,boolean
+COCO_val2014_000000266847.jpg,Is the boy holding a ball in one of his hands?,yes,Would the boy be holding a ball in one of his hands if the ball was taken away?,no,boolean
+COCO_val2014_000000266866.jpg,Is the man walking towards the car?,yes,Would the man be walking towards the car if he was walking away from the car?,no,boolean
+COCO_val2014_000000266892.jpg,Is this woman wearing a skirt that is too short?,no,Would this woman be wearing a skirt that is too short if she was given a shorter skirt?,yes,boolean
+COCO_val2014_000000266932.jpg,Are the bananas ripe?,yes,Would the bananas be ripe if they were not ripened yet?,no,boolean
+COCO_val2014_000000266977.jpg,Is this a colorful picture?,no,Would this be a colorful picture if more colors were added to it?,yes,boolean
+COCO_val2014_000000267035.jpg,Is the sandwich cut into thirds?,no,Would the sandwich be cut into thirds if it was sliced into three equal parts?,yes,boolean
+COCO_val2014_000000267115.jpg,Are there any flowers?,no,Would there be any flowers if flowers were placed here?,yes,boolean
+COCO_val2014_000000267127.jpg,Are the wheels made of wood?,no,Would the wheels be made of wood if they were replaced with wooden wheels?,yes,boolean
+COCO_val2014_000000267191.jpg,Does the man have a helmet?,yes,Would the man have a helmet if it was removed from his head?,no,boolean
+COCO_val2014_000000267231.jpg,Are the flowers in a clear vase?,no,Would the flowers be in a clear vase if they were transferred to a clear vase?,yes,boolean
+COCO_val2014_000000267300.jpg,Is the dog eating off of someone's plate?,yes,Would the dog be eating off of someone's plate if the plate was removed from its reach?,no,boolean
+COCO_val2014_000000267314.jpg,Can the woman fit into the suitcase?,no,Would the woman be able to fit into the suitcase if the suitcase was larger?,yes,boolean
+COCO_val2014_000000267408.jpg,Is the lady fat?,yes,Would the lady be fat if she lost weight?,no,boolean
+COCO_val2014_000000267411.jpg,Is there a service man in the picture?,no,Would there be a service man in the picture if a service man was added to the picture?,yes,boolean
+COCO_val2014_000000267515.jpg,Is this near a sink?,yes,Would this be near a sink if it was moved away from the sink?,no,boolean
+COCO_val2014_000000267625.jpg,Is the man wearing a hat?,yes,Would the man be wearing a hat if he took off the hat?,no,boolean
+COCO_val2014_000000267643.jpg,Is that a bookshelf near them?,yes,Would there be a bookshelf near them if the bookshelf was removed?,no,boolean
+COCO_val2014_000000267684.jpg,Did the person fall?,no,Would the person have fallen if they were pushed?,yes,boolean
+COCO_val2014_000000267875.jpg,Was the photograph taken inside a vehicle?,yes,Would the photograph have been taken inside a vehicle if it was taken outside the vehicle?,no,boolean
+COCO_val2014_000000267933.jpg,Are these horses at the beach?,no,Would these horses be at the beach if they were brought to the beach?,yes,boolean
+COCO_val2014_000000267940.jpg,Is the water calm?,yes,Would the water be calm if waves were created?,no,boolean
+COCO_val2014_000000267972.jpg,Would there be a lot of cars driven here?,no,Would there be a lot of cars driven here if the traffic was increased?,yes,boolean
+COCO_val2014_000000268044.jpg,Does this man have glasses?,yes,Would this man have glasses if the glasses were removed?,no,boolean
+COCO_val2014_000000268058.jpg,Is any of these sauce spicy?,no,Would any of these sauces be spicy if chili peppers were added?,yes,boolean
+COCO_val2014_000000268124.jpg,Are these wild horses?,yes,Would these horses be wild if they were domesticated?,no,boolean
+COCO_val2014_000000268215.jpg,Does this meal look healthy?,yes,Would this meal look healthy if unhealthy ingredients were added?,no,boolean
+COCO_val2014_000000268412.jpg,Are there saddles on these animals?,no,Would there be saddles on these animals if saddles were put on them?,yes,boolean
+COCO_val2014_000000268725.jpg,Is this rider going around a sharp corner?,no,Would this rider be going around a sharp corner if they steered towards the corner?,yes,boolean
+COCO_val2014_000000268854.jpg,Are people on the boats?,yes,Would there be people on the boats if all the people were removed?,no,boolean
+COCO_val2014_000000268856.jpg,Is the baby paying attention to the men?,yes,Would the baby be paying attention to the men if it was distracted?,no,boolean
+COCO_val2014_000000268943.jpg,Is the picture clear?,yes,Would the picture be clear if it was smeared?,no,boolean
+COCO_val2014_000000268944.jpg,Is there steps?,no,Would there be steps if some steps were built?,yes,boolean
+COCO_val2014_000000269017.jpg,Are there enough towels for two people to use?,yes,Would there be enough towels for two people to use if some towels were removed?,no,boolean
+COCO_val2014_000000269280.jpg,Does this man have a beard?,yes,Would this man have a beard if his beard was shaved?,no,boolean
+COCO_val2014_000000269311.jpg,Is the sitting boy smoking?,yes,Would the sitting boy be smoking if there was no cigarette?,no,boolean
+COCO_val2014_000000269314.jpg,Is the cat large?,no,Would the cat be large if it grew?,yes,boolean
+COCO_val2014_000000269632.jpg,Is it night time?,yes,Would it be night time if it was day?,no,boolean
+COCO_val2014_000000269662.jpg,Is there anyone swimming in the water?,no,Would there be anyone swimming in the water if there was a person in the water?,yes,boolean
+COCO_val2014_000000269678.jpg,Is there a checkerboard?,no,Would there be a checkerboard if a checkerboard was placed?,yes,boolean
+COCO_val2014_000000269784.jpg,Is there a manhole?,yes,Would there be a manhole if the manhole was covered?,no,boolean
+COCO_val2014_000000269867.jpg,Is the vase to the left yellow?,yes,Would the vase to the left be yellow if the color of the vase to the left was changed?,no,boolean
+COCO_val2014_000000269879.jpg,Is the slice of pizza small?,no,Would the slice of pizza be small if the slice of pizza was cut into a smaller size?,yes,boolean
+COCO_val2014_000000269922.jpg,Are there any trees in the picture?,no,Would there be any trees in the picture if trees were added to the picture?,yes,boolean
+COCO_val2014_000000269926.jpg,Are there any people in the picture?,no,Would there be any people in the picture if people were added to the picture?,yes,boolean
+COCO_val2014_000000269942.jpg,Can you drive through this light now?,yes,Would you be able to drive through this light now if the light was red?,no,boolean
+COCO_val2014_000000269949.jpg,Are there any people in this photo?,yes,Would there be any people in this photo if all the people were removed?,no,boolean
+COCO_val2014_000000270001.jpg,Are there bananas in the photo?,no,Would there be bananas in the photo if bananas were added?,yes,boolean
+COCO_val2014_000000270045.jpg,Are the horses on a beach?,yes,Would the horses be on a beach if they were moved away from the beach?,no,boolean
+COCO_val2014_000000270165.jpg,Are there several especially feminine aspects to this cow hanging?,yes,Would there be several especially feminine aspects to this cow hanging if the hat was removed?,no,boolean
+COCO_val2014_000000270185.jpg,Is he left handed?,no,Would he be left-handed if his dominant hand was the left hand?,yes,boolean
+COCO_val2014_000000270556.jpg,Is there a lot of traffic?,yes,Would there be a lot of traffic if the roads were clear?,no,boolean
+COCO_val2014_000000270672.jpg,Is there a man holding a cup?,no,Would there be a man holding a cup if a man with a cup was brought?,yes,boolean
+COCO_val2014_000000270705.jpg,Is this bird outside?,yes,Would this bird be outside if the bird was brought inside?,no,boolean
+COCO_val2014_000000271032.jpg,Are there any birds in the water?,yes,Would there be birds in the water if the birds were removed?,no,boolean
+COCO_val2014_000000271035.jpg,Is there something in the trash?,no,Would there be something in the trash if something was put in the trash?,yes,boolean
+COCO_val2014_000000271063.jpg,Is this kitchen fully stocked?,no,Would this kitchen be fully stocked if supplies were brought in?,yes,boolean
+COCO_val2014_000000271138.jpg,Are these sheep from the same stock?,yes,Would these sheep be from the same stock if they were separated into different groups?,no,boolean
+COCO_val2014_000000271143.jpg,Does the floor have a rug on it?,yes,Would the floor have a rug on it if the rug was removed?,no,boolean
+COCO_val2014_000000271230.jpg,Is the bear in the water?,no,Would the bear be in the water if it was put in a body of water?,yes,boolean
+COCO_val2014_000000271240.jpg,Can you see the signs labels?,yes,Would you be able to see the signs labels if they were covered?,no,boolean
+COCO_val2014_000000271266.jpg,Is this a real plane?,no,Would this be a real plane if it was an actual functioning aircraft?,yes,boolean
+COCO_val2014_000000271452.jpg,Do these roads have two way traffic?,yes,Would these roads have two way traffic if they were one way?,no,boolean
+COCO_val2014_000000271457.jpg,Can you see snow?,no,Would you be able to see snow if you were in a snowy area?,yes,boolean
+COCO_val2014_000000271461.jpg,Is there broccoli in this dish?,yes,Would there be broccoli in this dish if the broccoli was removed?,no,boolean
+COCO_val2014_000000271548.jpg,Are the chairs all the same color?,yes,Would the chairs all be the same color if they were different colors?,no,boolean
+COCO_val2014_000000271576.jpg,Do the dogs know how to swim?,no,Would the dogs know how to swim if they were taught how to swim?,yes,boolean
+COCO_val2014_000000271666.jpg,Do they both have helmets on?,yes,Would they both have helmets on if a helmet was removed?,no,boolean
+COCO_val2014_000000271986.jpg,Are those doughnuts?,no,Would those be doughnuts if they were replaced with actual doughnuts?,yes,boolean
+COCO_val2014_000000271997.jpg,Is he wearing a tie?,yes,Would he be wearing a tie if the tie was removed?,no,boolean
+COCO_val2014_000000272110.jpg,Is this photo in black and white?,yes,Would this photo be in black and white if color filters were added?,no,boolean
+COCO_val2014_000000272323.jpg,Is this person wearing protective gear?,no,Would this person be wearing protective gear if they were provided with appropriate gear?,yes,boolean
+COCO_val2014_000000272610.jpg,Is there a TV tower in the picture?,yes,Would there be a TV tower in the picture if the tower was removed from the scene?,no,boolean
+COCO_val2014_000000272615.jpg,Do all the dishes contain fruits?,no,Would all the dishes contain fruits if fruits were added to each dish?,yes,boolean
+COCO_val2014_000000272635.jpg,Is the bird flying?,yes,Would the bird be flying if its wings were clipped?,no,boolean
+COCO_val2014_000000272666.jpg,Is the boy in danger of getting a splinter in his foot?,yes,Would the boy be in danger of getting a splinter in his foot if he wore protective shoes?,no,boolean
+COCO_val2014_000000272728.jpg,Are there roses in the vase?,no,Would there be roses in the vase if flowers were put in the vase?,yes,boolean
+COCO_val2014_000000272738.jpg,Is the laptop screen on?,yes,Would the laptop screen be on if the laptop was turned off?,no,boolean
+COCO_val2014_000000272926.jpg,Are there any seagulls in the picture?,yes,Would there be seagulls in the picture if the seagulls were removed?,no,boolean
+COCO_val2014_000000272968.jpg,Had this bed been moved lately?,no,Would this bed have been moved lately if the position was shifted?,yes,boolean
+COCO_val2014_000000273067.jpg,Is there any water?,yes,Would there be water if all the water was drained?,no,boolean
+COCO_val2014_000000273156.jpg,Is this a baby elephant?,no,Would this be a baby elephant if it were younger?,yes,boolean
+COCO_val2014_000000273188.jpg,Is this an iron gate?,yes,Would this be an iron gate if it was made of a different material?,no,boolean
+COCO_val2014_000000273198.jpg,Is there a fire?,no,Would there be a fire if a fire were started?,yes,boolean
+COCO_val2014_000000273230.jpg,Was this picture taken during the midday?,no,Would this picture have been taken during the midday if it was taken at noon?,yes,boolean
+COCO_val2014_000000273329.jpg,Is this a trade show?,yes,Would this be a trade show if the event was something else?,no,boolean
+COCO_val2014_000000273442.jpg,Is the egg carton full?,yes,Would the egg carton be full if some eggs were removed?,no,boolean
+COCO_val2014_000000273551.jpg,Is there a forest in the foreground from the flags?,no,Would there be a forest in the foreground from the flags if some trees were planted?,yes,boolean
+COCO_val2014_000000273618.jpg,Do the elephants have tusks?,yes,Would the elephants have tusks if their tusks were removed?,no,boolean
+COCO_val2014_000000273698.jpg,Is there butter on the pancakes?,no,Would there be butter on the pancakes if butter was added to them?,yes,boolean
+COCO_val2014_000000273772.jpg,Is the ground dirty?,yes,Would the ground be dirty if it was cleaned?,no,boolean
+COCO_val2014_000000274593.jpg,Is the sign written in English?,no,Would the sign be written in English if the language was changed to English?,yes,boolean
+COCO_val2014_000000524611.jpg,Is the train carrying people?,no,Would the train be carrying people if passengers boarded onto the train?,yes,boolean
+COCO_val2014_000000524621.jpg,Are these animals wild?,yes,Would these animals be wild if they were domesticated?,no,boolean
+COCO_val2014_000000524627.jpg,Are there any teenagers?,yes,Would there be any teenagers if all teenagers were removed from the location?,no,boolean
+COCO_val2014_000000524637.jpg,Are there magazines on the toilet tank?,no,Would there be magazines on the toilet tank if some magazines were placed on it?,yes,boolean
+COCO_val2014_000000524742.jpg,Is this type of art legal?,no,Would this type of art be legal if the laws were changed to permit it?,yes,boolean
+COCO_val2014_000000524822.jpg,Is there room neat?,yes,Would there be room neat if it was messy?,no,boolean
+COCO_val2014_000000524844.jpg,Is the skating in the night?,no,Would the skating be in the night if it was done after dark?,yes,boolean
+COCO_val2014_000000524850.jpg,Does the plane have four engines?,yes,Would the plane have four engines if one engine was removed?,no,boolean
+COCO_val2014_000000524887.jpg,Is the picture blurry?,no,Would the picture be blurry if the camera was shaken?,yes,boolean
+COCO_val2014_000000525087.jpg,Are there two people walking the horse?,no,Would there be two people walking the horse if another person was added?,yes,boolean
+COCO_val2014_000000525106.jpg,Is she wearing a hat?,yes,Would she be wearing a hat if the hat was removed?,no,boolean
+COCO_val2014_000000525118.jpg,Are these home grown bananas?,yes,Would these be home grown bananas if they were bought from a store?,no,boolean
+COCO_val2014_000000525184.jpg,Is she sleeping?,yes,Would she be sleeping if she was woken up?,no,boolean
+COCO_val2014_000000525208.jpg,Are street lights on?,yes,Would the street lights be on if they were turned off?,no,boolean
+COCO_val2014_000000525247.jpg,Is there a mouse in the photo?,no,Would there be a mouse in the photo if it was photoshopped in?,yes,boolean
+COCO_val2014_000000525354.jpg,Is this a color photo?,no,Would this be a color photo if it was changed to color?,yes,boolean
+COCO_val2014_000000525361.jpg,Do you see passengers?,no,Would you see passengers if you looked closely?,yes,boolean
+COCO_val2014_000000525369.jpg,Is the child looking wearing glasses?,no,Would the child be looking wearing glasses if glasses were put on the child?,yes,boolean
+COCO_val2014_000000525371.jpg,Is there an airplane in view?,yes,Would there be an airplane in view if the airplane was removed from the view?,no,boolean
+COCO_val2014_000000525927.jpg,Is there a blue house in the photo?,yes,Would there be a blue house in the photo if the blue house was removed?,no,boolean
+COCO_val2014_000000526000.jpg,Is this person's hair color natural?,no,Would this person's hair color be natural if the dye or artificial color was removed?,yes,boolean
+COCO_val2014_000000526030.jpg,Does the stove need to be cleaned?,no,Would the stove need to be cleaned if it accumulated dirt and grime?,yes,boolean
+COCO_val2014_000000526040.jpg,Did the man just fall over?,yes,Would the man have just fallen over if he were standing up straight?,no,boolean
+COCO_val2014_000000526044.jpg,Are there fences in the background?,no,Would there be fences in the background if fences were added to the scene?,yes,boolean
+COCO_val2014_000000526133.jpg,Is this a snowboard?,yes,Would this be a snowboard if it were a skateboard?,no,boolean
+COCO_val2014_000000526186.jpg,Does this kitchen have a microwave?,no,Would this kitchen have a microwave if a microwave were added to the kitchen?,yes,boolean
+COCO_val2014_000000526188.jpg,Is this picture colorful?,no,Would this picture be colorful if vibrant colors were added to the picture?,yes,boolean
+COCO_val2014_000000526197.jpg,Are these donuts?,yes,Would these be donuts if they were bagels?,no,boolean
+COCO_val2014_000000526222.jpg,Does it look like she will hit the ball?,yes,Would it look like she will hit the ball if her body position were changed?,no,boolean
+COCO_val2014_000000526353.jpg,Do all the people wear short-sleeves?,no,Would all the people wear short-sleeves if their clothes were changed?,yes,boolean
+COCO_val2014_000000526418.jpg,Does the bookshelf look neat?,no,Would the bookshelf look neat if the books were rearranged and organized?,yes,boolean
+COCO_val2014_000000526456.jpg,Are all the animals cows?,yes,Would all the animals be cows if other animals were introduced?,no,boolean
+COCO_val2014_000000526459.jpg,Does this bus have primer on it?,yes,Would this bus have primer on it if the primer was removed?,no,boolean
+COCO_val2014_000000526486.jpg,Are there leaves in the orange baskets?,yes,Would there be leaves in the orange baskets if the leaves were removed?,no,boolean
+COCO_val2014_000000526570.jpg,Is this daytime?,no,Would it be daytime if the sun rose?,yes,boolean
+COCO_val2014_000000526576.jpg,Is he frightened?,yes,Would he be frightened if he was calmed down?,no,boolean
+COCO_val2014_000000526580.jpg,Are the chairs white at the back?,no,Would the chairs be white at the back if the back was painted white?,yes,boolean
+COCO_val2014_000000526645.jpg,Is the animal moving?,yes,Would the animal be moving if it stopped?,no,boolean
+COCO_val2014_000000526756.jpg,Do all clocks show the same time?,no,Would all clocks show the same time if they were synchronized?,yes,boolean
+COCO_val2014_000000526767.jpg,Does the window have a curtain?,yes,Would the window have a curtain if the curtain was removed?,no,boolean
+COCO_val2014_000000526827.jpg,Is there a crayon?,no,Would there be a crayon if a crayon was placed?,yes,boolean
+COCO_val2014_000000526933.jpg,Is the man bored?,no,Would the man be bored if he had nothing to do?,yes,boolean
+COCO_val2014_000000527002.jpg,Is the man wearing a shirt?,no,Would the man be wearing a shirt if he put one on?,yes,boolean
+COCO_val2014_000000527023.jpg,Is this a night game?,no,Would this be a night game if the time was nighttime?,yes,boolean
+COCO_val2014_000000527086.jpg,Are these people waiting in line?,no,Would these people be waiting in line if they lined up?,yes,boolean
+COCO_val2014_000000527102.jpg,Is there a cardboard box?,yes,Would there be a cardboard box if the box was removed or replaced?,no,boolean
+COCO_val2014_000000527219.jpg,Has this food been cooked?,yes,Would this food be cooked if it was raw or unheated?,no,boolean
+COCO_val2014_000000527375.jpg,Are these modern computers?,yes,Would these be modern computers if they were outdated or old?,no,boolean
+COCO_val2014_000000527407.jpg,Are there iron bars?,no,Would there be iron bars if they were installed or added?,yes,boolean
+COCO_val2014_000000527427.jpg,Is her top plaid?,yes,Would her top be plaid if the pattern was changed?,no,boolean
+COCO_val2014_000000527575.jpg,Is this a penknife?,no,Would this be a penknife if the classification was changed or a pen function was added?,yes,boolean
+COCO_val2014_000000527578.jpg,Is there a TV in the room?,yes,Would there be a TV in the room if the TV was removed?,no,boolean
+COCO_val2014_000000527631.jpg,Is the plate round?,yes,Would the plate be round if the shape was changed?,no,boolean
+COCO_val2014_000000527695.jpg,Does this vegetable look overcooked?,yes,Would this vegetable look overcooked if it was cooked for a shorter time?,no,boolean
+COCO_val2014_000000527704.jpg,Are those roller skates?,yes,Would those be roller skates if they were sneakers?,no,boolean
+COCO_val2014_000000527733.jpg,Are the outside of a window?,no,Would the outside be a window if it had a window frame?,yes,boolean
+COCO_val2014_000000527783.jpg,Is there any clouds in the sky?,no,Would there be clouds in the sky if clouds were created?,yes,boolean
+COCO_val2014_000000527846.jpg,Is it a display?,yes,Would it be a display if it was turned off?,no,boolean
+COCO_val2014_000000528030.jpg,Is the man wearing glasses?,no,Would the man be wearing glasses if he had glasses?,yes,boolean
+COCO_val2014_000000528084.jpg,Is there a butterfly?,yes,Would there be a butterfly if the butterfly was removed?,no,boolean
+COCO_val2014_000000528091.jpg,Is the tennis player getting ready for a backhand?,yes,Would the tennis player be getting ready for a backhand if they were preparing for a forehand?,no,boolean
+COCO_val2014_000000528261.jpg,Are there rocks on the ground?,no,Would there be rocks on the ground if rocks were placed on the ground?,yes,boolean
+COCO_val2014_000000528276.jpg,Is it cold?,no,Would it be cold if the temperature was lowered?,yes,boolean
+COCO_val2014_000000528331.jpg,Are they on a runway?,no,Would they be on a runway if they were placed on the runway?,yes,boolean
+COCO_val2014_000000528458.jpg,Are these people horse racing?,yes,Would these people be horse racing if they were walking instead?,no,boolean
+COCO_val2014_000000528462.jpg,Are they on a truck?,no,Would they be on a truck if they were placed on the truck?,yes,boolean
+COCO_val2014_000000528470.jpg,Is the tv turned on?,no,Would the TV be turned on if the power button was pressed?,yes,boolean
+COCO_val2014_000000528488.jpg,Is the ground cold?,yes,Would the ground be cold if it was warm?,no,boolean
+COCO_val2014_000000528516.jpg,Is there any meat in the wok?,no,Would there be meat in the wok if meat was added to it?,yes,boolean
+COCO_val2014_000000528544.jpg,Is there a bed in this room?,yes,Would there be a bed in this room if the bed was removed?,no,boolean
+COCO_val2014_000000528595.jpg,Are the people in a train?,yes,Would the people be in a train if they were removed from the train?,no,boolean
+COCO_val2014_000000528720.jpg,Are they holding their drinks?,yes,Would they be holding their drinks if their drinks were taken away?,no,boolean
+COCO_val2014_000000528738.jpg,Are these veggies raw?,yes,Would these veggies be raw if they were cooked?,no,boolean
+COCO_val2014_000000528875.jpg,Is this a Japanese meal?,yes,Would this be a Japanese meal if the cuisine was changed to a different type?,no,boolean
+COCO_val2014_000000528936.jpg,Is there a disabled person?,yes,Would there be a disabled person if the disabled person was removed?,no,boolean
+COCO_val2014_000000528962.jpg,Does the truck have windshield wipers?,yes,Would the truck have windshield wipers if the windshield wipers were removed?,no,boolean
+COCO_val2014_000000528972.jpg,Is this a refrigerator?,yes,Would this be a refrigerator if it was changed into a different appliance?,no,boolean
+COCO_val2014_000000528977.jpg,Is there graffiti in this picture?,yes,Would there be graffiti in this picture if the graffiti was removed?,no,boolean
+COCO_val2014_000000529102.jpg,Is that a cup of fruit on the plate?,yes,Would that be a cup of fruit on the plate if it was replaced with a different object?,no,boolean
+COCO_val2014_000000529151.jpg,Is there a serving spoon on every plate?,no,Would there be a serving spoon on every plate if a serving spoon was placed on every plate?,yes,boolean
+COCO_val2014_000000529187.jpg,Are the giraffes the same size?,no,Would the giraffes be the same size if they were resized to be equal?,yes,boolean
+COCO_val2014_000000529215.jpg,Has it been raining?,yes,Would it have been raining if it was sunny?,no,boolean
+COCO_val2014_000000529235.jpg,Are there any people in the picture?,yes,Would there be any people in the picture if everyone was removed?,no,boolean
+COCO_val2014_000000529455.jpg,Does he have a swimsuit on?,yes,Would he have a swimsuit on if his swimsuit was removed?,no,boolean
+COCO_val2014_000000529549.jpg,Are the elephant playing?,yes,Would the elephants be playing if they were resting?,no,boolean
+COCO_val2014_000000529631.jpg,Are these people drinking alcohol?,yes,Would these people be drinking alcohol if their drinks were replaced with non-alcoholic beverages?,no,boolean
+COCO_val2014_000000529649.jpg,Is the cat asleep?,yes,Would the cat be asleep if it was woken up?,no,boolean
+COCO_val2014_000000529668.jpg,Does this woman look sad?,no,Would this woman look sad if she was frowning?,yes,boolean
+COCO_val2014_000000529698.jpg,Is anyone sitting on this bike?,no,Would anyone be sitting on this bike if someone took a seat on the bike?,yes,boolean
+COCO_val2014_000000529850.jpg,Is he wearing pants?,yes,Would he be wearing pants if he took off his pants?,no,boolean
+COCO_val2014_000000529917.jpg,Are these people waiters?,yes,Would these people be waiters if they had a different job?,no,boolean
+COCO_val2014_000000529968.jpg,Is the cat driving?,no,Would the cat be driving if it had control of the vehicle?,yes,boolean
+COCO_val2014_000000530033.jpg,Is there a place to wash your hands when finished?,yes,Would there be a place to wash your hands when finished if all washing facilities were removed?,no,boolean
+COCO_val2014_000000530052.jpg,Are all the carrots orange?,no,Would all the carrots be orange if the non-orange carrots were changed to orange?,yes,boolean
+COCO_val2014_000000530146.jpg,Is there sauce on the sandwich?,yes,Would there be sauce on the sandwich if the sauce was removed?,no,boolean
+COCO_val2014_000000530207.jpg,Is there a man with a safety vest?,yes,Would there be a man with a safety vest if the man or safety vest was removed?,no,boolean
+COCO_val2014_000000530226.jpg,Is there water in this picture?,yes,Would there be water in this picture if the water was removed?,no,boolean
+COCO_val2014_000000530259.jpg,Is there both paper and plastic ware?,yes,Would there be both paper and plastic ware if either the paper or plastic ware was removed?,no,boolean
+COCO_val2014_000000530313.jpg,Is anyone in the picture wearing a wig?,yes,Would anyone in the picture be wearing a wig if the wigs were removed from everyone in the picture?,no,boolean
+COCO_val2014_000000530367.jpg,Are there stripes on the rag?,yes,Would there be stripes on the rag if the stripes were removed?,no,boolean
+COCO_val2014_000000530384.jpg,Is there a blender?,yes,Would there be a blender if the blender was removed?,no,boolean
+COCO_val2014_000000530470.jpg,Is the sky cloudy?,yes,Would the sky be cloudy if it was clear?,no,boolean
+COCO_val2014_000000530494.jpg,Is the conveyor belt contraption made of stainless steel?,yes,Would the conveyor belt contraption be made of stainless steel if the material was changed?,no,boolean
+COCO_val2014_000000530520.jpg,Are they both wearing a tie?,no,Would they both be wearing a tie if they were given ties?,yes,boolean
+COCO_val2014_000000530558.jpg,Is the water cold?,yes,Would the water be cold if it was warmed up?,no,boolean
+COCO_val2014_000000530571.jpg,Was the person who took this photo standing on the ground?,yes,Would the person who took this photo be standing on the ground if they were floating?,no,boolean
+COCO_val2014_000000530600.jpg,Are the stuffed bears wearing jackets?,yes,Would the stuffed bears be wearing jackets if their jackets were removed?,no,boolean
+COCO_val2014_000000530619.jpg,Is the man wearing a life jacket?,yes,Would the man be wearing a life jacket if he took it off?,no,boolean
+COCO_val2014_000000530624.jpg,Is the dog sleeping?,yes,Would the dog be sleeping if it was woken up?,no,boolean
+COCO_val2014_000000530631.jpg,Is this a mechanic?,yes,Would this be a mechanic if the occupation was changed?,no,boolean
+COCO_val2014_000000530656.jpg,Is the ball moving towards the player in the center?,yes,Would the ball be moving towards the player in the center if its direction was changed?,no,boolean
+COCO_val2014_000000530934.jpg,Is there snow?,yes,Would there be snow if it was melted?,no,boolean
+COCO_val2014_000000530975.jpg,Is there a bag of chips?,yes,Would there be a bag of chips if the bag was removed?,no,boolean
+COCO_val2014_000000531018.jpg,Is there any boat there?,no,Would there be any boat there if a boat was brought?,yes,boolean
+COCO_val2014_000000531036.jpg,Is the bus available to pick up passengers?,yes,Would the bus be available to pick up passengers if the bus service was closed?,no,boolean
+COCO_val2014_000000531061.jpg,Do they both have helmets on?,no,Would they both have helmets on if they were given helmets?,yes,boolean
+COCO_val2014_000000531069.jpg,Is the man wearing a hat?,yes,Would the man be wearing a hat if the hat was removed from his head?,no,boolean
+COCO_val2014_000000531092.jpg,Are the plate reusable?,yes,Would the plates be reusable if they were disposable?,no,boolean
+COCO_val2014_000000531128.jpg,Is it night time?,no,Would it be night time if the sun went down?,yes,boolean
+COCO_val2014_000000531134.jpg,Does the yellow light have the same emotion as the red light?,no,Would the yellow light have the same emotion as the red light if both lights indicated danger?,yes,boolean
+COCO_val2014_000000531135.jpg,Is anyone on base?,yes,Would anyone be on base if everyone had left the base?,no,boolean
+COCO_val2014_000000531232.jpg,Are there archways?,no,Would there be archways if arches were constructed?,yes,boolean
+COCO_val2014_000000531264.jpg,Is the man wearing cufflinks?,yes,Would the man be wearing cufflinks if the cufflinks were removed from his attire?,no,boolean
+COCO_val2014_000000531324.jpg,Is this a high-rise building?,no,Would this be a high-rise building if more floors were added?,yes,boolean
+COCO_val2014_000000531327.jpg,Is there any meat on the plate?,no,Would there be any meat on the plate if a steak was placed on it?,yes,boolean
+COCO_val2014_000000531335.jpg,Is the boy awake?,yes,Would the boy be awake if he fell asleep?,no,boolean
+COCO_val2014_000000531739.jpg,Does he have a tie clip?,yes,Would he have a tie clip if the tie clip was removed?,no,boolean
+COCO_val2014_000000531771.jpg,Is this an old stove?,no,Would this be an old stove if it was aged?,yes,boolean
+COCO_val2014_000000531796.jpg,Are people waiting for the bus?,yes,Would people be waiting for the bus if they left?,no,boolean
+COCO_val2014_000000531816.jpg,Is the girl's face painted?,yes,Would the girl's face be painted if the paint was removed?,no,boolean
+COCO_val2014_000000532387.jpg,Does this little boy like pirates?,no,Would this little boy like pirates if he watched pirate movies?,yes,boolean
+COCO_val2014_000000532403.jpg,Is there any food?,no,Would there be any food if groceries were brought?,yes,boolean
+COCO_val2014_000000532552.jpg,Are they playing basketball?,no,Would they be playing basketball if they had a basketball?,yes,boolean
+COCO_val2014_000000532671.jpg,Is anyone riding the bike?,no,Would anyone be riding the bike if a person hopped on?,yes,boolean
+COCO_val2014_000000532732.jpg,Is the woman having lunch?,no,Would the woman be having lunch if she had some food?,yes,boolean
+COCO_val2014_000000000590.jpg,Would this be considered an old fashion bathroom?,no,Would this be considered an old fashion bathroom if vintage fixtures were added?,yes,boolean
+COCO_val2014_000000001089.jpg,Would these person fit in to most hip hop scenes?,no,Would these people fit into most hip hop scenes if they dressed in hip hop style?,yes,boolean
+COCO_val2014_000000001149.jpg,Are those imitation missiles on the table?,yes,Would there be imitation missiles on the table if the objects were removed?,no,boolean
+COCO_val2014_000000001292.jpg,Are her legs extended?,no,Would her legs look extended if she stretched them out?,yes,boolean
+COCO_val2014_000000001464.jpg,Has the skier fallen?,yes,Would the skier have fallen if they maintained balance?,no,boolean
+COCO_val2014_000000001573.jpg,Does this stove look updated?,no,Would this stove look updated if old parts were replaced?,yes,boolean
+COCO_val2014_000000002239.jpg,Is this at a school?,no,Would this be at a school if the location was changed to a school?,yes,boolean
+COCO_val2014_000000003779.jpg,Are the wine glasses arranged in a pyramid?,no,Would the wine glasses be arranged in a pyramid if they were stacked in a pyramid shape?,yes,boolean
+COCO_val2014_000000003794.jpg,Is there cheese on the sandwich?,yes,Would there be cheese on the sandwich if the cheese was removed?,no,boolean
+COCO_val2014_000000003799.jpg,Is this building in the suburbs?,no,Would this building be in the suburbs if it was moved to a suburban area?,yes,boolean
+COCO_val2014_000000003947.jpg,Was this photo taken near water?,no,Would this photo have been taken near water if the photographer was moved to a location near water?,yes,boolean
+COCO_val2014_000000004497.jpg,Is this in America?,no,Would this be in America if the location was changed to America?,yes,boolean
+COCO_val2014_000000004754.jpg,Is this in a zoo?,no,Would this be in a zoo if it was moved to a zoo?,yes,boolean
+COCO_val2014_000000005033.jpg,Is this a commuter train?,no,Would this be a commuter train if it was designated as a train for commuters?,yes,boolean
+COCO_val2014_000000005502.jpg,Is this event for adults only?,no,Would this event be for adults only if entry was restricted to adults only?,yes,boolean
+COCO_val2014_000000005934.jpg,Is the glove large?,yes,Would the glove be large if it was resized to a smaller size?,no,boolean
+COCO_val2014_000000006497.jpg,Is this in America?,no,Would this be in America if the location was changed to America?,yes,boolean
+COCO_val2014_000000006614.jpg,Is the photo colored?,no,Would the photo be colored if color was added to the photo?,yes,boolean
+COCO_val2014_000000006701.jpg,Is the truck facing the wrong direction?,yes,Would the truck be facing the wrong direction if it was turned around?,no,boolean
+COCO_val2014_000000006874.jpg,Is it cloudy?,no,Would it be cloudy if the sky was covered with clouds?,yes,boolean
+COCO_val2014_000000007072.jpg,Was this photo taken at the park?,no,Would this photo be taken at the park if the camera was moved to the park?,yes,boolean
+COCO_val2014_000000007304.jpg,Is the kid a boy?,no,Would the kid be a boy if the gender of the kid was changed?,yes,boolean
+COCO_val2014_000000007726.jpg,Can you cross the street here?,no,Would you be able to cross the street here if there were no obstacles?,yes,boolean
+COCO_val2014_000000008016.jpg,Is this a fighter jet?,yes,Would this be a fighter jet if it was a different type of plane?,no,boolean
+COCO_val2014_000000008218.jpg,Is this a tower clock?,yes,Would this be a tower clock if it was a different type of clock?,no,boolean
+COCO_val2014_000000008277.jpg,Does this look delicious?,no,Would this look delicious if it had appetizing ingredients?,yes,boolean
+COCO_val2014_000000008333.jpg,Did the train just stop?,no,Would the train just stop if the brakes were applied?,yes,boolean
+COCO_val2014_000000008647.jpg,Is this an Spanish town?,no,Would this be a Spanish town if the location was Spain?,yes,boolean
+COCO_val2014_000000008923.jpg,Is this a rural area?,no,Would this be a rural area if urban elements were removed?,yes,boolean
+COCO_val2014_000000009450.jpg,Is this a major league game?,no,Would this be a major league game if professional players were invited?,yes,boolean
+COCO_val2014_000000009647.jpg,Is it raining?,no,Would it be raining if there were dark clouds and precipitation?,yes,boolean
+COCO_val2014_000000010149.jpg,Is the cabinet holding the bottles freshly painted?,no,Would the cabinet be freshly painted if a new coat of paint was applied?,yes,boolean
+COCO_val2014_000000010192.jpg,Is she helping or not?,no,Would she be helping if she was assigned a task and observed assisting?,yes,boolean
+COCO_val2014_000000010324.jpg,Is the fridge almost empty?,no,Would the fridge be almost empty if most of the food inside was used up?,yes,boolean
+COCO_val2014_000000010400.jpg,Are there any people next to this building?,no,Would there be any people next to this building if a crowd gathered?,yes,boolean
+COCO_val2014_000000010432.jpg,Is this a vegetable stand?,no,Would this be a vegetable stand if vegetables were put on display?,yes,boolean
+COCO_val2014_000000010442.jpg,Are the men fighting?,no,Would the men be fighting if they were provoked?,yes,boolean
+COCO_val2014_000000010920.jpg,Is this at a police station?,no,Would this be at a police station if the sign outside indicated it?,yes,boolean
+COCO_val2014_000000011172.jpg,Are the plants growing outdoors?,no,Would the plants be growing outdoors if they were planted in the open air?,yes,boolean
+COCO_val2014_000000011305.jpg,Is the space organized?,no,Would the space be organized if everything was tidy and arranged?,yes,boolean
+COCO_val2014_000000011390.jpg,Are both of the animals bears?,yes,Would both of the animals be bears if one or both of them were changed?,no,boolean
+COCO_val2014_000000011742.jpg,Is the TV on?,no,Would the TV be on if it was pressed the power button?,yes,boolean
+COCO_val2014_000000012016.jpg,Is it sunny?,no,Would it be sunny if the clouds were cleared up and the sun was shining through?,yes,boolean
+COCO_val2014_000000012115.jpg,Are the people in a mall?,no,Would the people be in a mall if they went to a mall?,yes,boolean
+COCO_val2014_000000012333.jpg,Is this a pony?,no,Would this be a pony if its species was changed to a pony?,yes,boolean
+COCO_val2014_000000012827.jpg,Is the animal happy?,no,Would the animal be happy if its needs were fulfilled?,yes,boolean
+COCO_val2014_000000013525.jpg,Is this a baby?,no,Would this be a baby if it was swapped with a baby?,yes,boolean
+COCO_val2014_000000014380.jpg,Is it about to rain?,no,Would it be about to rain if dark clouds were gathering?,yes,boolean
+COCO_val2014_000000014756.jpg,Is this man engaging in friendly behavior?,no,Would this man be engaging in friendly behavior if he waved and smiled?,yes,boolean
+COCO_val2014_000000014869.jpg,Should this bench be repainted?,no,Should this bench be repainted if the paint were peeling?,yes,boolean
+COCO_val2014_000000014888.jpg,Is that a dog?,no,Would that be a dog if it were replaced with a dog?,yes,boolean
+COCO_val2014_000000015968.jpg,Is he happy?,no,Would he be happy if he was laughing?,yes,boolean
+COCO_val2014_000000016599.jpg,Are there people in the photo?,yes,Would there be people in the photo if all the people were removed?,no,boolean
+COCO_val2014_000000016631.jpg,Are the signs in the same language?,no,Would the signs be in the same language if they were all translated to the same language?,yes,boolean
+COCO_val2014_000000016744.jpg,Is it taken in Winter?,yes,Would it be taken in Winter if the season was changed to a different one?,no,boolean
+COCO_val2014_000000016905.jpg,Does the elephant have paint on its face?,yes,Would the elephant have paint on its face if its face was cleaned?,no,boolean
+COCO_val2014_000000016977.jpg,Are there people driving?,no,Would there be people driving if people drove the vehicles?,yes,boolean
+COCO_val2014_000000044309.jpg,Is there a bridge nearby?,yes,Would there be a bridge nearby if the bridge was removed?,no,boolean
+COCO_val2014_000000046405.jpg,Are the buses parked?,yes,Would the buses be parked if they drove away?,no,boolean
+COCO_val2014_000000066154.jpg,Are these vases handmade?,yes,Would these vases be handmade if they were mass-produced with machines?,no,boolean
+COCO_val2014_000000067342.jpg,Does the little bird have a beady blue eye?,no,Would the little bird have a beady blue eye if its eye was painted blue?,yes,boolean
+COCO_val2014_000000088120.jpg,Are her pants tight?,no,Would her pants be tight if she wore a smaller size?,yes,boolean
+COCO_val2014_000000089549.jpg,Is this vegan?,no,Would this be vegan if all animal products were removed?,yes,boolean
+COCO_val2014_000000131444.jpg,Has this man ever been President of the United States?,no,Would this man have been President of the United States if he was elected?,yes,boolean
+COCO_val2014_000000131856.jpg,Is it a cloudy day?,no,Would it be a cloudy day if clouds were brought in?,yes,boolean
+COCO_val2014_000000131942.jpg,Is this a recent photo?,no,Would this be a recent photo if it was taken in the present time?,yes,boolean
+COCO_val2014_000000132288.jpg,Is the man going to fall of his board?,no,Would the man be going to fall off his board if he lost balance?,yes,boolean
+COCO_val2014_000000132540.jpg,Is this room muted?,no,Would this room be muted if all sound sources were turned off?,yes,boolean
+COCO_val2014_000000132703.jpg,Is what the guy is doing look safe?,no,Would what the guy is doing look safe if there were proper safety measures?,yes,boolean
+COCO_val2014_000000133042.jpg,Is this a professional game?,no,Would this be a professional game if it met the standards of professional games?,yes,boolean
+COCO_val2014_000000133090.jpg,Is the player about to fall?,yes,Would the player be about to fall if they regained balance?,no,boolean
+COCO_val2014_000000133098.jpg,Does it look like it is going to rain?,no,Would it look like it is going to rain if the sky was darkened?,yes,boolean
+COCO_val2014_000000133343.jpg,Is the man out at night?,yes,Would the man be out at night if he stayed indoors?,no,boolean
+COCO_val2014_000000133464.jpg,Is the computer turned on?,yes,Would the computer be turned on if it was switched off?,no,boolean
+COCO_val2014_000000133515.jpg,Is the oven on?,no,Would the oven be on if the switch was turned on?,yes,boolean
+COCO_val2014_000000133629.jpg,Is this a public place?,no,Would this be a public place if it was open to the public?,yes,boolean
+COCO_val2014_000000133679.jpg,Is this place located somewhere in the woods?,no,Would this place be located somewhere in the woods if it was moved to the woods?,yes,boolean
+COCO_val2014_000000134213.jpg,Is this place open at 9 am?,no,Would this place be open at 9 am if the opening time was 9 am?,yes,boolean
+COCO_val2014_000000134288.jpg,Are there only citrus fruits on the table?,yes,Would there be only citrus fruits on the table if other fruits were added to the table?,no,boolean
+COCO_val2014_000000134343.jpg,Has someone sat on the bench today?,no,Would someone have sat on the bench today if someone sat on the bench today?,yes,boolean
+COCO_val2014_000000134542.jpg,Are there vegetables?,no,Would there be vegetables if vegetables were added?,yes,boolean
+COCO_val2014_000000134691.jpg,Is this washroom in good shape?,no,Would this washroom be in good shape if it was repaired?,yes,boolean
+COCO_val2014_000000134722.jpg,Are there any people waiting for the train?,no,Would there be any people waiting for the train if there was a crowd of people?,yes,boolean
+COCO_val2014_000000135167.jpg,Is this a vegetarian dish?,no,Would this be a vegetarian dish if all meat was removed?,yes,boolean
+COCO_val2014_000000135275.jpg,Is the animal featured in the picture sitting in the driver's seat?,no,Would the animal be sitting in the driver's seat if it was moved there?,yes,boolean
+COCO_val2014_000000135561.jpg,Is there a couch in this photo?,no,Would there be a couch in this photo if a couch was inserted into it?,yes,boolean
+COCO_val2014_000000135566.jpg,Is the sky completely clear of clouds?,no,Would the sky be completely clear of clouds if all clouds were removed?,yes,boolean
+COCO_val2014_000000135578.jpg,Is there a motorcycle near this shop?,no,Would there be a motorcycle near this shop if a motorcycle was placed near it?,yes,boolean
+COCO_val2014_000000135604.jpg,Is the man in the photo playing soccer?,yes,Would the man be playing soccer if he was engaged in an activity other than playing soccer?,no,boolean
+COCO_val2014_000000135620.jpg,Is this a small boat?,no,Would this be a small boat if its size was shrunken to be smaller?,yes,boolean
+COCO_val2014_000000135690.jpg,Is the bike in the air?,yes,Would the bike be in the air if it was on the ground?,no,boolean
+COCO_val2014_000000135902.jpg,Are these passenger trains?,no,Would these be passenger trains if they had seats and facilities for passengers?,yes,boolean
+COCO_val2014_000000136042.jpg,Is this in America?,no,Would this be in America if it was moved there?,yes,boolean
+COCO_val2014_000000136250.jpg,Is this cat a cut out picture?,no,Would this cat be a cut out picture if it was made of paper?,yes,boolean
+COCO_val2014_000000136552.jpg,Can you ride this bus today?,no,Would you be able to ride this bus today if the bus was available?,yes,boolean
+COCO_val2014_000000136584.jpg,Is it cloudy?,no,Would it be cloudy if the sky was covered with clouds?,yes,boolean
+COCO_val2014_000000136734.jpg,Are the people watching?,no,Would the people be watching if their attention was captured with something interesting?,yes,boolean
+COCO_val2014_000000137120.jpg,Is the sky cloudy?,no,Would the sky be cloudy if it was covered with clouds?,yes,boolean
+COCO_val2014_000000137185.jpg,Is this a professional photo?,no,Would this be a professional photo if it was taken by a professional photographer?,yes,boolean
+COCO_val2014_000000137211.jpg,Are there any soldiers?,no,Would there be any soldiers if they were deployed to the area?,yes,boolean
+COCO_val2014_000000137330.jpg,Is this a race?,yes,Would this be a race if the event was canceled?,no,boolean
+COCO_val2014_000000137402.jpg,Is there sufficient storage in this bathroom?,no,Would there be sufficient storage in this bathroom if more storage cabinets were added?,yes,boolean
+COCO_val2014_000000137634.jpg,Is this a Canadian hydrant?,yes,Would this be a Canadian hydrant if the location was changed to a non-Canadian city?,no,boolean
+COCO_val2014_000000138175.jpg,Does this man look happy?,no,Would this man look happy if he smiled?,yes,boolean
+COCO_val2014_000000138644.jpg,Does the woman have bangs?,yes,Would the woman have bangs if her bangs were cut off?,no,boolean
+COCO_val2014_000000138954.jpg,Would you feed this to a lion?,no,Would you feed this to a lion if it was a food that lions eat?,yes,boolean
+COCO_val2014_000000138965.jpg,Do you see a panda?,yes,Would you see a panda if the panda was removed from your sight?,no,boolean
+COCO_val2014_000000138995.jpg,Is he wearing a tie?,yes,Would he be wearing a tie if he took off the tie?,no,boolean
+COCO_val2014_000000139097.jpg,Can you see a person in the mirror?,no,Would you see a person in the mirror if you stood in front of the mirror?,yes,boolean
+COCO_val2014_000000139623.jpg,Is this a zoo?,no,Would this be a zoo if animals were brought in and enclosures were built?,yes,boolean
+COCO_val2014_000000139740.jpg,Are the trains inside?,yes,Would the trains be inside if they were moved outside?,no,boolean
+COCO_val2014_000000140456.jpg,Is this in america?,no,Would this be in America if the location was changed to an American city?,yes,boolean
+COCO_val2014_000000140783.jpg,Was this taken at noon?,no,Would this be taken at noon if the time was changed to noon?,yes,boolean
+COCO_val2014_000000141343.jpg,Is the store open for business?,no,Would the store be open for business if the doors were unlocked?,yes,boolean
+COCO_val2014_000000141501.jpg,Does this appear to be a military base?,no,Would this appear to be a military base if there were army vehicles and soldiers placed?,yes,boolean
+COCO_val2014_000000142249.jpg,Is the stadium full?,no,Would the stadium be full if it was filled up with people?,yes,boolean
+COCO_val2014_000000142360.jpg,Are both his feet on the skateboard?,no,Would both his feet be on the skateboard if both his feet were put on the skateboard?,yes,boolean
+COCO_val2014_000000142971.jpg,Are these paddle boards the same length and weight?,no,Would these paddle boards be the same length and weight if they were equal?,yes,boolean
+COCO_val2014_000000143329.jpg,Are there any windows in this picture?,no,Would there be any windows in this picture if windows were drawn or added?,yes,boolean
+COCO_val2014_000000143387.jpg,Is the skier wearing a helmet?,yes,Would the skier be wearing a helmet if the helmet was removed?,no,boolean
+COCO_val2014_000000143450.jpg,Is the spoon plain?,yes,Would the spoon be plain if some detail or pattern was added to it?,no,boolean
+COCO_val2014_000000143576.jpg,Is this place well lit?,no,Would this place be well lit if the lighting in the area was increased?,yes,boolean
+COCO_val2014_000000144228.jpg,Are the children getting lots of exercise?,no,Would the children be getting lots of exercise if they were enrolled in sports activities?,yes,boolean
+COCO_val2014_000000144635.jpg,Has the room been recently cleaned?,no,Would the room have been recently cleaned if it was cleaned?,yes,boolean
+COCO_val2014_000000144896.jpg,Is this indoors?,no,Would this be indoors if it was moved inside?,yes,boolean
+COCO_val2014_000000144938.jpg,Was the game sold out?,no,Would the game be sold out if all the tickets were sold?,yes,boolean
+COCO_val2014_000000145542.jpg,Are both surfers standing up?,no,Would both surfers be standing up if they stood up?,yes,boolean
+COCO_val2014_000000146837.jpg,Is it raining in this picture?,no,Would it be raining in this picture if raindrops were edited in?,yes,boolean
+COCO_val2014_000000147404.jpg,Is there a body of water nearby?,no,Would there be a body of water nearby if water was brought to the location?,yes,boolean
+COCO_val2014_000000147545.jpg,Is the front of the refrigerator bare?,yes,Would the front of the refrigerator be bare if it was decorated?,no,boolean
+COCO_val2014_000000147958.jpg,Do the trees have leaves?,no,Would the trees have leaves if they grew their leaves?,yes,boolean
+COCO_val2014_000000148188.jpg,Are the elephants in the wild?,no,Would the elephants be in the wild if they were released into their natural habitat?,yes,boolean
+COCO_val2014_000000148395.jpg,Is this a modern vehicle?,no,Would this be a modern vehicle if its technology was upgraded to modern standards?,yes,boolean
+COCO_val2014_000000148403.jpg,Is the building white?,no,Would the building be white if it was painted white?,yes,boolean
+COCO_val2014_000000154230.jpg,Is the laptop open?,no,Would the laptop be open if the screen was lifted?,yes,boolean
+COCO_val2014_000000175096.jpg,Is the player looking at the ball?,no,Would the player be looking at the ball if their attention was directed towards it?,yes,boolean
+COCO_val2014_000000219271.jpg,Is this picture taken at the beach?,no,Would this picture be taken at the beach if there was a beach scene in the background?,yes,boolean
+COCO_val2014_000000220526.jpg,Is this an adult zebra?,no,Would this be an adult zebra if it reached maturity?,yes,boolean
+COCO_val2014_000000262274.jpg,Is it going to rain?,no,Would it be going to rain if there were some dark clouds?,yes,boolean
+COCO_val2014_000000262425.jpg,Is it sunny?,no,Would it be sunny if the clouds were cleared?,yes,boolean
+COCO_val2014_000000263796.jpg,Is this toilet still in use?,no,Would this toilet be still in use if someone used it?,yes,boolean
+COCO_val2014_000000264121.jpg,Is there another vehicle present besides the bike?,no,Would there be another vehicle present besides the bike if another vehicle was introduced to the scene?,yes,boolean
+COCO_val2014_000000264424.jpg,Is the image at all blurred?,no,Would the image be blurred if the camera was shaken while taking the picture?,yes,boolean
+COCO_val2014_000000264482.jpg,Are the donuts chocolate flavored?,no,Would the donuts be chocolate flavored if chocolate was added to the recipe?,yes,boolean
+COCO_val2014_000000264506.jpg,Is the sheep by itself?,no,Would the sheep be by itself if it was separated from other animals?,yes,boolean
