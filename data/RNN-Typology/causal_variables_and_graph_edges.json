@@ -1,0 +1,2336 @@
+[
+  {
+    "text": "tim saw lucas.",
+    "factual_roles": {
+      "Exposure": [
+        "subject-verb-object order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "Lexical items (Tim, saw, Lucas)"
+      ],
+      "Mediator": [
+        "SOV reordering operation"
+      ],
+      "Outcome": [
+        "tim saw lucas."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-verb-object order"
+      ],
+      [
+        "syntactic rule",
+        "SOV reordering operation"
+      ],
+      [
+        "syntactic rul",
+        "tim saw lucas."
+      ],
+      [
+        "Lexical items (Tim, saw, Lucas)",
+        "subject-verb-object order"
+      ],
+      [
+        "Lexical items (Tim, saw, Lucas)",
+        "SOV reordering operation"
+      ],
+      [
+        "Lexical items (Tim, saw, Lucas)",
+        "tim saw lucas."
+      ],
+      [
+        "subject-verb-object order",
+        "SOV reordering operation"
+      ],
+      [
+        "SOV reordering operation",
+        "tim saw lucas"
+      ],
+      [
+        "subject-verb-object order",
+        "tim saw lucas"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "subject-object-verb order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "Lexical items (Tim, saw, Lucas)"
+      ],
+      "Mediator": [
+        "SVO restoration operation"
+      ],
+      "Outcome": [
+        "tim lucas saw."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "syntactic rule",
+        "SVO restoration operation"
+      ],
+      [
+        "syntactic rule",
+        "tim lucas saw."
+      ],
+      [
+        "Lexical items (Tim, saw, Lucas)",
+        "SVO restoration operation"
+      ],
+      [
+        "Lexical items (Tim, saw, Lucas)",
+        "tim lucas saw."
+      ],
+      [
+        "subject-object-verb order",
+        "SVO restoration operation"
+      ],
+      [
+        "SVO restoration operation",
+        "tim lucas saw."
+      ],
+      [
+        "subject-object-verb order",
+        "tim lucas saw."
+      ]
+    ]
+  },
+  {
+    "text": "jim calls olivia.",
+    "factual_roles": {
+      "Exposure": [
+        "subject-verb-object order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift"
+      ],
+      "Outcome": [
+        "jim calls olivia."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-verb-object order"
+      ],
+      [
+        "word order preference",
+        "subject-verb-object order"
+      ],
+      [
+        "subject-verb-object order",
+        "sentence structure shift"
+      ],
+      [
+        "sentence structure shift",
+        "jim calls olivia."
+      ],
+      [
+        "subject-verb-object order",
+        "jim calls olivia."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "subject-object-verb order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift (altered)"
+      ],
+      "Outcome": [
+        "jim olivia calls."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-object-verb order"
+      ],
+      [
+        "word order preference",
+        "subject-object-verb order"
+      ],
+      [
+        "subject-object-verb order",
+        "sentence structure shift (altered)"
+      ],
+      [
+        "sentence structure shift (altered)",
+        "jim olivia calls."
+      ],
+      [
+        "subject-object-verb order",
+        "jim olivia calls."
+      ]
+    ]
+  },
+  {
+    "text": "jim saw emily.",
+    "factual_roles": {
+      "Exposure": [
+        "subject-verb-object order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift"
+      ],
+      "Outcome": [
+        "jim saw emily."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-verb-object order"
+      ],
+      [
+        "word order preference",
+        "subject-verb-object order"
+      ],
+      [
+        "subject-verb-object order",
+        "sentence structure shift"
+      ],
+      [
+        "sentence structure shift",
+        "jim saw emily."
+      ],
+      [
+        "subject-verb-object order",
+        "jim saw emily."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "subject-object-verb order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift (altered)"
+      ],
+      "Outcome": [
+        "jim emily saw."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-object-verb order"
+      ],
+      [
+        "word order preference",
+        "subject-object-verb order"
+      ],
+      [
+        "subject-object-verb order",
+        "sentence structure shift (altered)"
+      ],
+      [
+        "sentence structure shift (altered)",
+        "jim emily saw."
+      ],
+      [
+        "subject-object-verb order",
+        "jim emily saw."
+      ]
+    ]
+  },
+  {
+    "text": "mary knows emily.",
+    "factual_roles": {
+      "Exposure": [
+        "subject-verb-object order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift"
+      ],
+      "Outcome": [
+        "mary knows emily."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-verb-object order"
+      ],
+      [
+        "word order preference",
+        "subject-verb-object order"
+      ],
+      [
+        "subject-verb-object order",
+        "sentence structure shift"
+      ],
+      [
+        "sentence structure shift",
+        "mary knows emily."
+      ],
+      [
+        "subject-verb-object order",
+        "mary knows emily."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "subject-object-verb order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift (altered)"
+      ],
+      "Outcome": [
+        "mary emily knows."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-object-verb order"
+      ],
+      [
+        "word order preference",
+        "subject-object-verb order"
+      ],
+      [
+        "subject-object-verb order",
+        "sentence structure shift (altered)"
+      ],
+      [
+        "sentence structure shift (altered)",
+        "mary emily knows."
+      ],
+      [
+        "subject-object-verb order",
+        "mary emily knows."
+      ]
+    ]
+  },
+  {
+    "text": "jim sees olivia.",
+    "factual_roles": {
+      "Exposure": [
+        "subject-verb-object order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift"
+      ],
+      "Outcome": [
+        "jim sees olivia."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-verb-object order"
+      ],
+      [
+        "word order preference",
+        "subject-verb-object order"
+      ],
+      [
+        "subject-verb-object order",
+        "sentence structure shift"
+      ],
+      [
+        "sentence structure shift",
+        "jim sees olivia."
+      ],
+      [
+        "subject-verb-object order",
+        "jim sees olivia."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "subject-object-verb order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift (altered)"
+      ],
+      "Outcome": [
+        "jim olivia sees."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-object-verb order"
+      ],
+      [
+        "word order preference",
+        "subject-object-verb order"
+      ],
+      [
+        "subject-object-verb order",
+        "sentence structure shift (altered)"
+      ],
+      [
+        "sentence structure shift (altered)",
+        "jim olivia sees."
+      ],
+      [
+        "subject-object-verb order",
+        "jim olivia sees."
+      ]
+    ]
+  },
+  {
+    "text": "anna calls noah.",
+    "factual_roles": {
+      "Exposure": [
+        "subject-verb-object order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift"
+      ],
+      "Outcome": [
+        "anna calls noah."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-verb-object order"
+      ],
+      [
+        "word order preference",
+        "subject-verb-object order"
+      ],
+      [
+        "subject-verb-object order",
+        "sentence structure shift"
+      ],
+      [
+        "sentence structure shift",
+        "anna calls noah."
+      ],
+      [
+        "subject-verb-object order",
+        "anna calls noah."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "subject-object-verb order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift (altered)"
+      ],
+      "Outcome": [
+        "anna noah calls."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-object-verb order"
+      ],
+      [
+        "word order preference",
+        "subject-object-verb order"
+      ],
+      [
+        "subject-object-verb order",
+        "sentence structure shift (altered)"
+      ],
+      [
+        "sentence structure shift (altered)",
+        "anna noah calls."
+      ],
+      [
+        "subject-object-verb order",
+        "anna noah calls."
+      ]
+    ]
+  },
+  {
+    "text": "anna saw emily.",
+    "factual_roles": {
+      "Exposure": [
+        "subject-verb-object order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift"
+      ],
+      "Outcome": [
+        "anna saw emily."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-verb-object order"
+      ],
+      [
+        "word order preference",
+        "subject-verb-object order"
+      ],
+      [
+        "subject-verb-object order",
+        "sentence structure shift"
+      ],
+      [
+        "sentence structure shift",
+        "anna saw emily."
+      ],
+      [
+        "subject-verb-object order",
+        "anna saw emily."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "subject-object-verb order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift (altered)"
+      ],
+      "Outcome": [
+        "anna emily saw."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-object-verb order"
+      ],
+      [
+        "word order preference",
+        "subject-object-verb order"
+      ],
+      [
+        "subject-object-verb order",
+        "sentence structure shift (altered)"
+      ],
+      [
+        "sentence structure shift (altered)",
+        "anna emily saw."
+      ],
+      [
+        "subject-object-verb order",
+        "anna emily saw."
+      ]
+    ]
+  },
+  {
+    "text": "alice sees ava.",
+    "factual_roles": {
+      "Exposure": [
+        "subject-verb-object order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift"
+      ],
+      "Outcome": [
+        "alice sees ava."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-verb-object order"
+      ],
+      [
+        "word order preference",
+        "subject-verb-object order"
+      ],
+      [
+        "subject-verb-object order",
+        "sentence structure shift"
+      ],
+      [
+        "sentence structure shift",
+        "alice sees ava."
+      ],
+      [
+        "subject-verb-object order",
+        "alice sees ava."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "subject-object-verb order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift (altered)"
+      ],
+      "Outcome": [
+        "alice ava sees."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-object-verb order"
+      ],
+      [
+        "word order preference",
+        "subject-object-verb order"
+      ],
+      [
+        "subject-object-verb order",
+        "sentence structure shift (altered)"
+      ],
+      [
+        "sentence structure shift (altered)",
+        "alice ava sees."
+      ],
+      [
+        "subject-object-verb order",
+        "alice ava sees."
+      ]
+    ]
+  },
+  {
+    "text": "anna sees jacob.",
+    "factual_roles": {
+      "Exposure": [
+        "subject-verb-object order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift"
+      ],
+      "Outcome": [
+        "anna sees jacob."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-verb-object order"
+      ],
+      [
+        "word order preference",
+        "subject-verb-object order"
+      ],
+      [
+        "subject-verb-object order",
+        "sentence structure shift"
+      ],
+      [
+        "sentence structure shift",
+        "anna sees jacob."
+      ],
+      [
+        "subject-verb-object order",
+        "anna sees jacob."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "subject-object-verb order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift (altered)"
+      ],
+      "Outcome": [
+        "anna jacob sees."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-object-verb order"
+      ],
+      [
+        "word order preference",
+        "subject-object-verb order"
+      ],
+      [
+        "subject-object-verb order",
+        "sentence structure shift (altered)"
+      ],
+      [
+        "sentence structure shift (altered)",
+        "anna jacob sees."
+      ],
+      [
+        "subject-object-verb order",
+        "anna jacob sees."
+      ]
+    ]
+  },
+  {
+    "text": "mary calls liam.",
+    "factual_roles": {
+      "Exposure": [
+        "subject-verb-object order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift"
+      ],
+      "Outcome": [
+        "mary calls liam."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-verb-object order"
+      ],
+      [
+        "word order preference",
+        "subject-verb-object order"
+      ],
+      [
+        "subject-verb-object order",
+        "sentence structure shift"
+      ],
+      [
+        "sentence structure shift",
+        "mary calls liam."
+      ],
+      [
+        "subject-verb-object order",
+        "mary calls liam."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "subject-object-verb order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift (altered)"
+      ],
+      "Outcome": [
+        "mary liam calls."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-object-verb order"
+      ],
+      [
+        "word order preference",
+        "subject-object-verb order"
+      ],
+      [
+        "subject-object-verb order",
+        "sentence structure shift (altered)"
+      ],
+      [
+        "sentence structure shift (altered)",
+        "mary liam calls."
+      ],
+      [
+        "subject-object-verb order",
+        "mary liam calls."
+      ]
+    ]
+  },
+  {
+    "text": "john calls ava.",
+    "factual_roles": {
+      "Exposure": [
+        "subject-verb-object order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift"
+      ],
+      "Outcome": [
+        "john calls ava."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-verb-object order"
+      ],
+      [
+        "word order preference",
+        "subject-verb-object order"
+      ],
+      [
+        "subject-verb-object order",
+        "sentence structure shift"
+      ],
+      [
+        "sentence structure shift",
+        "john calls ava."
+      ],
+      [
+        "subject-verb-object order",
+        "john calls ava."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "subject-object-verb order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift (altered)"
+      ],
+      "Outcome": [
+        "john ava calls."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-object-verb order"
+      ],
+      [
+        "word order preference",
+        "subject-object-verb order"
+      ],
+      [
+        "subject-object-verb order",
+        "sentence structure shift (altered)"
+      ],
+      [
+        "sentence structure shift (altered)",
+        "john ava calls."
+      ],
+      [
+        "subject-object-verb order",
+        "john ava calls."
+      ]
+    ]
+  },
+  {
+    "text": "sophie saw emma.",
+    "factual_roles": {
+      "Exposure": [
+        "subject-verb-object order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift"
+      ],
+      "Outcome": [
+        "sophie saw emma."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-verb-object order"
+      ],
+      [
+        "word order preference",
+        "subject-verb-object order"
+      ],
+      [
+        "subject-verb-object order",
+        "sentence structure shift"
+      ],
+      [
+        "sentence structure shift",
+        "sophie saw emma."
+      ],
+      [
+        "subject-verb-object order",
+        "sophie saw emma."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "subject-object-verb order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift (altered)"
+      ],
+      "Outcome": [
+        "sophie emma saw."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-object-verb order"
+      ],
+      [
+        "word order preference",
+        "subject-object-verb order"
+      ],
+      [
+        "subject-object-verb order",
+        "sentence structure shift (altered)"
+      ],
+      [
+        "sentence structure shift (altered)",
+        "sophie emma saw."
+      ],
+      [
+        "subject-object-verb order",
+        "sophie emma saw."
+      ]
+    ]
+  },
+  {
+    "text": "sophie saw liam.",
+    "factual_roles": {
+      "Exposure": [
+        "subject-verb-object order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift"
+      ],
+      "Outcome": [
+        "sophie saw liam."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-verb-object order"
+      ],
+      [
+        "word order preference",
+        "subject-verb-object order"
+      ],
+      [
+        "subject-verb-object order",
+        "sentence structure shift"
+      ],
+      [
+        "sentence structure shift",
+        "sophie saw liam."
+      ],
+      [
+        "subject-verb-object order",
+        "sophie saw liam."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "subject-object-verb order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift (altered)"
+      ],
+      "Outcome": [
+        "sophie liam saw."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-object-verb order"
+      ],
+      [
+        "word order preference",
+        "subject-object-verb order"
+      ],
+      [
+        "subject-object-verb order",
+        "sentence structure shift (altered)"
+      ],
+      [
+        "sentence structure shift (altered)",
+        "sophie liam saw."
+      ],
+      [
+        "subject-object-verb order",
+        "sophie liam saw."
+      ]
+    ]
+  },
+  {
+    "text": "sophie saw olivia.",
+    "factual_roles": {
+      "Exposure": [
+        "subject-verb-object order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift"
+      ],
+      "Outcome": [
+        "sophie saw olivia."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-verb-object order"
+      ],
+      [
+        "word order preference",
+        "subject-verb-object order"
+      ],
+      [
+        "subject-verb-object order",
+        "sentence structure shift"
+      ],
+      [
+        "sentence structure shift",
+        "sophie saw olivia."
+      ],
+      [
+        "subject-verb-object order",
+        "sophie saw olivia."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "subject-object-verb order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift (altered)"
+      ],
+      "Outcome": [
+        "sophie olivia saw."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-object-verb order"
+      ],
+      [
+        "word order preference",
+        "subject-object-verb order"
+      ],
+      [
+        "subject-object-verb order",
+        "sentence structure shift (altered)"
+      ],
+      [
+        "sentence structure shift (altered)",
+        "sophie olivia saw."
+      ],
+      [
+        "subject-object-verb order",
+        "sophie olivia saw."
+      ]
+    ]
+  },
+  {
+    "text": "bob loves liam.",
+    "factual_roles": {
+      "Exposure": [
+        "subject-verb-object order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift"
+      ],
+      "Outcome": [
+        "bob loves liam."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-verb-object order"
+      ],
+      [
+        "word order preference",
+        "subject-verb-object order"
+      ],
+      [
+        "subject-verb-object order",
+        "sentence structure shift"
+      ],
+      [
+        "sentence structure shift",
+        "bob loves liam."
+      ],
+      [
+        "subject-verb-object order",
+        "bob loves liam."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "subject-object-verb order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift (altered)"
+      ],
+      "Outcome": [
+        "bob liam loves."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-object-verb order"
+      ],
+      [
+        "word order preference",
+        "subject-object-verb order"
+      ],
+      [
+        "subject-object-verb order",
+        "sentence structure shift (altered)"
+      ],
+      [
+        "sentence structure shift (altered)",
+        "bob liam loves."
+      ],
+      [
+        "subject-object-verb order",
+        "bob liam loves."
+      ]
+    ]
+  },
+  {
+    "text": "bob sees emma.",
+    "factual_roles": {
+      "Exposure": [
+        "subject-verb-object order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift"
+      ],
+      "Outcome": [
+        "bob sees emma."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-verb-object order"
+      ],
+      [
+        "word order preference",
+        "subject-verb-object order"
+      ],
+      [
+        "subject-verb-object order",
+        "sentence structure shift"
+      ],
+      [
+        "sentence structure shift",
+        "bob sees emma."
+      ],
+      [
+        "subject-verb-object order",
+        "bob sees emma."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "subject-object-verb order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift (altered)"
+      ],
+      "Outcome": [
+        "bob emma sees."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-object-verb order"
+      ],
+      [
+        "word order preference",
+        "subject-object-verb order"
+      ],
+      [
+        "subject-object-verb order",
+        "sentence structure shift (altered)"
+      ],
+      [
+        "sentence structure shift (altered)",
+        "bob emma sees."
+      ],
+      [
+        "subject-object-verb order",
+        "bob emma sees."
+      ]
+    ]
+  },
+  {
+    "text": "jim knows ethan.",
+    "factual_roles": {
+      "Exposure": [
+        "subject-verb-object order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift"
+      ],
+      "Outcome": [
+        "jim knows ethan."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-verb-object order"
+      ],
+      [
+        "word order preference",
+        "subject-verb-object order"
+      ],
+      [
+        "subject-verb-object order",
+        "sentence structure shift"
+      ],
+      [
+        "sentence structure shift",
+        "jim knows ethan."
+      ],
+      [
+        "subject-verb-object order",
+        "jim knows ethan."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "subject-object-verb order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift (altered)"
+      ],
+      "Outcome": [
+        "jim ethan knows."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-object-verb order"
+      ],
+      [
+        "word order preference",
+        "subject-object-verb order"
+      ],
+      [
+        "subject-object-verb order",
+        "sentence structure shift (altered)"
+      ],
+      [
+        "sentence structure shift (altered)",
+        "jim ethan knows."
+      ],
+      [
+        "subject-object-verb order",
+        "jim ethan knows."
+      ]
+    ]
+  },
+  {
+    "text": "john calls olivia.",
+    "factual_roles": {
+      "Exposure": [
+        "subject-verb-object order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift"
+      ],
+      "Outcome": [
+        "john calls olivia."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-verb-object order"
+      ],
+      [
+        "word order preference",
+        "subject-verb-object order"
+      ],
+      [
+        "subject-verb-object order",
+        "sentence structure shift"
+      ],
+      [
+        "sentence structure shift",
+        "john calls olivia."
+      ],
+      [
+        "subject-verb-object order",
+        "john calls olivia."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "subject-object-verb order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift (altered)"
+      ],
+      "Outcome": [
+        "john olivia calls."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-object-verb order"
+      ],
+      [
+        "word order preference",
+        "subject-object-verb order"
+      ],
+      [
+        "subject-object-verb order",
+        "sentence structure shift (altered)"
+      ],
+      [
+        "sentence structure shift (altered)",
+        "john olivia calls."
+      ],
+      [
+        "subject-object-verb order",
+        "john olivia calls."
+      ]
+    ]
+  },
+  {
+    "text": "anna loves jacob.",
+    "factual_roles": {
+      "Exposure": [
+        "subject-verb-object order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift"
+      ],
+      "Outcome": [
+        "anna loves jacob."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-verb-object order"
+      ],
+      [
+        "word order preference",
+        "subject-verb-object order"
+      ],
+      [
+        "subject-verb-object order",
+        "sentence structure shift"
+      ],
+      [
+        "sentence structure shift",
+        "anna loves jacob."
+      ],
+      [
+        "subject-verb-object order",
+        "anna loves jacob."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "subject-object-verb order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift (altered)"
+      ],
+      "Outcome": [
+        "anna jacob loves."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-object-verb order"
+      ],
+      [
+        "word order preference",
+        "subject-object-verb order"
+      ],
+      [
+        "subject-object-verb order",
+        "sentence structure shift (altered)"
+      ],
+      [
+        "sentence structure shift (altered)",
+        "anna jacob loves."
+      ],
+      [
+        "subject-object-verb order",
+        "anna jacob loves."
+      ]
+    ]
+  },
+  {
+    "text": "tom sees liam.",
+    "factual_roles": {
+      "Exposure": [
+        "subject-verb-object order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift"
+      ],
+      "Outcome": [
+        "tom sees liam."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-verb-object order"
+      ],
+      [
+        "word order preference",
+        "subject-verb-object order"
+      ],
+      [
+        "subject-verb-object order",
+        "sentence structure shift"
+      ],
+      [
+        "sentence structure shift",
+        "tom sees liam."
+      ],
+      [
+        "subject-verb-object order",
+        "tom sees liam."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "subject-object-verb order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift (altered)"
+      ],
+      "Outcome": [
+        "tom liam sees."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-object-verb order"
+      ],
+      [
+        "word order preference",
+        "subject-object-verb order"
+      ],
+      [
+        "subject-object-verb order",
+        "sentence structure shift (altered)"
+      ],
+      [
+        "sentence structure shift (altered)",
+        "tom liam sees."
+      ],
+      [
+        "subject-object-verb order",
+        "tom liam sees."
+      ]
+    ]
+  },
+  {
+    "text": "mary knows ava.",
+    "factual_roles": {
+      "Exposure": [
+        "subject-verb-object order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift"
+      ],
+      "Outcome": [
+        "mary knows ava."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-verb-object order"
+      ],
+      [
+        "word order preference",
+        "subject-verb-object order"
+      ],
+      [
+        "subject-verb-object order",
+        "sentence structure shift"
+      ],
+      [
+        "sentence structure shift",
+        "mary knows ava."
+      ],
+      [
+        "subject-verb-object order",
+        "mary knows ava."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "subject-object-verb order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift (altered)"
+      ],
+      "Outcome": [
+        "mary ava knows."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-object-verb order"
+      ],
+      [
+        "word order preference",
+        "subject-object-verb order"
+      ],
+      [
+        "subject-object-verb order",
+        "sentence structure shift (altered)"
+      ],
+      [
+        "sentence structure shift (altered)",
+        "mary ava knows."
+      ],
+      [
+        "subject-object-verb order",
+        "mary ava knows."
+      ]
+    ]
+  },
+  {
+    "text": "john sees ava.",
+    "factual_roles": {
+      "Exposure": [
+        "subject-verb-object order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift"
+      ],
+      "Outcome": [
+        "john sees ava."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-verb-object order"
+      ],
+      [
+        "word order preference",
+        "subject-verb-object order"
+      ],
+      [
+        "subject-verb-object order",
+        "sentence structure shift"
+      ],
+      [
+        "sentence structure shift",
+        "john sees ava."
+      ],
+      [
+        "subject-verb-object order",
+        "john sees ava."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "subject-object-verb order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift (altered)"
+      ],
+      "Outcome": [
+        "john ava sees."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-object-verb order"
+      ],
+      [
+        "word order preference",
+        "subject-object-verb order"
+      ],
+      [
+        "subject-object-verb order",
+        "sentence structure shift (altered)"
+      ],
+      [
+        "sentence structure shift (altered)",
+        "john ava sees."
+      ],
+      [
+        "subject-object-verb order",
+        "john ava sees."
+      ]
+    ]
+  },
+  {
+    "text": "jim knows lucas.",
+    "factual_roles": {
+      "Exposure": [
+        "subject-verb-object order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift"
+      ],
+      "Outcome": [
+        "jim knows lucas."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-verb-object order"
+      ],
+      [
+        "word order preference",
+        "subject-verb-object order"
+      ],
+      [
+        "subject-verb-object order",
+        "sentence structure shift"
+      ],
+      [
+        "sentence structure shift",
+        "jim knows lucas."
+      ],
+      [
+        "subject-verb-object order",
+        "jim knows lucas."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "subject-object-verb order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift (altered)"
+      ],
+      "Outcome": [
+        "jim lucas knows."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-object-verb order"
+      ],
+      [
+        "word order preference",
+        "subject-object-verb order"
+      ],
+      [
+        "subject-object-verb order",
+        "sentence structure shift (altered)"
+      ],
+      [
+        "sentence structure shift (altered)",
+        "jim lucas knows."
+      ],
+      [
+        "subject-object-verb order",
+        "jim lucas knows."
+      ]
+    ]
+  },
+  {
+    "text": "anna sees liam.",
+    "factual_roles": {
+      "Exposure": [
+        "subject-verb-object order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift"
+      ],
+      "Outcome": [
+        "anna sees liam."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-verb-object order"
+      ],
+      [
+        "word order preference",
+        "subject-verb-object order"
+      ],
+      [
+        "subject-verb-object order",
+        "sentence structure shift"
+      ],
+      [
+        "sentence structure shift",
+        "anna sees liam."
+      ],
+      [
+        "subject-verb-object order",
+        "anna sees liam."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "subject-object-verb order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift (altered)"
+      ],
+      "Outcome": [
+        "anna liam sees."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-object-verb order"
+      ],
+      [
+        "word order preference",
+        "subject-object-verb order"
+      ],
+      [
+        "subject-object-verb order",
+        "sentence structure shift (altered)"
+      ],
+      [
+        "sentence structure shift (altered)",
+        "anna liam sees."
+      ],
+      [
+        "subject-object-verb order",
+        "anna liam sees."
+      ]
+    ]
+  },
+  {
+    "text": "alice loves mia.",
+    "factual_roles": {
+      "Exposure": [
+        "subject-verb-object order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift"
+      ],
+      "Outcome": [
+        "alice loves mia."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-verb-object order"
+      ],
+      [
+        "word order preference",
+        "subject-verb-object order"
+      ],
+      [
+        "subject-verb-object order",
+        "sentence structure shift"
+      ],
+      [
+        "sentence structure shift",
+        "alice loves mia."
+      ],
+      [
+        "subject-verb-object order",
+        "alice loves mia."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "subject-object-verb order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift (altered)"
+      ],
+      "Outcome": [
+        "alice mia loves."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-object-verb order"
+      ],
+      [
+        "word order preference",
+        "subject-object-verb order"
+      ],
+      [
+        "subject-object-verb order",
+        "sentence structure shift (altered)"
+      ],
+      [
+        "sentence structure shift (altered)",
+        "alice mia loves."
+      ],
+      [
+        "subject-object-verb order",
+        "alice mia loves."
+      ]
+    ]
+  },
+  {
+    "text": "john knows ava.",
+    "factual_roles": {
+      "Exposure": [
+        "subject-verb-object order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift"
+      ],
+      "Outcome": [
+        "john knows ava."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-verb-object order"
+      ],
+      [
+        "word order preference",
+        "subject-verb-object order"
+      ],
+      [
+        "subject-verb-object order",
+        "sentence structure shift"
+      ],
+      [
+        "sentence structure shift",
+        "john knows ava."
+      ],
+      [
+        "subject-verb-object order",
+        "john knows ava."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "subject-object-verb order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift (altered)"
+      ],
+      "Outcome": [
+        "john ava knows."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-object-verb order"
+      ],
+      [
+        "word order preference",
+        "subject-object-verb order"
+      ],
+      [
+        "subject-object-verb order",
+        "sentence structure shift (altered)"
+      ],
+      [
+        "sentence structure shift (altered)",
+        "john ava knows."
+      ],
+      [
+        "subject-object-verb order",
+        "john ava knows."
+      ]
+    ]
+  },
+  {
+    "text": "anna saw mia.",
+    "factual_roles": {
+      "Exposure": [
+        "subject-verb-object order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift"
+      ],
+      "Outcome": [
+        "anna saw mia."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-verb-object order"
+      ],
+      [
+        "word order preference",
+        "subject-verb-object order"
+      ],
+      [
+        "subject-verb-object order",
+        "sentence structure shift"
+      ],
+      [
+        "sentence structure shift",
+        "anna saw mia."
+      ],
+      [
+        "subject-verb-object order",
+        "anna saw mia."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "subject-object-verb order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift (altered)"
+      ],
+      "Outcome": [
+        "anna mia saw."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-object-verb order"
+      ],
+      [
+        "word order preference",
+        "subject-object-verb order"
+      ],
+      [
+        "subject-object-verb order",
+        "sentence structure shift (altered)"
+      ],
+      [
+        "sentence structure shift (altered)",
+        "anna mia saw."
+      ],
+      [
+        "subject-object-verb order",
+        "anna mia saw."
+      ]
+    ]
+  },
+  {
+    "text": "sophie saw jacob.",
+    "factual_roles": {
+      "Exposure": [
+        "subject-verb-object order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift"
+      ],
+      "Outcome": [
+        "sophie saw jacob."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-verb-object order"
+      ],
+      [
+        "word order preference",
+        "subject-verb-object order"
+      ],
+      [
+        "subject-verb-object order",
+        "sentence structure shift"
+      ],
+      [
+        "sentence structure shift",
+        "sophie saw jacob."
+      ],
+      [
+        "subject-verb-object order",
+        "sophie saw jacob."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "subject-object-verb order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift (altered)"
+      ],
+      "Outcome": [
+        "sophie jacob saw."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-object-verb order"
+      ],
+      [
+        "word order preference",
+        "subject-object-verb order"
+      ],
+      [
+        "subject-object-verb order",
+        "sentence structure shift (altered)"
+      ],
+      [
+        "sentence structure shift (altered)",
+        "sophie jacob saw."
+      ],
+      [
+        "subject-object-verb order",
+        "sophie jacob saw."
+      ]
+    ]
+  },
+  {
+    "text": "jim calls mia.",
+    "factual_roles": {
+      "Exposure": [
+        "subject-verb-object order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift"
+      ],
+      "Outcome": [
+        "jim calls mia."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-verb-object order"
+      ],
+      [
+        "word order preference",
+        "subject-verb-object order"
+      ],
+      [
+        "subject-verb-object order",
+        "sentence structure shift"
+      ],
+      [
+        "sentence structure shift",
+        "jim calls mia."
+      ],
+      [
+        "subject-verb-object order",
+        "jim calls mia."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "subject-object-verb order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift (altered)"
+      ],
+      "Outcome": [
+        "jim mia calls."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-object-verb order"
+      ],
+      [
+        "word order preference",
+        "subject-object-verb order"
+      ],
+      [
+        "subject-object-verb order",
+        "sentence structure shift (altered)"
+      ],
+      [
+        "sentence structure shift (altered)",
+        "jim mia calls."
+      ],
+      [
+        "subject-object-verb order",
+        "jim mia calls."
+      ]
+    ]
+  },
+  {
+    "text": "bob saw lucas.",
+    "factual_roles": {
+      "Exposure": [
+        "subject-verb-object order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift"
+      ],
+      "Outcome": [
+        "bob saw lucas."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-verb-object order"
+      ],
+      [
+        "word order preference",
+        "subject-verb-object order"
+      ],
+      [
+        "subject-verb-object order",
+        "sentence structure shift"
+      ],
+      [
+        "sentence structure shift",
+        "bob saw lucas."
+      ],
+      [
+        "subject-verb-object order",
+        "bob saw lucas."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "subject-object-verb order"
+      ],
+      "Covariate": [
+        "syntactic rule",
+        "word order preference"
+      ],
+      "Mediator": [
+        "sentence structure shift (altered)"
+      ],
+      "Outcome": [
+        "bob lucas saw."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "syntactic rule",
+        "subject-object-verb order"
+      ],
+      [
+        "word order preference",
+        "subject-object-verb order"
+      ],
+      [
+        "subject-object-verb order",
+        "sentence structure shift (altered)"
+      ],
+      [
+        "sentence structure shift (altered)",
+        "bob lucas saw."
+      ],
+      [
+        "subject-object-verb order",
+        "bob lucas saw."
+      ]
+    ]
+  }
+]
