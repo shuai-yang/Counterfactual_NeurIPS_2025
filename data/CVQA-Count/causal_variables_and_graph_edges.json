@@ -1,0 +1,2278 @@
+[
+  {
+    "text": "How many plates are there?",
+    "factual_roles": {
+      "Exposure": [
+        "current plate presence (1 unit)"
+      ],
+      "Covariate": [
+        "original plate count (1)",
+        "visual counting capability"
+      ],
+      "Mediator": [
+        "visual plate detection mechanism"
+      ],
+      "Outcome": [
+        "1"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "original plate count (1)",
+        "current plate presence (1 unit)"
+      ],
+      [
+        "original plate count (1)",
+        "visual plate detection mechanism"
+      ],
+      [
+        "original plate count (1)",
+        "1"
+      ],
+      [
+        "visual counting capability",
+        "current plate presence (1 unit)"
+      ],
+      [
+        "visual counting capability",
+        "visual plate detection mechanism"
+      ],
+      [
+        "visual counting capability",
+        "1"
+      ],
+      [
+        "current plate presence (1 unit)",
+        "visual plate detection mechanism"
+      ],
+      [
+        "visual plate detection mechanism",
+        "1"
+      ],
+      [
+        "current plate presence (1 unit)",
+        "1"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "addition of 2 plates"
+      ],
+      "Covariate": [
+        "original plate count (1)",
+        "visual counting capability"
+      ],
+      "Mediator": [
+        "numerical addition operation"
+      ],
+      "Outcome": [
+        "3"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "original plate count (1)",
+        "numerical addition operation"
+      ],
+      [
+        "original plate count (1)",
+        "3"
+      ],
+      [
+        "visual counting capability",
+        "numerical addition operation"
+      ],
+      [
+        "visual counting capability",
+        "3"
+      ],
+      [
+        "addition of 2 plates",
+        "numerical addition operation"
+      ],
+      [
+        "numerical addition operation",
+        "3"
+      ],
+      [
+        "addition of 2 plates",
+        "3"
+      ]
+    ]
+  },
+  {
+    "text": "How many cows can you see?",
+    "factual_roles": {
+      "Exposure": [
+        "11 cows"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000402992.jpg"
+      ],
+      "Mediator": [
+        "numerical counting"
+      ],
+      "Outcome": [
+        "11 cows"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000402992.jpg",
+        "11 cows"
+      ],
+      [
+        "COCO_val2014_000000402992.jpg",
+        "numerical counting"
+      ],
+      [
+        "11 cows",
+        "numerical counting"
+      ],
+      [
+        "numerical counting",
+        "11 cows"
+      ],
+      [
+        "11 cows",
+        "11 cows"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "removing objects"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000402992.jpg"
+      ],
+      "Mediator": [
+        "original 11 cows"
+      ],
+      "Outcome": [
+        "4 cows"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000402992.jpg",
+        "removing objects"
+      ],
+      [
+        "COCO_val2014_000000402992.jpg",
+        "original 11 cows"
+      ],
+      [
+        "removing objects",
+        "original 11 cows"
+      ],
+      [
+        "original 11 cows",
+        "4 cows"
+      ],
+      [
+        "removing objects",
+        "4 cows"
+      ]
+    ]
+  },
+  {
+    "text": "How many cars are in the picture?",
+    "factual_roles": {
+      "Exposure": [
+        "1 cars"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000403065.jpg"
+      ],
+      "Mediator": [
+        "numerical counting"
+      ],
+      "Outcome": [
+        "1 cars"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000403065.jpg",
+        "1 cars"
+      ],
+      [
+        "COCO_val2014_000000403065.jpg",
+        "numerical counting"
+      ],
+      [
+        "1 cars",
+        "numerical counting"
+      ],
+      [
+        "numerical counting",
+        "1 cars"
+      ],
+      [
+        "1 cars",
+        "1 cars"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "changing quantity"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000403065.jpg"
+      ],
+      "Mediator": [
+        "original 1 cars"
+      ],
+      "Outcome": [
+        "2 cars"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000403065.jpg",
+        "changing quantity"
+      ],
+      [
+        "COCO_val2014_000000403065.jpg",
+        "original 1 cars"
+      ],
+      [
+        "changing quantity",
+        "original 1 cars"
+      ],
+      [
+        "original 1 cars",
+        "2 cars"
+      ],
+      [
+        "changing quantity",
+        "2 cars"
+      ]
+    ]
+  },
+  {
+    "text": "How many sinks are in this bathroom?",
+    "factual_roles": {
+      "Exposure": [
+        "1 sinks"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000403145.jpg"
+      ],
+      "Mediator": [
+        "numerical counting"
+      ],
+      "Outcome": [
+        "1 sinks"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000403145.jpg",
+        "1 sinks"
+      ],
+      [
+        "COCO_val2014_000000403145.jpg",
+        "numerical counting"
+      ],
+      [
+        "1 sinks",
+        "numerical counting"
+      ],
+      [
+        "numerical counting",
+        "1 sinks"
+      ],
+      [
+        "1 sinks",
+        "1 sinks"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "adding objects"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000403145.jpg"
+      ],
+      "Mediator": [
+        "original 1 sinks"
+      ],
+      "Outcome": [
+        "4 sinks"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000403145.jpg",
+        "adding objects"
+      ],
+      [
+        "COCO_val2014_000000403145.jpg",
+        "original 1 sinks"
+      ],
+      [
+        "adding objects",
+        "original 1 sinks"
+      ],
+      [
+        "original 1 sinks",
+        "4 sinks"
+      ],
+      [
+        "adding objects",
+        "4 sinks"
+      ]
+    ]
+  },
+  {
+    "text": "How many people on the bus?",
+    "factual_roles": {
+      "Exposure": [
+        "1 people on the bus"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000403294.jpg"
+      ],
+      "Mediator": [
+        "numerical counting"
+      ],
+      "Outcome": [
+        "1 people on the bus"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000403294.jpg",
+        "1 people on the bus"
+      ],
+      [
+        "COCO_val2014_000000403294.jpg",
+        "numerical counting"
+      ],
+      [
+        "1 people on the bus",
+        "numerical counting"
+      ],
+      [
+        "numerical counting",
+        "1 people on the bus"
+      ],
+      [
+        "1 people on the bus",
+        "1 people on the bus"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "changing quantity"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000403294.jpg"
+      ],
+      "Mediator": [
+        "original 1 people on the bus"
+      ],
+      "Outcome": [
+        "10 people on the bus"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000403294.jpg",
+        "changing quantity"
+      ],
+      [
+        "COCO_val2014_000000403294.jpg",
+        "original 1 people on the bus"
+      ],
+      [
+        "changing quantity",
+        "original 1 people on the bus"
+      ],
+      [
+        "original 1 people on the bus",
+        "10 people on the bus"
+      ],
+      [
+        "changing quantity",
+        "10 people on the bus"
+      ]
+    ]
+  },
+  {
+    "text": "How many plates are in the picture?",
+    "factual_roles": {
+      "Exposure": [
+        "2 plates"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000403389.jpg"
+      ],
+      "Mediator": [
+        "numerical counting"
+      ],
+      "Outcome": [
+        "2 plates"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000403389.jpg",
+        "2 plates"
+      ],
+      [
+        "COCO_val2014_000000403389.jpg",
+        "numerical counting"
+      ],
+      [
+        "2 plates",
+        "numerical counting"
+      ],
+      [
+        "numerical counting",
+        "2 plates"
+      ],
+      [
+        "2 plates",
+        "2 plates"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "removing objects"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000403389.jpg"
+      ],
+      "Mediator": [
+        "original 2 plates"
+      ],
+      "Outcome": [
+        "1 plates"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000403389.jpg",
+        "removing objects"
+      ],
+      [
+        "COCO_val2014_000000403389.jpg",
+        "original 2 plates"
+      ],
+      [
+        "removing objects",
+        "original 2 plates"
+      ],
+      [
+        "original 2 plates",
+        "1 plates"
+      ],
+      [
+        "removing objects",
+        "1 plates"
+      ]
+    ]
+  },
+  {
+    "text": "How many dogs are biting onto the frisbee?",
+    "factual_roles": {
+      "Exposure": [
+        "1 dogs are biting onto the frisbee"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000403421.jpg"
+      ],
+      "Mediator": [
+        "numerical counting"
+      ],
+      "Outcome": [
+        "1 dogs are biting onto the frisbee"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000403421.jpg",
+        "1 dogs are biting onto the frisbee"
+      ],
+      [
+        "COCO_val2014_000000403421.jpg",
+        "numerical counting"
+      ],
+      [
+        "1 dogs are biting onto the frisbee",
+        "numerical counting"
+      ],
+      [
+        "numerical counting",
+        "1 dogs are biting onto the frisbee"
+      ],
+      [
+        "1 dogs are biting onto the frisbee",
+        "1 dogs are biting onto the frisbee"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "adding objects"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000403421.jpg"
+      ],
+      "Mediator": [
+        "original 1 dogs are biting onto the frisbee"
+      ],
+      "Outcome": [
+        "3 dogs are biting onto the frisbee"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000403421.jpg",
+        "adding objects"
+      ],
+      [
+        "COCO_val2014_000000403421.jpg",
+        "original 1 dogs are biting onto the frisbee"
+      ],
+      [
+        "adding objects",
+        "original 1 dogs are biting onto the frisbee"
+      ],
+      [
+        "original 1 dogs are biting onto the frisbee",
+        "3 dogs are biting onto the frisbee"
+      ],
+      [
+        "adding objects",
+        "3 dogs are biting onto the frisbee"
+      ]
+    ]
+  },
+  {
+    "text": "How many zebras are shown?",
+    "factual_roles": {
+      "Exposure": [
+        "6 zebras"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000403425.jpg"
+      ],
+      "Mediator": [
+        "numerical counting"
+      ],
+      "Outcome": [
+        "6 zebras"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000403425.jpg",
+        "6 zebras"
+      ],
+      [
+        "COCO_val2014_000000403425.jpg",
+        "numerical counting"
+      ],
+      [
+        "6 zebras",
+        "numerical counting"
+      ],
+      [
+        "numerical counting",
+        "6 zebras"
+      ],
+      [
+        "6 zebras",
+        "6 zebras"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "removing objects"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000403425.jpg"
+      ],
+      "Mediator": [
+        "original 6 zebras"
+      ],
+      "Outcome": [
+        "3 zebras"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000403425.jpg",
+        "removing objects"
+      ],
+      [
+        "COCO_val2014_000000403425.jpg",
+        "original 6 zebras"
+      ],
+      [
+        "removing objects",
+        "original 6 zebras"
+      ],
+      [
+        "original 6 zebras",
+        "3 zebras"
+      ],
+      [
+        "removing objects",
+        "3 zebras"
+      ]
+    ]
+  },
+  {
+    "text": "How many trains?",
+    "factual_roles": {
+      "Exposure": [
+        "1 trains"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000403481.jpg"
+      ],
+      "Mediator": [
+        "numerical counting"
+      ],
+      "Outcome": [
+        "1 trains"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000403481.jpg",
+        "1 trains"
+      ],
+      [
+        "COCO_val2014_000000403481.jpg",
+        "numerical counting"
+      ],
+      [
+        "1 trains",
+        "numerical counting"
+      ],
+      [
+        "numerical counting",
+        "1 trains"
+      ],
+      [
+        "1 trains",
+        "1 trains"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "adding objects"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000403481.jpg"
+      ],
+      "Mediator": [
+        "original 1 trains"
+      ],
+      "Outcome": [
+        "5 trains"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000403481.jpg",
+        "adding objects"
+      ],
+      [
+        "COCO_val2014_000000403481.jpg",
+        "original 1 trains"
+      ],
+      [
+        "adding objects",
+        "original 1 trains"
+      ],
+      [
+        "original 1 trains",
+        "5 trains"
+      ],
+      [
+        "adding objects",
+        "5 trains"
+      ]
+    ]
+  },
+  {
+    "text": "How many bags can you see?",
+    "factual_roles": {
+      "Exposure": [
+        "1 bags"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000403515.jpg"
+      ],
+      "Mediator": [
+        "numerical counting"
+      ],
+      "Outcome": [
+        "1 bags"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000403515.jpg",
+        "1 bags"
+      ],
+      [
+        "COCO_val2014_000000403515.jpg",
+        "numerical counting"
+      ],
+      [
+        "1 bags",
+        "numerical counting"
+      ],
+      [
+        "numerical counting",
+        "1 bags"
+      ],
+      [
+        "1 bags",
+        "1 bags"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "changing quantity"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000403515.jpg"
+      ],
+      "Mediator": [
+        "original 1 bags"
+      ],
+      "Outcome": [
+        "0 bags"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000403515.jpg",
+        "changing quantity"
+      ],
+      [
+        "COCO_val2014_000000403515.jpg",
+        "original 1 bags"
+      ],
+      [
+        "changing quantity",
+        "original 1 bags"
+      ],
+      [
+        "original 1 bags",
+        "0 bags"
+      ],
+      [
+        "changing quantity",
+        "0 bags"
+      ]
+    ]
+  },
+  {
+    "text": "How many tablets are on the bed?",
+    "factual_roles": {
+      "Exposure": [
+        "3 tablets are on the bed"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000403639.jpg"
+      ],
+      "Mediator": [
+        "numerical counting"
+      ],
+      "Outcome": [
+        "3 tablets are on the bed"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000403639.jpg",
+        "3 tablets are on the bed"
+      ],
+      [
+        "COCO_val2014_000000403639.jpg",
+        "numerical counting"
+      ],
+      [
+        "3 tablets are on the bed",
+        "numerical counting"
+      ],
+      [
+        "numerical counting",
+        "3 tablets are on the bed"
+      ],
+      [
+        "3 tablets are on the bed",
+        "3 tablets are on the bed"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "removing objects"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000403639.jpg"
+      ],
+      "Mediator": [
+        "original 3 tablets are on the bed"
+      ],
+      "Outcome": [
+        "1 tablets are on the bed"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000403639.jpg",
+        "removing objects"
+      ],
+      [
+        "COCO_val2014_000000403639.jpg",
+        "original 3 tablets are on the bed"
+      ],
+      [
+        "removing objects",
+        "original 3 tablets are on the bed"
+      ],
+      [
+        "original 3 tablets are on the bed",
+        "1 tablets are on the bed"
+      ],
+      [
+        "removing objects",
+        "1 tablets are on the bed"
+      ]
+    ]
+  },
+  {
+    "text": "How many dogs?",
+    "factual_roles": {
+      "Exposure": [
+        "1 dogs"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000403758.jpg"
+      ],
+      "Mediator": [
+        "numerical counting"
+      ],
+      "Outcome": [
+        "1 dogs"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000403758.jpg",
+        "1 dogs"
+      ],
+      [
+        "COCO_val2014_000000403758.jpg",
+        "numerical counting"
+      ],
+      [
+        "1 dogs",
+        "numerical counting"
+      ],
+      [
+        "numerical counting",
+        "1 dogs"
+      ],
+      [
+        "1 dogs",
+        "1 dogs"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "adding objects"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000403758.jpg"
+      ],
+      "Mediator": [
+        "original 1 dogs"
+      ],
+      "Outcome": [
+        "4 dogs"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000403758.jpg",
+        "adding objects"
+      ],
+      [
+        "COCO_val2014_000000403758.jpg",
+        "original 1 dogs"
+      ],
+      [
+        "adding objects",
+        "original 1 dogs"
+      ],
+      [
+        "original 1 dogs",
+        "4 dogs"
+      ],
+      [
+        "adding objects",
+        "4 dogs"
+      ]
+    ]
+  },
+  {
+    "text": "How many signs are there?",
+    "factual_roles": {
+      "Exposure": [
+        "7 signs"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000403821.jpg"
+      ],
+      "Mediator": [
+        "numerical counting"
+      ],
+      "Outcome": [
+        "7 signs"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000403821.jpg",
+        "7 signs"
+      ],
+      [
+        "COCO_val2014_000000403821.jpg",
+        "numerical counting"
+      ],
+      [
+        "7 signs",
+        "numerical counting"
+      ],
+      [
+        "numerical counting",
+        "7 signs"
+      ],
+      [
+        "7 signs",
+        "7 signs"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "removing objects"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000403821.jpg"
+      ],
+      "Mediator": [
+        "original 7 signs"
+      ],
+      "Outcome": [
+        "4 signs"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000403821.jpg",
+        "removing objects"
+      ],
+      [
+        "COCO_val2014_000000403821.jpg",
+        "original 7 signs"
+      ],
+      [
+        "removing objects",
+        "original 7 signs"
+      ],
+      [
+        "original 7 signs",
+        "4 signs"
+      ],
+      [
+        "removing objects",
+        "4 signs"
+      ]
+    ]
+  },
+  {
+    "text": "How many windshield wipers are present?",
+    "factual_roles": {
+      "Exposure": [
+        "1 windshield wipers are present"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000403864.jpg"
+      ],
+      "Mediator": [
+        "numerical counting"
+      ],
+      "Outcome": [
+        "1 windshield wipers are present"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000403864.jpg",
+        "1 windshield wipers are present"
+      ],
+      [
+        "COCO_val2014_000000403864.jpg",
+        "numerical counting"
+      ],
+      [
+        "1 windshield wipers are present",
+        "numerical counting"
+      ],
+      [
+        "numerical counting",
+        "1 windshield wipers are present"
+      ],
+      [
+        "1 windshield wipers are present",
+        "1 windshield wipers are present"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "adding objects"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000403864.jpg"
+      ],
+      "Mediator": [
+        "original 1 windshield wipers are present"
+      ],
+      "Outcome": [
+        "3 windshield wipers are present"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000403864.jpg",
+        "adding objects"
+      ],
+      [
+        "COCO_val2014_000000403864.jpg",
+        "original 1 windshield wipers are present"
+      ],
+      [
+        "adding objects",
+        "original 1 windshield wipers are present"
+      ],
+      [
+        "original 1 windshield wipers are present",
+        "3 windshield wipers are present"
+      ],
+      [
+        "adding objects",
+        "3 windshield wipers are present"
+      ]
+    ]
+  },
+  {
+    "text": "How many benches appear in this photo?",
+    "factual_roles": {
+      "Exposure": [
+        "2 benches appear in this photo"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000403907.jpg"
+      ],
+      "Mediator": [
+        "numerical counting"
+      ],
+      "Outcome": [
+        "2 benches appear in this photo"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000403907.jpg",
+        "2 benches appear in this photo"
+      ],
+      [
+        "COCO_val2014_000000403907.jpg",
+        "numerical counting"
+      ],
+      [
+        "2 benches appear in this photo",
+        "numerical counting"
+      ],
+      [
+        "numerical counting",
+        "2 benches appear in this photo"
+      ],
+      [
+        "2 benches appear in this photo",
+        "2 benches appear in this photo"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "removing objects"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000403907.jpg"
+      ],
+      "Mediator": [
+        "original 2 benches appear in this photo"
+      ],
+      "Outcome": [
+        "1 benches appear in this photo"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000403907.jpg",
+        "removing objects"
+      ],
+      [
+        "COCO_val2014_000000403907.jpg",
+        "original 2 benches appear in this photo"
+      ],
+      [
+        "removing objects",
+        "original 2 benches appear in this photo"
+      ],
+      [
+        "original 2 benches appear in this photo",
+        "1 benches appear in this photo"
+      ],
+      [
+        "removing objects",
+        "1 benches appear in this photo"
+      ]
+    ]
+  },
+  {
+    "text": "How many bottles are shown?",
+    "factual_roles": {
+      "Exposure": [
+        "7 bottles"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000403951.jpg"
+      ],
+      "Mediator": [
+        "numerical counting"
+      ],
+      "Outcome": [
+        "7 bottles"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000403951.jpg",
+        "7 bottles"
+      ],
+      [
+        "COCO_val2014_000000403951.jpg",
+        "numerical counting"
+      ],
+      [
+        "7 bottles",
+        "numerical counting"
+      ],
+      [
+        "numerical counting",
+        "7 bottles"
+      ],
+      [
+        "7 bottles",
+        "7 bottles"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "removing objects"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000403951.jpg"
+      ],
+      "Mediator": [
+        "original 7 bottles"
+      ],
+      "Outcome": [
+        "2 bottles"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000403951.jpg",
+        "removing objects"
+      ],
+      [
+        "COCO_val2014_000000403951.jpg",
+        "original 7 bottles"
+      ],
+      [
+        "removing objects",
+        "original 7 bottles"
+      ],
+      [
+        "original 7 bottles",
+        "2 bottles"
+      ],
+      [
+        "removing objects",
+        "2 bottles"
+      ]
+    ]
+  },
+  {
+    "text": "How many train tracks are seen?",
+    "factual_roles": {
+      "Exposure": [
+        "2 train tracks are seen"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000404071.jpg"
+      ],
+      "Mediator": [
+        "numerical counting"
+      ],
+      "Outcome": [
+        "2 train tracks are seen"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000404071.jpg",
+        "2 train tracks are seen"
+      ],
+      [
+        "COCO_val2014_000000404071.jpg",
+        "numerical counting"
+      ],
+      [
+        "2 train tracks are seen",
+        "numerical counting"
+      ],
+      [
+        "numerical counting",
+        "2 train tracks are seen"
+      ],
+      [
+        "2 train tracks are seen",
+        "2 train tracks are seen"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "removing objects"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000404071.jpg"
+      ],
+      "Mediator": [
+        "original 2 train tracks are seen"
+      ],
+      "Outcome": [
+        "1 train tracks are seen"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000404071.jpg",
+        "removing objects"
+      ],
+      [
+        "COCO_val2014_000000404071.jpg",
+        "original 2 train tracks are seen"
+      ],
+      [
+        "removing objects",
+        "original 2 train tracks are seen"
+      ],
+      [
+        "original 2 train tracks are seen",
+        "1 train tracks are seen"
+      ],
+      [
+        "removing objects",
+        "1 train tracks are seen"
+      ]
+    ]
+  },
+  {
+    "text": "How many glasses are there on the table?",
+    "factual_roles": {
+      "Exposure": [
+        "1 glasses  on the table"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000404209.jpg"
+      ],
+      "Mediator": [
+        "numerical counting"
+      ],
+      "Outcome": [
+        "1 glasses  on the table"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000404209.jpg",
+        "1 glasses  on the table"
+      ],
+      [
+        "COCO_val2014_000000404209.jpg",
+        "numerical counting"
+      ],
+      [
+        "1 glasses  on the table",
+        "numerical counting"
+      ],
+      [
+        "numerical counting",
+        "1 glasses  on the table"
+      ],
+      [
+        "1 glasses  on the table",
+        "1 glasses  on the table"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "changing quantity"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000404209.jpg"
+      ],
+      "Mediator": [
+        "original 1 glasses  on the table"
+      ],
+      "Outcome": [
+        "2 glasses  on the table"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000404209.jpg",
+        "changing quantity"
+      ],
+      [
+        "COCO_val2014_000000404209.jpg",
+        "original 1 glasses  on the table"
+      ],
+      [
+        "changing quantity",
+        "original 1 glasses  on the table"
+      ],
+      [
+        "original 1 glasses  on the table",
+        "2 glasses  on the table"
+      ],
+      [
+        "changing quantity",
+        "2 glasses  on the table"
+      ]
+    ]
+  },
+  {
+    "text": "How many animals are there?",
+    "factual_roles": {
+      "Exposure": [
+        "1 animals"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000404273.jpg"
+      ],
+      "Mediator": [
+        "numerical counting"
+      ],
+      "Outcome": [
+        "1 animals"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000404273.jpg",
+        "1 animals"
+      ],
+      [
+        "COCO_val2014_000000404273.jpg",
+        "numerical counting"
+      ],
+      [
+        "1 animals",
+        "numerical counting"
+      ],
+      [
+        "numerical counting",
+        "1 animals"
+      ],
+      [
+        "1 animals",
+        "1 animals"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "adding objects"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000404273.jpg"
+      ],
+      "Mediator": [
+        "original 1 animals"
+      ],
+      "Outcome": [
+        "6 animals"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000404273.jpg",
+        "adding objects"
+      ],
+      [
+        "COCO_val2014_000000404273.jpg",
+        "original 1 animals"
+      ],
+      [
+        "adding objects",
+        "original 1 animals"
+      ],
+      [
+        "original 1 animals",
+        "6 animals"
+      ],
+      [
+        "adding objects",
+        "6 animals"
+      ]
+    ]
+  },
+  {
+    "text": "How many palm trees are there?",
+    "factual_roles": {
+      "Exposure": [
+        "0 palm trees"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000404338.jpg"
+      ],
+      "Mediator": [
+        "numerical counting"
+      ],
+      "Outcome": [
+        "0 palm trees"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000404338.jpg",
+        "0 palm trees"
+      ],
+      [
+        "COCO_val2014_000000404338.jpg",
+        "numerical counting"
+      ],
+      [
+        "0 palm trees",
+        "numerical counting"
+      ],
+      [
+        "numerical counting",
+        "0 palm trees"
+      ],
+      [
+        "0 palm trees",
+        "0 palm trees"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "changing quantity"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000404338.jpg"
+      ],
+      "Mediator": [
+        "original 0 palm trees"
+      ],
+      "Outcome": [
+        "2 palm trees"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000404338.jpg",
+        "changing quantity"
+      ],
+      [
+        "COCO_val2014_000000404338.jpg",
+        "original 0 palm trees"
+      ],
+      [
+        "changing quantity",
+        "original 0 palm trees"
+      ],
+      [
+        "original 0 palm trees",
+        "2 palm trees"
+      ],
+      [
+        "changing quantity",
+        "2 palm trees"
+      ]
+    ]
+  },
+  {
+    "text": "How many players are there?",
+    "factual_roles": {
+      "Exposure": [
+        "1 players"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000404373.jpg"
+      ],
+      "Mediator": [
+        "numerical counting"
+      ],
+      "Outcome": [
+        "1 players"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000404373.jpg",
+        "1 players"
+      ],
+      [
+        "COCO_val2014_000000404373.jpg",
+        "numerical counting"
+      ],
+      [
+        "1 players",
+        "numerical counting"
+      ],
+      [
+        "numerical counting",
+        "1 players"
+      ],
+      [
+        "1 players",
+        "1 players"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "changing quantity"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000404373.jpg"
+      ],
+      "Mediator": [
+        "original 1 players"
+      ],
+      "Outcome": [
+        "0 players"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000404373.jpg",
+        "changing quantity"
+      ],
+      [
+        "COCO_val2014_000000404373.jpg",
+        "original 1 players"
+      ],
+      [
+        "changing quantity",
+        "original 1 players"
+      ],
+      [
+        "original 1 players",
+        "0 players"
+      ],
+      [
+        "changing quantity",
+        "0 players"
+      ]
+    ]
+  },
+  {
+    "text": "How many airplanes are visible?",
+    "factual_roles": {
+      "Exposure": [
+        "1 airplanes are visible"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000404479.jpg"
+      ],
+      "Mediator": [
+        "numerical counting"
+      ],
+      "Outcome": [
+        "1 airplanes are visible"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000404479.jpg",
+        "1 airplanes are visible"
+      ],
+      [
+        "COCO_val2014_000000404479.jpg",
+        "numerical counting"
+      ],
+      [
+        "1 airplanes are visible",
+        "numerical counting"
+      ],
+      [
+        "numerical counting",
+        "1 airplanes are visible"
+      ],
+      [
+        "1 airplanes are visible",
+        "1 airplanes are visible"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "adding objects"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000404479.jpg"
+      ],
+      "Mediator": [
+        "original 1 airplanes are visible"
+      ],
+      "Outcome": [
+        "5 airplanes are visible"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000404479.jpg",
+        "adding objects"
+      ],
+      [
+        "COCO_val2014_000000404479.jpg",
+        "original 1 airplanes are visible"
+      ],
+      [
+        "adding objects",
+        "original 1 airplanes are visible"
+      ],
+      [
+        "original 1 airplanes are visible",
+        "5 airplanes are visible"
+      ],
+      [
+        "adding objects",
+        "5 airplanes are visible"
+      ]
+    ]
+  },
+  {
+    "text": "How many animals are shown?",
+    "factual_roles": {
+      "Exposure": [
+        "1 animals"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000404568.jpg"
+      ],
+      "Mediator": [
+        "numerical counting"
+      ],
+      "Outcome": [
+        "1 animals"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000404568.jpg",
+        "1 animals"
+      ],
+      [
+        "COCO_val2014_000000404568.jpg",
+        "numerical counting"
+      ],
+      [
+        "1 animals",
+        "numerical counting"
+      ],
+      [
+        "numerical counting",
+        "1 animals"
+      ],
+      [
+        "1 animals",
+        "1 animals"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "adding objects"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000404568.jpg"
+      ],
+      "Mediator": [
+        "original 1 animals"
+      ],
+      "Outcome": [
+        "4 animals"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000404568.jpg",
+        "adding objects"
+      ],
+      [
+        "COCO_val2014_000000404568.jpg",
+        "original 1 animals"
+      ],
+      [
+        "adding objects",
+        "original 1 animals"
+      ],
+      [
+        "original 1 animals",
+        "4 animals"
+      ],
+      [
+        "adding objects",
+        "4 animals"
+      ]
+    ]
+  },
+  {
+    "text": "How many elephants?",
+    "factual_roles": {
+      "Exposure": [
+        "7 elephants"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000404635.jpg"
+      ],
+      "Mediator": [
+        "numerical counting"
+      ],
+      "Outcome": [
+        "7 elephants"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000404635.jpg",
+        "7 elephants"
+      ],
+      [
+        "COCO_val2014_000000404635.jpg",
+        "numerical counting"
+      ],
+      [
+        "7 elephants",
+        "numerical counting"
+      ],
+      [
+        "numerical counting",
+        "7 elephants"
+      ],
+      [
+        "7 elephants",
+        "7 elephants"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "changing quantity"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000404635.jpg"
+      ],
+      "Mediator": [
+        "original 7 elephants"
+      ],
+      "Outcome": [
+        "9 elephants"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000404635.jpg",
+        "changing quantity"
+      ],
+      [
+        "COCO_val2014_000000404635.jpg",
+        "original 7 elephants"
+      ],
+      [
+        "changing quantity",
+        "original 7 elephants"
+      ],
+      [
+        "original 7 elephants",
+        "9 elephants"
+      ],
+      [
+        "changing quantity",
+        "9 elephants"
+      ]
+    ]
+  },
+  {
+    "text": "How many pictures?",
+    "factual_roles": {
+      "Exposure": [
+        "5 pictures"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000404668.jpg"
+      ],
+      "Mediator": [
+        "numerical counting"
+      ],
+      "Outcome": [
+        "5 pictures"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000404668.jpg",
+        "5 pictures"
+      ],
+      [
+        "COCO_val2014_000000404668.jpg",
+        "numerical counting"
+      ],
+      [
+        "5 pictures",
+        "numerical counting"
+      ],
+      [
+        "numerical counting",
+        "5 pictures"
+      ],
+      [
+        "5 pictures",
+        "5 pictures"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "changing quantity"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000404668.jpg"
+      ],
+      "Mediator": [
+        "original 5 pictures"
+      ],
+      "Outcome": [
+        "2 pictures"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000404668.jpg",
+        "changing quantity"
+      ],
+      [
+        "COCO_val2014_000000404668.jpg",
+        "original 5 pictures"
+      ],
+      [
+        "changing quantity",
+        "original 5 pictures"
+      ],
+      [
+        "original 5 pictures",
+        "2 pictures"
+      ],
+      [
+        "changing quantity",
+        "2 pictures"
+      ]
+    ]
+  },
+  {
+    "text": "How many people?",
+    "factual_roles": {
+      "Exposure": [
+        "0 people"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000404702.jpg"
+      ],
+      "Mediator": [
+        "numerical counting"
+      ],
+      "Outcome": [
+        "0 people"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000404702.jpg",
+        "0 people"
+      ],
+      [
+        "COCO_val2014_000000404702.jpg",
+        "numerical counting"
+      ],
+      [
+        "0 people",
+        "numerical counting"
+      ],
+      [
+        "numerical counting",
+        "0 people"
+      ],
+      [
+        "0 people",
+        "0 people"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "changing quantity"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000404702.jpg"
+      ],
+      "Mediator": [
+        "original 0 people"
+      ],
+      "Outcome": [
+        "3 people"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000404702.jpg",
+        "changing quantity"
+      ],
+      [
+        "COCO_val2014_000000404702.jpg",
+        "original 0 people"
+      ],
+      [
+        "changing quantity",
+        "original 0 people"
+      ],
+      [
+        "original 0 people",
+        "3 people"
+      ],
+      [
+        "changing quantity",
+        "3 people"
+      ]
+    ]
+  },
+  {
+    "text": "How many giraffe are getting for food?",
+    "factual_roles": {
+      "Exposure": [
+        "1 giraffe are getting for food"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000404889.jpg"
+      ],
+      "Mediator": [
+        "numerical counting"
+      ],
+      "Outcome": [
+        "1 giraffe are getting for food"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000404889.jpg",
+        "1 giraffe are getting for food"
+      ],
+      [
+        "COCO_val2014_000000404889.jpg",
+        "numerical counting"
+      ],
+      [
+        "1 giraffe are getting for food",
+        "numerical counting"
+      ],
+      [
+        "numerical counting",
+        "1 giraffe are getting for food"
+      ],
+      [
+        "1 giraffe are getting for food",
+        "1 giraffe are getting for food"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "changing quantity"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000404889.jpg"
+      ],
+      "Mediator": [
+        "original 1 giraffe are getting for food"
+      ],
+      "Outcome": [
+        "2 giraffe are getting for food"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000404889.jpg",
+        "changing quantity"
+      ],
+      [
+        "COCO_val2014_000000404889.jpg",
+        "original 1 giraffe are getting for food"
+      ],
+      [
+        "changing quantity",
+        "original 1 giraffe are getting for food"
+      ],
+      [
+        "original 1 giraffe are getting for food",
+        "2 giraffe are getting for food"
+      ],
+      [
+        "changing quantity",
+        "2 giraffe are getting for food"
+      ]
+    ]
+  },
+  {
+    "text": "How many benches are there?",
+    "factual_roles": {
+      "Exposure": [
+        "10 benches"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000404988.jpg"
+      ],
+      "Mediator": [
+        "numerical counting"
+      ],
+      "Outcome": [
+        "10 benches"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000404988.jpg",
+        "10 benches"
+      ],
+      [
+        "COCO_val2014_000000404988.jpg",
+        "numerical counting"
+      ],
+      [
+        "10 benches",
+        "numerical counting"
+      ],
+      [
+        "numerical counting",
+        "10 benches"
+      ],
+      [
+        "10 benches",
+        "10 benches"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "changing quantity"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000404988.jpg"
+      ],
+      "Mediator": [
+        "original 10 benches"
+      ],
+      "Outcome": [
+        "5 benches"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000404988.jpg",
+        "changing quantity"
+      ],
+      [
+        "COCO_val2014_000000404988.jpg",
+        "original 10 benches"
+      ],
+      [
+        "changing quantity",
+        "original 10 benches"
+      ],
+      [
+        "original 10 benches",
+        "5 benches"
+      ],
+      [
+        "changing quantity",
+        "5 benches"
+      ]
+    ]
+  },
+  {
+    "text": "How many lights are on?",
+    "factual_roles": {
+      "Exposure": [
+        "2 lights are on"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000405004.jpg"
+      ],
+      "Mediator": [
+        "numerical counting"
+      ],
+      "Outcome": [
+        "2 lights are on"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000405004.jpg",
+        "2 lights are on"
+      ],
+      [
+        "COCO_val2014_000000405004.jpg",
+        "numerical counting"
+      ],
+      [
+        "2 lights are on",
+        "numerical counting"
+      ],
+      [
+        "numerical counting",
+        "2 lights are on"
+      ],
+      [
+        "2 lights are on",
+        "2 lights are on"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "changing quantity"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000405004.jpg"
+      ],
+      "Mediator": [
+        "original 2 lights are on"
+      ],
+      "Outcome": [
+        "1 lights are on"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000405004.jpg",
+        "changing quantity"
+      ],
+      [
+        "COCO_val2014_000000405004.jpg",
+        "original 2 lights are on"
+      ],
+      [
+        "changing quantity",
+        "original 2 lights are on"
+      ],
+      [
+        "original 2 lights are on",
+        "1 lights are on"
+      ],
+      [
+        "changing quantity",
+        "1 lights are on"
+      ]
+    ]
+  },
+  {
+    "text": "How many green signs are there?",
+    "factual_roles": {
+      "Exposure": [
+        "1 green signs"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000405104.jpg"
+      ],
+      "Mediator": [
+        "numerical counting"
+      ],
+      "Outcome": [
+        "1 green signs"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000405104.jpg",
+        "1 green signs"
+      ],
+      [
+        "COCO_val2014_000000405104.jpg",
+        "numerical counting"
+      ],
+      [
+        "1 green signs",
+        "numerical counting"
+      ],
+      [
+        "numerical counting",
+        "1 green signs"
+      ],
+      [
+        "1 green signs",
+        "1 green signs"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "adding objects"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000405104.jpg"
+      ],
+      "Mediator": [
+        "original 1 green signs"
+      ],
+      "Outcome": [
+        "3 green signs"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000405104.jpg",
+        "adding objects"
+      ],
+      [
+        "COCO_val2014_000000405104.jpg",
+        "original 1 green signs"
+      ],
+      [
+        "adding objects",
+        "original 1 green signs"
+      ],
+      [
+        "original 1 green signs",
+        "3 green signs"
+      ],
+      [
+        "adding objects",
+        "3 green signs"
+      ]
+    ]
+  }
+]
