@@ -1,0 +1,2042 @@
+[
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "EC",
+        "DD"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "16-based system"
+      ],
+      "Covariate": [
+        "EC",
+        "DD"
+      ],
+      "Mediator": [
+        "236",
+        "221",
+        "457"
+      ],
+      "Outcome": [
+        "1C9"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "18",
+        "9F"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "16-based system"
+      ],
+      "Covariate": [
+        "18",
+        "9F"
+      ],
+      "Mediator": [
+        "24",
+        "159",
+        "183"
+      ],
+      "Outcome": [
+        "B7"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "79",
+        "8B"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "16-based system"
+      ],
+      "Covariate": [
+        "79",
+        "8B"
+      ],
+      "Mediator": [
+        "121",
+        "139",
+        "260"
+      ],
+      "Outcome": [
+        "104"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "A6",
+        "94"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "16-based system"
+      ],
+      "Covariate": [
+        "A6",
+        "94"
+      ],
+      "Mediator": [
+        "166",
+        "148",
+        "314"
+      ],
+      "Outcome": [
+        "13A"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "54",
+        "D3"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "16-based system"
+      ],
+      "Covariate": [
+        "54",
+        "D3"
+      ],
+      "Mediator": [
+        "84",
+        "211",
+        "295"
+      ],
+      "Outcome": [
+        "127"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "A8",
+        "F4"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "16-based system"
+      ],
+      "Covariate": [
+        "A8",
+        "F4"
+      ],
+      "Mediator": [
+        "168",
+        "244",
+        "412"
+      ],
+      "Outcome": [
+        "19C"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "53",
+        "C2"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "16-based system"
+      ],
+      "Covariate": [
+        "53",
+        "C2"
+      ],
+      "Mediator": [
+        "83",
+        "194",
+        "277"
+      ],
+      "Outcome": [
+        "115"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "FA",
+        "83"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "16-based system"
+      ],
+      "Covariate": [
+        "FA",
+        "83"
+      ],
+      "Mediator": [
+        "250",
+        "131",
+        "381"
+      ],
+      "Outcome": [
+        "17D"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "6D",
+        "66"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "16-based system"
+      ],
+      "Covariate": [
+        "6D",
+        "66"
+      ],
+      "Mediator": [
+        "109",
+        "102",
+        "211"
+      ],
+      "Outcome": [
+        "D3"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "9F",
+        "88"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "16-based system"
+      ],
+      "Covariate": [
+        "9F",
+        "88"
+      ],
+      "Mediator": [
+        "159",
+        "136",
+        "295"
+      ],
+      "Outcome": [
+        "127"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "10",
+        "2C"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "16-based system"
+      ],
+      "Covariate": [
+        "10",
+        "2C"
+      ],
+      "Mediator": [
+        "16",
+        "44",
+        "60"
+      ],
+      "Outcome": [
+        "3C"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "C0",
+        "AF"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "16-based system"
+      ],
+      "Covariate": [
+        "C0",
+        "AF"
+      ],
+      "Mediator": [
+        "192",
+        "175",
+        "367"
+      ],
+      "Outcome": [
+        "16F"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "EA",
+        "4A"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "16-based system"
+      ],
+      "Covariate": [
+        "EA",
+        "4A"
+      ],
+      "Mediator": [
+        "234",
+        "74",
+        "308"
+      ],
+      "Outcome": [
+        "134"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "C2",
+        "47"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "16-based system"
+      ],
+      "Covariate": [
+        "C2",
+        "47"
+      ],
+      "Mediator": [
+        "194",
+        "71",
+        "265"
+      ],
+      "Outcome": [
+        "109"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "44",
+        "DE"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "16-based system"
+      ],
+      "Covariate": [
+        "44",
+        "DE"
+      ],
+      "Mediator": [
+        "68",
+        "222",
+        "290"
+      ],
+      "Outcome": [
+        "122"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "22",
+        "6F"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "16-based system"
+      ],
+      "Covariate": [
+        "22",
+        "6F"
+      ],
+      "Mediator": [
+        "34",
+        "111",
+        "145"
+      ],
+      "Outcome": [
+        "91"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "29",
+        "99"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "16-based system"
+      ],
+      "Covariate": [
+        "29",
+        "99"
+      ],
+      "Mediator": [
+        "41",
+        "153",
+        "194"
+      ],
+      "Outcome": [
+        "C2"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "C3",
+        "9A"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "16-based system"
+      ],
+      "Covariate": [
+        "C3",
+        "9A"
+      ],
+      "Mediator": [
+        "195",
+        "154",
+        "349"
+      ],
+      "Outcome": [
+        "15D"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "E6",
+        "D9"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "16-based system"
+      ],
+      "Covariate": [
+        "E6",
+        "D9"
+      ],
+      "Mediator": [
+        "230",
+        "217",
+        "447"
+      ],
+      "Outcome": [
+        "1BF"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "82",
+        "AC"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "16-based system"
+      ],
+      "Covariate": [
+        "82",
+        "AC"
+      ],
+      "Mediator": [
+        "130",
+        "172",
+        "302"
+      ],
+      "Outcome": [
+        "12E"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "67",
+        "55"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "16-based system"
+      ],
+      "Covariate": [
+        "67",
+        "55"
+      ],
+      "Mediator": [
+        "103",
+        "85",
+        "188"
+      ],
+      "Outcome": [
+        "BC"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "45",
+        "18"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "16-based system"
+      ],
+      "Covariate": [
+        "45",
+        "18"
+      ],
+      "Mediator": [
+        "69",
+        "24",
+        "93"
+      ],
+      "Outcome": [
+        "5D"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "82",
+        "24"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "16-based system"
+      ],
+      "Covariate": [
+        "82",
+        "24"
+      ],
+      "Mediator": [
+        "130",
+        "36",
+        "166"
+      ],
+      "Outcome": [
+        "A6"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "F4",
+        "F1"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "16-based system"
+      ],
+      "Covariate": [
+        "F4",
+        "F1"
+      ],
+      "Mediator": [
+        "244",
+        "241",
+        "485"
+      ],
+      "Outcome": [
+        "1E5"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "E2",
+        "FC"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "16-based system"
+      ],
+      "Covariate": [
+        "E2",
+        "FC"
+      ],
+      "Mediator": [
+        "226",
+        "252",
+        "478"
+      ],
+      "Outcome": [
+        "1DE"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "E8",
+        "97"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "16-based system"
+      ],
+      "Covariate": [
+        "E8",
+        "97"
+      ],
+      "Mediator": [
+        "232",
+        "151",
+        "383"
+      ],
+      "Outcome": [
+        "17F"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "E6",
+        "FD"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "16-based system"
+      ],
+      "Covariate": [
+        "E6",
+        "FD"
+      ],
+      "Mediator": [
+        "230",
+        "253",
+        "483"
+      ],
+      "Outcome": [
+        "1E3"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "A8",
+        "8F"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "16-based system"
+      ],
+      "Covariate": [
+        "A8",
+        "8F"
+      ],
+      "Mediator": [
+        "168",
+        "143",
+        "311"
+      ],
+      "Outcome": [
+        "137"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "BB",
+        "2A"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "16-based system"
+      ],
+      "Covariate": [
+        "BB",
+        "2A"
+      ],
+      "Mediator": [
+        "187",
+        "42",
+        "229"
+      ],
+      "Outcome": [
+        "E5"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "A3",
+        "8A"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "16-based system"
+      ],
+      "Covariate": [
+        "A3",
+        "8A"
+      ],
+      "Mediator": [
+        "163",
+        "138",
+        "301"
+      ],
+      "Outcome": [
+        "12D"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "76",
+        "14"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "9-based system"
+      ],
+      "Covariate": [
+        "76",
+        "14"
+      ],
+      "Mediator": [
+        "69",
+        "13",
+        "82"
+      ],
+      "Outcome": [
+        "101"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "86",
+        "57"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "9-based system"
+      ],
+      "Covariate": [
+        "86",
+        "57"
+      ],
+      "Mediator": [
+        "78",
+        "52",
+        "130"
+      ],
+      "Outcome": [
+        "154"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "63",
+        "34"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "9-based system"
+      ],
+      "Covariate": [
+        "63",
+        "34"
+      ],
+      "Mediator": [
+        "57",
+        "31",
+        "88"
+      ],
+      "Outcome": [
+        "107"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "31",
+        "58"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "9-based system"
+      ],
+      "Covariate": [
+        "31",
+        "58"
+      ],
+      "Mediator": [
+        "28",
+        "53",
+        "81"
+      ],
+      "Outcome": [
+        "100"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "67",
+        "25"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "9-based system"
+      ],
+      "Covariate": [
+        "67",
+        "25"
+      ],
+      "Mediator": [
+        "61",
+        "23",
+        "84"
+      ],
+      "Outcome": [
+        "103"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "75",
+        "48"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "9-based system"
+      ],
+      "Covariate": [
+        "75",
+        "48"
+      ],
+      "Mediator": [
+        "68",
+        "44",
+        "112"
+      ],
+      "Outcome": [
+        "134"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "87",
+        "50"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "9-based system"
+      ],
+      "Covariate": [
+        "87",
+        "50"
+      ],
+      "Mediator": [
+        "79",
+        "45",
+        "124"
+      ],
+      "Outcome": [
+        "147"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "85",
+        "45"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "9-based system"
+      ],
+      "Covariate": [
+        "85",
+        "45"
+      ],
+      "Mediator": [
+        "77",
+        "41",
+        "118"
+      ],
+      "Outcome": [
+        "141"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "38",
+        "81"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "9-based system"
+      ],
+      "Covariate": [
+        "38",
+        "81"
+      ],
+      "Mediator": [
+        "35",
+        "73",
+        "108"
+      ],
+      "Outcome": [
+        "130"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "25",
+        "81"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "9-based system"
+      ],
+      "Covariate": [
+        "25",
+        "81"
+      ],
+      "Mediator": [
+        "23",
+        "73",
+        "96"
+      ],
+      "Outcome": [
+        "116"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "58",
+        "51"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "9-based system"
+      ],
+      "Covariate": [
+        "58",
+        "51"
+      ],
+      "Mediator": [
+        "53",
+        "46",
+        "99"
+      ],
+      "Outcome": [
+        "120"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "68",
+        "48"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "9-based system"
+      ],
+      "Covariate": [
+        "68",
+        "48"
+      ],
+      "Mediator": [
+        "62",
+        "44",
+        "106"
+      ],
+      "Outcome": [
+        "127"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "57",
+        "26"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "9-based system"
+      ],
+      "Covariate": [
+        "57",
+        "26"
+      ],
+      "Mediator": [
+        "52",
+        "24",
+        "76"
+      ],
+      "Outcome": [
+        "84"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "63",
+        "52"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "9-based system"
+      ],
+      "Covariate": [
+        "63",
+        "52"
+      ],
+      "Mediator": [
+        "57",
+        "47",
+        "104"
+      ],
+      "Outcome": [
+        "125"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "81",
+        "22"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "9-based system"
+      ],
+      "Covariate": [
+        "81",
+        "22"
+      ],
+      "Mediator": [
+        "73",
+        "20",
+        "93"
+      ],
+      "Outcome": [
+        "113"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "78",
+        "58"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "9-based system"
+      ],
+      "Covariate": [
+        "78",
+        "58"
+      ],
+      "Mediator": [
+        "71",
+        "53",
+        "124"
+      ],
+      "Outcome": [
+        "147"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "43",
+        "74"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "9-based system"
+      ],
+      "Covariate": [
+        "43",
+        "74"
+      ],
+      "Mediator": [
+        "39",
+        "67",
+        "106"
+      ],
+      "Outcome": [
+        "127"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "87",
+        "61"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "9-based system"
+      ],
+      "Covariate": [
+        "87",
+        "61"
+      ],
+      "Mediator": [
+        "79",
+        "55",
+        "134"
+      ],
+      "Outcome": [
+        "158"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "61",
+        "85"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "9-based system"
+      ],
+      "Covariate": [
+        "61",
+        "85"
+      ],
+      "Mediator": [
+        "55",
+        "77",
+        "132"
+      ],
+      "Outcome": [
+        "156"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "33",
+        "18"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "9-based system"
+      ],
+      "Covariate": [
+        "33",
+        "18"
+      ],
+      "Mediator": [
+        "30",
+        "17",
+        "47"
+      ],
+      "Outcome": [
+        "52"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "26",
+        "25"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "9-based system"
+      ],
+      "Covariate": [
+        "26",
+        "25"
+      ],
+      "Mediator": [
+        "24",
+        "23",
+        "47"
+      ],
+      "Outcome": [
+        "52"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "31",
+        "83"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "9-based system"
+      ],
+      "Covariate": [
+        "31",
+        "83"
+      ],
+      "Mediator": [
+        "28",
+        "75",
+        "103"
+      ],
+      "Outcome": [
+        "124"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "51",
+        "41"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "9-based system"
+      ],
+      "Covariate": [
+        "51",
+        "41"
+      ],
+      "Mediator": [
+        "46",
+        "37",
+        "83"
+      ],
+      "Outcome": [
+        "102"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "55",
+        "72"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "9-based system"
+      ],
+      "Covariate": [
+        "55",
+        "72"
+      ],
+      "Mediator": [
+        "50",
+        "65",
+        "115"
+      ],
+      "Outcome": [
+        "137"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "18",
+        "80"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "9-based system"
+      ],
+      "Covariate": [
+        "18",
+        "80"
+      ],
+      "Mediator": [
+        "17",
+        "72",
+        "89"
+      ],
+      "Outcome": [
+        "108"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "26",
+        "44"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "9-based system"
+      ],
+      "Covariate": [
+        "26",
+        "44"
+      ],
+      "Mediator": [
+        "24",
+        "40",
+        "64"
+      ],
+      "Outcome": [
+        "71"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "67",
+        "33"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "9-based system"
+      ],
+      "Covariate": [
+        "67",
+        "33"
+      ],
+      "Mediator": [
+        "61",
+        "30",
+        "91"
+      ],
+      "Outcome": [
+        "111"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "51",
+        "82"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "9-based system"
+      ],
+      "Covariate": [
+        "51",
+        "82"
+      ],
+      "Mediator": [
+        "46",
+        "74",
+        "120"
+      ],
+      "Outcome": [
+        "143"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "17",
+        "78"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "9-based system"
+      ],
+      "Covariate": [
+        "17",
+        "78"
+      ],
+      "Mediator": [
+        "16",
+        "71",
+        "87"
+      ],
+      "Outcome": [
+        "106"
+      ]
+    }
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "10-based system"
+      ],
+      "Covariate": [
+        "55",
+        "74"
+      ],
+      "Mediator": [
+        "simple adding"
+      ],
+      "Outcome": [
+        "N.A."
+      ]
+    },
+    "counterfactual_roles": {
+      "Exposure": [
+        "9-based system"
+      ],
+      "Covariate": [
+        "55",
+        "74"
+      ],
+      "Mediator": [
+        "50",
+        "67",
+        "117"
+      ],
+      "Outcome": [
+        "140"
+      ]
+    }
+  }
+]
