@@ -1,0 +1,2522 @@
+[
+  {
+    "text": "A woman is cutting into a cake with a large knife.",
+    "factual_roles": {
+      "Exposure": [
+        "A woman is cutting into a cake with a large knife."
+      ],
+      "Covariate": [
+        "158956_0_img_0"
+      ],
+      "Mediator": [
+        "object in factual scene"
+      ],
+      "Outcome": [
+        "A woman is cutting into a cake with a large knife."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "158956_0_img_0",
+        "A woman is cutting into a cake with a large knife."
+      ],
+      [
+        "158956_0_img_0",
+        "object in factual scene"
+      ],
+      [
+        "A woman is cutting into a cake with a large knife.",
+        "object in factual scene"
+      ],
+      [
+        "object in factual scene",
+        "A woman is cutting into a cake with a large knife."
+      ],
+      [
+        "A woman is cutting into a cake with a large knife.",
+        "A woman is cutting into a cake with a large knife."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "A baker is cutting into a cake with a large knife."
+      ],
+      "Covariate": [
+        "158956_0_img_0",
+        "158956_0_img_1"
+      ],
+      "Mediator": [
+        "object identity changed in counterfactual scene"
+      ],
+      "Outcome": [
+        "A baker is cutting into a cake with a large knife."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "158956_0_img_0",
+        "A baker is cutting into a cake with a large knife."
+      ],
+      [
+        "158956_0_img_1",
+        "A baker is cutting into a cake with a large knife."
+      ],
+      [
+        "158956_0_img_0",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "158956_0_img_1",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "A baker is cutting into a cake with a large knife.",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "object identity changed in counterfactual scene",
+        "A baker is cutting into a cake with a large knife."
+      ],
+      [
+        "A baker is cutting into a cake with a large knife.",
+        "A baker is cutting into a cake with a large knife."
+      ]
+    ]
+  },
+  {
+    "text": "A man and woman brushing their teeth and taking a selfie photo with a camera in a bathroom mirror.",
+    "factual_roles": {
+      "Exposure": [
+        "A man and woman brushing their teeth and taking a selfie photo with a camera in a bathroom mirror."
+      ],
+      "Covariate": [
+        "164602_4_img_0"
+      ],
+      "Mediator": [
+        "object in factual scene"
+      ],
+      "Outcome": [
+        "A man and woman brushing their teeth and taking a selfie photo with a camera in a bathroom mirror."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "164602_4_img_0",
+        "A man and woman brushing their teeth and taking a selfie photo with a camera in a bathroom mirror."
+      ],
+      [
+        "164602_4_img_0",
+        "object in factual scene"
+      ],
+      [
+        "A man and woman brushing their teeth and taking a selfie photo with a camera in a bathroom mirror.",
+        "object in factual scene"
+      ],
+      [
+        "object in factual scene",
+        "A man and woman brushing their teeth and taking a selfie photo with a camera in a bathroom mirror."
+      ],
+      [
+        "A man and woman brushing their teeth and taking a selfie photo with a camera in a bathroom mirror.",
+        "A man and woman brushing their teeth and taking a selfie photo with a camera in a bathroom mirror."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "A man and woman brushing their teeth and taking a selfie photo with a dog in a bathroom mirror."
+      ],
+      "Covariate": [
+        "164602_4_img_0",
+        "164602_4_img_1"
+      ],
+      "Mediator": [
+        "object identity changed in counterfactual scene"
+      ],
+      "Outcome": [
+        "A man and woman brushing their teeth and taking a selfie photo with a dog in a bathroom mirror."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "164602_4_img_0",
+        "A man and woman brushing their teeth and taking a selfie photo with a dog in a bathroom mirror."
+      ],
+      [
+        "164602_4_img_1",
+        "A man and woman brushing their teeth and taking a selfie photo with a dog in a bathroom mirror."
+      ],
+      [
+        "164602_4_img_0",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "164602_4_img_1",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "A man and woman brushing their teeth and taking a selfie photo with a dog in a bathroom mirror.",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "object identity changed in counterfactual scene",
+        "A man and woman brushing their teeth and taking a selfie photo with a dog in a bathroom mirror."
+      ],
+      [
+        "A man and woman brushing their teeth and taking a selfie photo with a dog in a bathroom mirror.",
+        "A man and woman brushing their teeth and taking a selfie photo with a dog in a bathroom mirror."
+      ]
+    ]
+  },
+  {
+    "text": "Some cows that are wandering around a lot of pigeons.",
+    "factual_roles": {
+      "Exposure": [
+        "Some cows that are wandering around a lot of pigeons."
+      ],
+      "Covariate": [
+        "60823_0_img_0"
+      ],
+      "Mediator": [
+        "object in factual scene"
+      ],
+      "Outcome": [
+        "Some cows that are wandering around a lot of pigeons."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "60823_0_img_0",
+        "Some cows that are wandering around a lot of pigeons."
+      ],
+      [
+        "60823_0_img_0",
+        "object in factual scene"
+      ],
+      [
+        "Some cows that are wandering around a lot of pigeons.",
+        "object in factual scene"
+      ],
+      [
+        "object in factual scene",
+        "Some cows that are wandering around a lot of pigeons."
+      ],
+      [
+        "Some cows that are wandering around a lot of pigeons.",
+        "Some cows that are wandering around a lot of pigeons."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "Some people that are wandering around a lot of pigeons."
+      ],
+      "Covariate": [
+        "60823_0_img_0",
+        "60823_0_img_1"
+      ],
+      "Mediator": [
+        "object identity changed in counterfactual scene"
+      ],
+      "Outcome": [
+        "Some people that are wandering around a lot of pigeons."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "60823_0_img_0",
+        "Some people that are wandering around a lot of pigeons."
+      ],
+      [
+        "60823_0_img_1",
+        "Some people that are wandering around a lot of pigeons."
+      ],
+      [
+        "60823_0_img_0",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "60823_0_img_1",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "Some people that are wandering around a lot of pigeons.",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "object identity changed in counterfactual scene",
+        "Some people that are wandering around a lot of pigeons."
+      ],
+      [
+        "Some people that are wandering around a lot of pigeons.",
+        "Some people that are wandering around a lot of pigeons."
+      ]
+    ]
+  },
+  {
+    "text": "A baseball bat is in a window looking out over the street.",
+    "factual_roles": {
+      "Exposure": [
+        "A baseball bat is in a window looking out over the street."
+      ],
+      "Covariate": [
+        "279714_2_img_0"
+      ],
+      "Mediator": [
+        "object in factual scene"
+      ],
+      "Outcome": [
+        "A baseball bat is in a window looking out over the street."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "279714_2_img_0",
+        "A baseball bat is in a window looking out over the street."
+      ],
+      [
+        "279714_2_img_0",
+        "object in factual scene"
+      ],
+      [
+        "A baseball bat is in a window looking out over the street.",
+        "object in factual scene"
+      ],
+      [
+        "object in factual scene",
+        "A baseball bat is in a window looking out over the street."
+      ],
+      [
+        "A baseball bat is in a window looking out over the street.",
+        "A baseball bat is in a window looking out over the street."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "A baseball bat is in a box looking out over the street."
+      ],
+      "Covariate": [
+        "279714_2_img_0",
+        "279714_2_img_1"
+      ],
+      "Mediator": [
+        "object identity changed in counterfactual scene"
+      ],
+      "Outcome": [
+        "A baseball bat is in a box looking out over the street."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "279714_2_img_0",
+        "A baseball bat is in a box looking out over the street."
+      ],
+      [
+        "279714_2_img_1",
+        "A baseball bat is in a box looking out over the street."
+      ],
+      [
+        "279714_2_img_0",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "279714_2_img_1",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "A baseball bat is in a box looking out over the street.",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "object identity changed in counterfactual scene",
+        "A baseball bat is in a box looking out over the street."
+      ],
+      [
+        "A baseball bat is in a box looking out over the street.",
+        "A baseball bat is in a box looking out over the street."
+      ]
+    ]
+  },
+  {
+    "text": "A very cute flock of sheep in a grassy field.",
+    "factual_roles": {
+      "Exposure": [
+        "A very cute flock of sheep in a grassy field."
+      ],
+      "Covariate": [
+        "375763_0_img_0"
+      ],
+      "Mediator": [
+        "object in factual scene"
+      ],
+      "Outcome": [
+        "A very cute flock of sheep in a grassy field."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "375763_0_img_0",
+        "A very cute flock of sheep in a grassy field."
+      ],
+      [
+        "375763_0_img_0",
+        "object in factual scene"
+      ],
+      [
+        "A very cute flock of sheep in a grassy field.",
+        "object in factual scene"
+      ],
+      [
+        "object in factual scene",
+        "A very cute flock of sheep in a grassy field."
+      ],
+      [
+        "A very cute flock of sheep in a grassy field.",
+        "A very cute flock of sheep in a grassy field."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "A very cute pair of sheep in a grassy field."
+      ],
+      "Covariate": [
+        "375763_0_img_0",
+        "375763_0_img_1"
+      ],
+      "Mediator": [
+        "object identity changed in counterfactual scene"
+      ],
+      "Outcome": [
+        "A very cute pair of sheep in a grassy field."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "375763_0_img_0",
+        "A very cute pair of sheep in a grassy field."
+      ],
+      [
+        "375763_0_img_1",
+        "A very cute pair of sheep in a grassy field."
+      ],
+      [
+        "375763_0_img_0",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "375763_0_img_1",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "A very cute pair of sheep in a grassy field.",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "object identity changed in counterfactual scene",
+        "A very cute pair of sheep in a grassy field."
+      ],
+      [
+        "A very cute pair of sheep in a grassy field.",
+        "A very cute pair of sheep in a grassy field."
+      ]
+    ]
+  },
+  {
+    "text": "A man in a wet suit riding on a surfboard with a dog.",
+    "factual_roles": {
+      "Exposure": [
+        "A man in a wet suit riding on a surfboard with a dog."
+      ],
+      "Covariate": [
+        "490171_3_img_0"
+      ],
+      "Mediator": [
+        "object in factual scene"
+      ],
+      "Outcome": [
+        "A man in a wet suit riding on a surfboard with a dog."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "490171_3_img_0",
+        "A man in a wet suit riding on a surfboard with a dog."
+      ],
+      [
+        "490171_3_img_0",
+        "object in factual scene"
+      ],
+      [
+        "A man in a wet suit riding on a surfboard with a dog.",
+        "object in factual scene"
+      ],
+      [
+        "object in factual scene",
+        "A man in a wet suit riding on a surfboard with a dog."
+      ],
+      [
+        "A man in a wet suit riding on a surfboard with a dog.",
+        "A man in a wet suit riding on a surfboard with a dog."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "A man in a wet suit riding on a horse with a dog."
+      ],
+      "Covariate": [
+        "490171_3_img_0",
+        "490171_3_img_1"
+      ],
+      "Mediator": [
+        "object identity changed in counterfactual scene"
+      ],
+      "Outcome": [
+        "A man in a wet suit riding on a horse with a dog."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "490171_3_img_0",
+        "A man in a wet suit riding on a horse with a dog."
+      ],
+      [
+        "490171_3_img_1",
+        "A man in a wet suit riding on a horse with a dog."
+      ],
+      [
+        "490171_3_img_0",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "490171_3_img_1",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "A man in a wet suit riding on a horse with a dog.",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "object identity changed in counterfactual scene",
+        "A man in a wet suit riding on a horse with a dog."
+      ],
+      [
+        "A man in a wet suit riding on a horse with a dog.",
+        "A man in a wet suit riding on a horse with a dog."
+      ]
+    ]
+  },
+  {
+    "text": "A couple of guys playing on the nintendo wii at a gathering. ",
+    "factual_roles": {
+      "Exposure": [
+        "A couple of guys playing on the nintendo wii at a gathering. "
+      ],
+      "Covariate": [
+        "474021_0_img_0"
+      ],
+      "Mediator": [
+        "object in factual scene"
+      ],
+      "Outcome": [
+        "A couple of guys playing on the nintendo wii at a gathering. "
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "474021_0_img_0",
+        "A couple of guys playing on the nintendo wii at a gathering. "
+      ],
+      [
+        "474021_0_img_0",
+        "object in factual scene"
+      ],
+      [
+        "A couple of guys playing on the nintendo wii at a gathering. ",
+        "object in factual scene"
+      ],
+      [
+        "object in factual scene",
+        "A couple of guys playing on the nintendo wii at a gathering. "
+      ],
+      [
+        "A couple of guys playing on the nintendo wii at a gathering. ",
+        "A couple of guys playing on the nintendo wii at a gathering. "
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "A couple of guys playing on the nintendo wii at a party."
+      ],
+      "Covariate": [
+        "474021_0_img_0",
+        "474021_0_img_1"
+      ],
+      "Mediator": [
+        "object identity changed in counterfactual scene"
+      ],
+      "Outcome": [
+        "A couple of guys playing on the nintendo wii at a party."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "474021_0_img_0",
+        "A couple of guys playing on the nintendo wii at a party."
+      ],
+      [
+        "474021_0_img_1",
+        "A couple of guys playing on the nintendo wii at a party."
+      ],
+      [
+        "474021_0_img_0",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "474021_0_img_1",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "A couple of guys playing on the nintendo wii at a party.",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "object identity changed in counterfactual scene",
+        "A couple of guys playing on the nintendo wii at a party."
+      ],
+      [
+        "A couple of guys playing on the nintendo wii at a party.",
+        "A couple of guys playing on the nintendo wii at a party."
+      ]
+    ]
+  },
+  {
+    "text": "a large elephant that has people sitting on top.",
+    "factual_roles": {
+      "Exposure": [
+        "a large elephant that has people sitting on top."
+      ],
+      "Covariate": [
+        "183437_3_img_0"
+      ],
+      "Mediator": [
+        "object in factual scene"
+      ],
+      "Outcome": [
+        "a large elephant that has people sitting on top."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "183437_3_img_0",
+        "a large elephant that has people sitting on top."
+      ],
+      [
+        "183437_3_img_0",
+        "object in factual scene"
+      ],
+      [
+        "a large elephant that has people sitting on top.",
+        "object in factual scene"
+      ],
+      [
+        "object in factual scene",
+        "a large elephant that has people sitting on top."
+      ],
+      [
+        "a large elephant that has people sitting on top.",
+        "a large elephant that has people sitting on top."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "a large elephant that has children sitting on top."
+      ],
+      "Covariate": [
+        "183437_3_img_0",
+        "183437_3_img_1"
+      ],
+      "Mediator": [
+        "object identity changed in counterfactual scene"
+      ],
+      "Outcome": [
+        "a large elephant that has children sitting on top."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "183437_3_img_0",
+        "a large elephant that has children sitting on top."
+      ],
+      [
+        "183437_3_img_1",
+        "a large elephant that has children sitting on top."
+      ],
+      [
+        "183437_3_img_0",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "183437_3_img_1",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "a large elephant that has children sitting on top.",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "object identity changed in counterfactual scene",
+        "a large elephant that has children sitting on top."
+      ],
+      [
+        "a large elephant that has children sitting on top.",
+        "a large elephant that has children sitting on top."
+      ]
+    ]
+  },
+  {
+    "text": "a polar bear partially submerged in a body of water",
+    "factual_roles": {
+      "Exposure": [
+        "a polar bear partially submerged in a body of water"
+      ],
+      "Covariate": [
+        "42296_0_img_0"
+      ],
+      "Mediator": [
+        "object in factual scene"
+      ],
+      "Outcome": [
+        "a polar bear partially submerged in a body of water"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "42296_0_img_0",
+        "a polar bear partially submerged in a body of water"
+      ],
+      [
+        "42296_0_img_0",
+        "object in factual scene"
+      ],
+      [
+        "a polar bear partially submerged in a body of water",
+        "object in factual scene"
+      ],
+      [
+        "object in factual scene",
+        "a polar bear partially submerged in a body of water"
+      ],
+      [
+        "a polar bear partially submerged in a body of water",
+        "a polar bear partially submerged in a body of water"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "a polar bear partially submerged in a body of ice"
+      ],
+      "Covariate": [
+        "42296_0_img_0",
+        "42296_0_img_1"
+      ],
+      "Mediator": [
+        "object identity changed in counterfactual scene"
+      ],
+      "Outcome": [
+        "a polar bear partially submerged in a body of ice"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "42296_0_img_0",
+        "a polar bear partially submerged in a body of ice"
+      ],
+      [
+        "42296_0_img_1",
+        "a polar bear partially submerged in a body of ice"
+      ],
+      [
+        "42296_0_img_0",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "42296_0_img_1",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "a polar bear partially submerged in a body of ice",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "object identity changed in counterfactual scene",
+        "a polar bear partially submerged in a body of ice"
+      ],
+      [
+        "a polar bear partially submerged in a body of ice",
+        "a polar bear partially submerged in a body of ice"
+      ]
+    ]
+  },
+  {
+    "text": "A white plate with a sliced up piece of food on top of it.",
+    "factual_roles": {
+      "Exposure": [
+        "A white plate with a sliced up piece of food on top of it."
+      ],
+      "Covariate": [
+        "414638_0_img_0"
+      ],
+      "Mediator": [
+        "object in factual scene"
+      ],
+      "Outcome": [
+        "A white plate with a sliced up piece of food on top of it."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "414638_0_img_0",
+        "A white plate with a sliced up piece of food on top of it."
+      ],
+      [
+        "414638_0_img_0",
+        "object in factual scene"
+      ],
+      [
+        "A white plate with a sliced up piece of food on top of it.",
+        "object in factual scene"
+      ],
+      [
+        "object in factual scene",
+        "A white plate with a sliced up piece of food on top of it."
+      ],
+      [
+        "A white plate with a sliced up piece of food on top of it.",
+        "A white plate with a sliced up piece of food on top of it."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "A white board with a sliced up piece of food on top of it."
+      ],
+      "Covariate": [
+        "414638_0_img_0",
+        "414638_0_img_1"
+      ],
+      "Mediator": [
+        "object identity changed in counterfactual scene"
+      ],
+      "Outcome": [
+        "A white board with a sliced up piece of food on top of it."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "414638_0_img_0",
+        "A white board with a sliced up piece of food on top of it."
+      ],
+      [
+        "414638_0_img_1",
+        "A white board with a sliced up piece of food on top of it."
+      ],
+      [
+        "414638_0_img_0",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "414638_0_img_1",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "A white board with a sliced up piece of food on top of it.",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "object identity changed in counterfactual scene",
+        "A white board with a sliced up piece of food on top of it."
+      ],
+      [
+        "A white board with a sliced up piece of food on top of it.",
+        "A white board with a sliced up piece of food on top of it."
+      ]
+    ]
+  },
+  {
+    "text": "A baseball player lunges and reaches back with the ball.",
+    "factual_roles": {
+      "Exposure": [
+        "A baseball player lunges and reaches back with the ball."
+      ],
+      "Covariate": [
+        "430961_2_img_0"
+      ],
+      "Mediator": [
+        "object in factual scene"
+      ],
+      "Outcome": [
+        "A baseball player lunges and reaches back with the ball."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "430961_2_img_0",
+        "A baseball player lunges and reaches back with the ball."
+      ],
+      [
+        "430961_2_img_0",
+        "object in factual scene"
+      ],
+      [
+        "A baseball player lunges and reaches back with the ball.",
+        "object in factual scene"
+      ],
+      [
+        "object in factual scene",
+        "A baseball player lunges and reaches back with the ball."
+      ],
+      [
+        "A baseball player lunges and reaches back with the ball.",
+        "A baseball player lunges and reaches back with the ball."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "A football player lunges and reaches back with the ball."
+      ],
+      "Covariate": [
+        "430961_2_img_0",
+        "430961_2_img_1"
+      ],
+      "Mediator": [
+        "object identity changed in counterfactual scene"
+      ],
+      "Outcome": [
+        "A football player lunges and reaches back with the ball."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "430961_2_img_0",
+        "A football player lunges and reaches back with the ball."
+      ],
+      [
+        "430961_2_img_1",
+        "A football player lunges and reaches back with the ball."
+      ],
+      [
+        "430961_2_img_0",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "430961_2_img_1",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "A football player lunges and reaches back with the ball.",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "object identity changed in counterfactual scene",
+        "A football player lunges and reaches back with the ball."
+      ],
+      [
+        "A football player lunges and reaches back with the ball.",
+        "A football player lunges and reaches back with the ball."
+      ]
+    ]
+  },
+  {
+    "text": "a spotty banana sitting on top of an orange and some other fruit ",
+    "factual_roles": {
+      "Exposure": [
+        "a spotty banana sitting on top of an orange and some other fruit "
+      ],
+      "Covariate": [
+        "119452_0_img_0"
+      ],
+      "Mediator": [
+        "object in factual scene"
+      ],
+      "Outcome": [
+        "a spotty banana sitting on top of an orange and some other fruit "
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "119452_0_img_0",
+        "a spotty banana sitting on top of an orange and some other fruit "
+      ],
+      [
+        "119452_0_img_0",
+        "object in factual scene"
+      ],
+      [
+        "a spotty banana sitting on top of an orange and some other fruit ",
+        "object in factual scene"
+      ],
+      [
+        "object in factual scene",
+        "a spotty banana sitting on top of an orange and some other fruit "
+      ],
+      [
+        "a spotty banana sitting on top of an orange and some other fruit ",
+        "a spotty banana sitting on top of an orange and some other fruit "
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "a spotty apple sitting on top of an orange and some other fruit"
+      ],
+      "Covariate": [
+        "119452_0_img_0",
+        "119452_0_img_1"
+      ],
+      "Mediator": [
+        "object identity changed in counterfactual scene"
+      ],
+      "Outcome": [
+        "a spotty apple sitting on top of an orange and some other fruit"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "119452_0_img_0",
+        "a spotty apple sitting on top of an orange and some other fruit"
+      ],
+      [
+        "119452_0_img_1",
+        "a spotty apple sitting on top of an orange and some other fruit"
+      ],
+      [
+        "119452_0_img_0",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "119452_0_img_1",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "a spotty apple sitting on top of an orange and some other fruit",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "object identity changed in counterfactual scene",
+        "a spotty apple sitting on top of an orange and some other fruit"
+      ],
+      [
+        "a spotty apple sitting on top of an orange and some other fruit",
+        "a spotty apple sitting on top of an orange and some other fruit"
+      ]
+    ]
+  },
+  {
+    "text": "A man with glasses on biting into a piece of cake.",
+    "factual_roles": {
+      "Exposure": [
+        "A man with glasses on biting into a piece of cake."
+      ],
+      "Covariate": [
+        "47801_4_img_0"
+      ],
+      "Mediator": [
+        "object in factual scene"
+      ],
+      "Outcome": [
+        "A man with glasses on biting into a piece of cake."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "47801_4_img_0",
+        "A man with glasses on biting into a piece of cake."
+      ],
+      [
+        "47801_4_img_0",
+        "object in factual scene"
+      ],
+      [
+        "A man with glasses on biting into a piece of cake.",
+        "object in factual scene"
+      ],
+      [
+        "object in factual scene",
+        "A man with glasses on biting into a piece of cake."
+      ],
+      [
+        "A man with glasses on biting into a piece of cake.",
+        "A man with glasses on biting into a piece of cake."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "A man with gloves on biting into a piece of cake."
+      ],
+      "Covariate": [
+        "47801_4_img_0",
+        "47801_4_img_1"
+      ],
+      "Mediator": [
+        "object identity changed in counterfactual scene"
+      ],
+      "Outcome": [
+        "A man with gloves on biting into a piece of cake."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "47801_4_img_0",
+        "A man with gloves on biting into a piece of cake."
+      ],
+      [
+        "47801_4_img_1",
+        "A man with gloves on biting into a piece of cake."
+      ],
+      [
+        "47801_4_img_0",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "47801_4_img_1",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "A man with gloves on biting into a piece of cake.",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "object identity changed in counterfactual scene",
+        "A man with gloves on biting into a piece of cake."
+      ],
+      [
+        "A man with gloves on biting into a piece of cake.",
+        "A man with gloves on biting into a piece of cake."
+      ]
+    ]
+  },
+  {
+    "text": "A picture of a couple that just got married lying in a bed.",
+    "factual_roles": {
+      "Exposure": [
+        "A picture of a couple that just got married lying in a bed."
+      ],
+      "Covariate": [
+        "239347_2_img_0"
+      ],
+      "Mediator": [
+        "object in factual scene"
+      ],
+      "Outcome": [
+        "A picture of a couple that just got married lying in a bed."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "239347_2_img_0",
+        "A picture of a couple that just got married lying in a bed."
+      ],
+      [
+        "239347_2_img_0",
+        "object in factual scene"
+      ],
+      [
+        "A picture of a couple that just got married lying in a bed.",
+        "object in factual scene"
+      ],
+      [
+        "object in factual scene",
+        "A picture of a couple that just got married lying in a bed."
+      ],
+      [
+        "A picture of a couple that just got married lying in a bed.",
+        "A picture of a couple that just got married lying in a bed."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "A picture of a couple that just got married lying in a field."
+      ],
+      "Covariate": [
+        "239347_2_img_0",
+        "239347_2_img_1"
+      ],
+      "Mediator": [
+        "object identity changed in counterfactual scene"
+      ],
+      "Outcome": [
+        "A picture of a couple that just got married lying in a field."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "239347_2_img_0",
+        "A picture of a couple that just got married lying in a field."
+      ],
+      [
+        "239347_2_img_1",
+        "A picture of a couple that just got married lying in a field."
+      ],
+      [
+        "239347_2_img_0",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "239347_2_img_1",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "A picture of a couple that just got married lying in a field.",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "object identity changed in counterfactual scene",
+        "A picture of a couple that just got married lying in a field."
+      ],
+      [
+        "A picture of a couple that just got married lying in a field.",
+        "A picture of a couple that just got married lying in a field."
+      ]
+    ]
+  },
+  {
+    "text": "a cat sitting next to a bunch of bikes parked next to each other",
+    "factual_roles": {
+      "Exposure": [
+        "a cat sitting next to a bunch of bikes parked next to each other"
+      ],
+      "Covariate": [
+        "109055_4_img_0"
+      ],
+      "Mediator": [
+        "object in factual scene"
+      ],
+      "Outcome": [
+        "a cat sitting next to a bunch of bikes parked next to each other"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "109055_4_img_0",
+        "a cat sitting next to a bunch of bikes parked next to each other"
+      ],
+      [
+        "109055_4_img_0",
+        "object in factual scene"
+      ],
+      [
+        "a cat sitting next to a bunch of bikes parked next to each other",
+        "object in factual scene"
+      ],
+      [
+        "object in factual scene",
+        "a cat sitting next to a bunch of bikes parked next to each other"
+      ],
+      [
+        "a cat sitting next to a bunch of bikes parked next to each other",
+        "a cat sitting next to a bunch of bikes parked next to each other"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "a cat sitting next to a bunch of cars parked next to each other"
+      ],
+      "Covariate": [
+        "109055_4_img_0",
+        "109055_4_img_1"
+      ],
+      "Mediator": [
+        "object identity changed in counterfactual scene"
+      ],
+      "Outcome": [
+        "a cat sitting next to a bunch of cars parked next to each other"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "109055_4_img_0",
+        "a cat sitting next to a bunch of cars parked next to each other"
+      ],
+      [
+        "109055_4_img_1",
+        "a cat sitting next to a bunch of cars parked next to each other"
+      ],
+      [
+        "109055_4_img_0",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "109055_4_img_1",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "a cat sitting next to a bunch of cars parked next to each other",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "object identity changed in counterfactual scene",
+        "a cat sitting next to a bunch of cars parked next to each other"
+      ],
+      [
+        "a cat sitting next to a bunch of cars parked next to each other",
+        "a cat sitting next to a bunch of cars parked next to each other"
+      ]
+    ]
+  },
+  {
+    "text": "A bowl of food sits prepared with eating utensils.",
+    "factual_roles": {
+      "Exposure": [
+        "A bowl of food sits prepared with eating utensils."
+      ],
+      "Covariate": [
+        "116362_2_img_0"
+      ],
+      "Mediator": [
+        "object in factual scene"
+      ],
+      "Outcome": [
+        "A bowl of food sits prepared with eating utensils."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "116362_2_img_0",
+        "A bowl of food sits prepared with eating utensils."
+      ],
+      [
+        "116362_2_img_0",
+        "object in factual scene"
+      ],
+      [
+        "A bowl of food sits prepared with eating utensils.",
+        "object in factual scene"
+      ],
+      [
+        "object in factual scene",
+        "A bowl of food sits prepared with eating utensils."
+      ],
+      [
+        "A bowl of food sits prepared with eating utensils.",
+        "A bowl of food sits prepared with eating utensils."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "A tray of food sits prepared with eating utensils."
+      ],
+      "Covariate": [
+        "116362_2_img_0",
+        "116362_2_img_1"
+      ],
+      "Mediator": [
+        "object identity changed in counterfactual scene"
+      ],
+      "Outcome": [
+        "A tray of food sits prepared with eating utensils."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "116362_2_img_0",
+        "A tray of food sits prepared with eating utensils."
+      ],
+      [
+        "116362_2_img_1",
+        "A tray of food sits prepared with eating utensils."
+      ],
+      [
+        "116362_2_img_0",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "116362_2_img_1",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "A tray of food sits prepared with eating utensils.",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "object identity changed in counterfactual scene",
+        "A tray of food sits prepared with eating utensils."
+      ],
+      [
+        "A tray of food sits prepared with eating utensils.",
+        "A tray of food sits prepared with eating utensils."
+      ]
+    ]
+  },
+  {
+    "text": "A white bus driving down a street next to a building.",
+    "factual_roles": {
+      "Exposure": [
+        "A white bus driving down a street next to a building."
+      ],
+      "Covariate": [
+        "42070_4_img_0"
+      ],
+      "Mediator": [
+        "object in factual scene"
+      ],
+      "Outcome": [
+        "A white bus driving down a street next to a building."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "42070_4_img_0",
+        "A white bus driving down a street next to a building."
+      ],
+      [
+        "42070_4_img_0",
+        "object in factual scene"
+      ],
+      [
+        "A white bus driving down a street next to a building.",
+        "object in factual scene"
+      ],
+      [
+        "object in factual scene",
+        "A white bus driving down a street next to a building."
+      ],
+      [
+        "A white bus driving down a street next to a building.",
+        "A white bus driving down a street next to a building."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "A white car driving down a street next to a building."
+      ],
+      "Covariate": [
+        "42070_4_img_0",
+        "42070_4_img_1"
+      ],
+      "Mediator": [
+        "object identity changed in counterfactual scene"
+      ],
+      "Outcome": [
+        "A white car driving down a street next to a building."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "42070_4_img_0",
+        "A white car driving down a street next to a building."
+      ],
+      [
+        "42070_4_img_1",
+        "A white car driving down a street next to a building."
+      ],
+      [
+        "42070_4_img_0",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "42070_4_img_1",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "A white car driving down a street next to a building.",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "object identity changed in counterfactual scene",
+        "A white car driving down a street next to a building."
+      ],
+      [
+        "A white car driving down a street next to a building.",
+        "A white car driving down a street next to a building."
+      ]
+    ]
+  },
+  {
+    "text": "a sidewalk with grass and signs next to it",
+    "factual_roles": {
+      "Exposure": [
+        "a sidewalk with grass and signs next to it"
+      ],
+      "Covariate": [
+        "565153_3_img_0"
+      ],
+      "Mediator": [
+        "object in factual scene"
+      ],
+      "Outcome": [
+        "a sidewalk with grass and signs next to it"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "565153_3_img_0",
+        "a sidewalk with grass and signs next to it"
+      ],
+      [
+        "565153_3_img_0",
+        "object in factual scene"
+      ],
+      [
+        "a sidewalk with grass and signs next to it",
+        "object in factual scene"
+      ],
+      [
+        "object in factual scene",
+        "a sidewalk with grass and signs next to it"
+      ],
+      [
+        "a sidewalk with grass and signs next to it",
+        "a sidewalk with grass and signs next to it"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "a sidewalk with grass and trees next to it"
+      ],
+      "Covariate": [
+        "565153_3_img_0",
+        "565153_3_img_1"
+      ],
+      "Mediator": [
+        "object identity changed in counterfactual scene"
+      ],
+      "Outcome": [
+        "a sidewalk with grass and trees next to it"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "565153_3_img_0",
+        "a sidewalk with grass and trees next to it"
+      ],
+      [
+        "565153_3_img_1",
+        "a sidewalk with grass and trees next to it"
+      ],
+      [
+        "565153_3_img_0",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "565153_3_img_1",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "a sidewalk with grass and trees next to it",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "object identity changed in counterfactual scene",
+        "a sidewalk with grass and trees next to it"
+      ],
+      [
+        "a sidewalk with grass and trees next to it",
+        "a sidewalk with grass and trees next to it"
+      ]
+    ]
+  },
+  {
+    "text": "A person flying through the air whale riding skis.",
+    "factual_roles": {
+      "Exposure": [
+        "A person flying through the air whale riding skis."
+      ],
+      "Covariate": [
+        "172935_0_img_0"
+      ],
+      "Mediator": [
+        "object in factual scene"
+      ],
+      "Outcome": [
+        "A person flying through the air whale riding skis."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "172935_0_img_0",
+        "A person flying through the air whale riding skis."
+      ],
+      [
+        "172935_0_img_0",
+        "object in factual scene"
+      ],
+      [
+        "A person flying through the air whale riding skis.",
+        "object in factual scene"
+      ],
+      [
+        "object in factual scene",
+        "A person flying through the air whale riding skis."
+      ],
+      [
+        "A person flying through the air whale riding skis.",
+        "A person flying through the air whale riding skis."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "A bird flying through the air whale riding skis."
+      ],
+      "Covariate": [
+        "172935_0_img_0",
+        "172935_0_img_1"
+      ],
+      "Mediator": [
+        "object identity changed in counterfactual scene"
+      ],
+      "Outcome": [
+        "A bird flying through the air whale riding skis."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "172935_0_img_0",
+        "A bird flying through the air whale riding skis."
+      ],
+      [
+        "172935_0_img_1",
+        "A bird flying through the air whale riding skis."
+      ],
+      [
+        "172935_0_img_0",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "172935_0_img_1",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "A bird flying through the air whale riding skis.",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "object identity changed in counterfactual scene",
+        "A bird flying through the air whale riding skis."
+      ],
+      [
+        "A bird flying through the air whale riding skis.",
+        "A bird flying through the air whale riding skis."
+      ]
+    ]
+  },
+  {
+    "text": "A large black horse has a long mane of hair.",
+    "factual_roles": {
+      "Exposure": [
+        "A large black horse has a long mane of hair."
+      ],
+      "Covariate": [
+        "348243_1_img_0"
+      ],
+      "Mediator": [
+        "object in factual scene"
+      ],
+      "Outcome": [
+        "A large black horse has a long mane of hair."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "348243_1_img_0",
+        "A large black horse has a long mane of hair."
+      ],
+      [
+        "348243_1_img_0",
+        "object in factual scene"
+      ],
+      [
+        "A large black horse has a long mane of hair.",
+        "object in factual scene"
+      ],
+      [
+        "object in factual scene",
+        "A large black horse has a long mane of hair."
+      ],
+      [
+        "A large black horse has a long mane of hair.",
+        "A large black horse has a long mane of hair."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "A large black dog has a long mane of hair."
+      ],
+      "Covariate": [
+        "348243_1_img_0",
+        "348243_1_img_1"
+      ],
+      "Mediator": [
+        "object identity changed in counterfactual scene"
+      ],
+      "Outcome": [
+        "A large black dog has a long mane of hair."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "348243_1_img_0",
+        "A large black dog has a long mane of hair."
+      ],
+      [
+        "348243_1_img_1",
+        "A large black dog has a long mane of hair."
+      ],
+      [
+        "348243_1_img_0",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "348243_1_img_1",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "A large black dog has a long mane of hair.",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "object identity changed in counterfactual scene",
+        "A large black dog has a long mane of hair."
+      ],
+      [
+        "A large black dog has a long mane of hair.",
+        "A large black dog has a long mane of hair."
+      ]
+    ]
+  },
+  {
+    "text": "Two kids hanging out playing video games on folding chairs.",
+    "factual_roles": {
+      "Exposure": [
+        "Two kids hanging out playing video games on folding chairs."
+      ],
+      "Covariate": [
+        "91500_3_img_0"
+      ],
+      "Mediator": [
+        "object in factual scene"
+      ],
+      "Outcome": [
+        "Two kids hanging out playing video games on folding chairs."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "91500_3_img_0",
+        "Two kids hanging out playing video games on folding chairs."
+      ],
+      [
+        "91500_3_img_0",
+        "object in factual scene"
+      ],
+      [
+        "Two kids hanging out playing video games on folding chairs.",
+        "object in factual scene"
+      ],
+      [
+        "object in factual scene",
+        "Two kids hanging out playing video games on folding chairs."
+      ],
+      [
+        "Two kids hanging out playing video games on folding chairs.",
+        "Two kids hanging out playing video games on folding chairs."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "Two guys hanging out playing video games on folding chairs."
+      ],
+      "Covariate": [
+        "91500_3_img_0",
+        "91500_3_img_1"
+      ],
+      "Mediator": [
+        "object identity changed in counterfactual scene"
+      ],
+      "Outcome": [
+        "Two guys hanging out playing video games on folding chairs."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "91500_3_img_0",
+        "Two guys hanging out playing video games on folding chairs."
+      ],
+      [
+        "91500_3_img_1",
+        "Two guys hanging out playing video games on folding chairs."
+      ],
+      [
+        "91500_3_img_0",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "91500_3_img_1",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "Two guys hanging out playing video games on folding chairs.",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "object identity changed in counterfactual scene",
+        "Two guys hanging out playing video games on folding chairs."
+      ],
+      [
+        "Two guys hanging out playing video games on folding chairs.",
+        "Two guys hanging out playing video games on folding chairs."
+      ]
+    ]
+  },
+  {
+    "text": "There is a cream colored couch behind the oval coffee table.",
+    "factual_roles": {
+      "Exposure": [
+        "There is a cream colored couch behind the oval coffee table."
+      ],
+      "Covariate": [
+        "106235_2_img_0"
+      ],
+      "Mediator": [
+        "object in factual scene"
+      ],
+      "Outcome": [
+        "There is a cream colored couch behind the oval coffee table."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "106235_2_img_0",
+        "There is a cream colored couch behind the oval coffee table."
+      ],
+      [
+        "106235_2_img_0",
+        "object in factual scene"
+      ],
+      [
+        "There is a cream colored couch behind the oval coffee table.",
+        "object in factual scene"
+      ],
+      [
+        "object in factual scene",
+        "There is a cream colored couch behind the oval coffee table."
+      ],
+      [
+        "There is a cream colored couch behind the oval coffee table.",
+        "There is a cream colored couch behind the oval coffee table."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "There is a cream colored couch behind the oval dining table."
+      ],
+      "Covariate": [
+        "106235_2_img_0",
+        "106235_2_img_1"
+      ],
+      "Mediator": [
+        "object identity changed in counterfactual scene"
+      ],
+      "Outcome": [
+        "There is a cream colored couch behind the oval dining table."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "106235_2_img_0",
+        "There is a cream colored couch behind the oval dining table."
+      ],
+      [
+        "106235_2_img_1",
+        "There is a cream colored couch behind the oval dining table."
+      ],
+      [
+        "106235_2_img_0",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "106235_2_img_1",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "There is a cream colored couch behind the oval dining table.",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "object identity changed in counterfactual scene",
+        "There is a cream colored couch behind the oval dining table."
+      ],
+      [
+        "There is a cream colored couch behind the oval dining table.",
+        "There is a cream colored couch behind the oval dining table."
+      ]
+    ]
+  },
+  {
+    "text": "This is a double-decker bus shown in a tropical area.",
+    "factual_roles": {
+      "Exposure": [
+        "This is a double-decker bus shown in a tropical area."
+      ],
+      "Covariate": [
+        "249219_1_img_0"
+      ],
+      "Mediator": [
+        "object in factual scene"
+      ],
+      "Outcome": [
+        "This is a double-decker bus shown in a tropical area."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "249219_1_img_0",
+        "This is a double-decker bus shown in a tropical area."
+      ],
+      [
+        "249219_1_img_0",
+        "object in factual scene"
+      ],
+      [
+        "This is a double-decker bus shown in a tropical area.",
+        "object in factual scene"
+      ],
+      [
+        "object in factual scene",
+        "This is a double-decker bus shown in a tropical area."
+      ],
+      [
+        "This is a double-decker bus shown in a tropical area.",
+        "This is a double-decker bus shown in a tropical area."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "This is a double-decker bus shown in a tropical storm."
+      ],
+      "Covariate": [
+        "249219_1_img_0",
+        "249219_1_img_1"
+      ],
+      "Mediator": [
+        "object identity changed in counterfactual scene"
+      ],
+      "Outcome": [
+        "This is a double-decker bus shown in a tropical storm."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "249219_1_img_0",
+        "This is a double-decker bus shown in a tropical storm."
+      ],
+      [
+        "249219_1_img_1",
+        "This is a double-decker bus shown in a tropical storm."
+      ],
+      [
+        "249219_1_img_0",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "249219_1_img_1",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "This is a double-decker bus shown in a tropical storm.",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "object identity changed in counterfactual scene",
+        "This is a double-decker bus shown in a tropical storm."
+      ],
+      [
+        "This is a double-decker bus shown in a tropical storm.",
+        "This is a double-decker bus shown in a tropical storm."
+      ]
+    ]
+  },
+  {
+    "text": "City bus next to traffic cones in the far right lane of a busy freeway.",
+    "factual_roles": {
+      "Exposure": [
+        "City bus next to traffic cones in the far right lane of a busy freeway."
+      ],
+      "Covariate": [
+        "460347_3_img_0"
+      ],
+      "Mediator": [
+        "object in factual scene"
+      ],
+      "Outcome": [
+        "City bus next to traffic cones in the far right lane of a busy freeway."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "460347_3_img_0",
+        "City bus next to traffic cones in the far right lane of a busy freeway."
+      ],
+      [
+        "460347_3_img_0",
+        "object in factual scene"
+      ],
+      [
+        "City bus next to traffic cones in the far right lane of a busy freeway.",
+        "object in factual scene"
+      ],
+      [
+        "object in factual scene",
+        "City bus next to traffic cones in the far right lane of a busy freeway."
+      ],
+      [
+        "City bus next to traffic cones in the far right lane of a busy freeway.",
+        "City bus next to traffic cones in the far right lane of a busy freeway."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "City vehicles next to traffic cones in the far right lane of a busy freeway."
+      ],
+      "Covariate": [
+        "460347_3_img_0",
+        "460347_3_img_1"
+      ],
+      "Mediator": [
+        "object identity changed in counterfactual scene"
+      ],
+      "Outcome": [
+        "City vehicles next to traffic cones in the far right lane of a busy freeway."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "460347_3_img_0",
+        "City vehicles next to traffic cones in the far right lane of a busy freeway."
+      ],
+      [
+        "460347_3_img_1",
+        "City vehicles next to traffic cones in the far right lane of a busy freeway."
+      ],
+      [
+        "460347_3_img_0",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "460347_3_img_1",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "City vehicles next to traffic cones in the far right lane of a busy freeway.",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "object identity changed in counterfactual scene",
+        "City vehicles next to traffic cones in the far right lane of a busy freeway."
+      ],
+      [
+        "City vehicles next to traffic cones in the far right lane of a busy freeway.",
+        "City vehicles next to traffic cones in the far right lane of a busy freeway."
+      ]
+    ]
+  },
+  {
+    "text": "The man is lying on the sidewalk with one leg in the air.",
+    "factual_roles": {
+      "Exposure": [
+        "The man is lying on the sidewalk with one leg in the air."
+      ],
+      "Covariate": [
+        "463690_0_img_0"
+      ],
+      "Mediator": [
+        "object in factual scene"
+      ],
+      "Outcome": [
+        "The man is lying on the sidewalk with one leg in the air."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "463690_0_img_0",
+        "The man is lying on the sidewalk with one leg in the air."
+      ],
+      [
+        "463690_0_img_0",
+        "object in factual scene"
+      ],
+      [
+        "The man is lying on the sidewalk with one leg in the air.",
+        "object in factual scene"
+      ],
+      [
+        "object in factual scene",
+        "The man is lying on the sidewalk with one leg in the air."
+      ],
+      [
+        "The man is lying on the sidewalk with one leg in the air.",
+        "The man is lying on the sidewalk with one leg in the air."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "The man is lying on the ground with one leg in the air."
+      ],
+      "Covariate": [
+        "463690_0_img_0",
+        "463690_0_img_1"
+      ],
+      "Mediator": [
+        "object identity changed in counterfactual scene"
+      ],
+      "Outcome": [
+        "The man is lying on the ground with one leg in the air."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "463690_0_img_0",
+        "The man is lying on the ground with one leg in the air."
+      ],
+      [
+        "463690_0_img_1",
+        "The man is lying on the ground with one leg in the air."
+      ],
+      [
+        "463690_0_img_0",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "463690_0_img_1",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "The man is lying on the ground with one leg in the air.",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "object identity changed in counterfactual scene",
+        "The man is lying on the ground with one leg in the air."
+      ],
+      [
+        "The man is lying on the ground with one leg in the air.",
+        "The man is lying on the ground with one leg in the air."
+      ]
+    ]
+  },
+  {
+    "text": "three different pictures of bean salad on a plate",
+    "factual_roles": {
+      "Exposure": [
+        "three different pictures of bean salad on a plate"
+      ],
+      "Covariate": [
+        "562197_4_img_0"
+      ],
+      "Mediator": [
+        "object in factual scene"
+      ],
+      "Outcome": [
+        "three different pictures of bean salad on a plate"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "562197_4_img_0",
+        "three different pictures of bean salad on a plate"
+      ],
+      [
+        "562197_4_img_0",
+        "object in factual scene"
+      ],
+      [
+        "three different pictures of bean salad on a plate",
+        "object in factual scene"
+      ],
+      [
+        "object in factual scene",
+        "three different pictures of bean salad on a plate"
+      ],
+      [
+        "three different pictures of bean salad on a plate",
+        "three different pictures of bean salad on a plate"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "three different varieties of bean salad on a plate"
+      ],
+      "Covariate": [
+        "562197_4_img_0",
+        "562197_4_img_1"
+      ],
+      "Mediator": [
+        "object identity changed in counterfactual scene"
+      ],
+      "Outcome": [
+        "three different varieties of bean salad on a plate"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "562197_4_img_0",
+        "three different varieties of bean salad on a plate"
+      ],
+      [
+        "562197_4_img_1",
+        "three different varieties of bean salad on a plate"
+      ],
+      [
+        "562197_4_img_0",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "562197_4_img_1",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "three different varieties of bean salad on a plate",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "object identity changed in counterfactual scene",
+        "three different varieties of bean salad on a plate"
+      ],
+      [
+        "three different varieties of bean salad on a plate",
+        "three different varieties of bean salad on a plate"
+      ]
+    ]
+  },
+  {
+    "text": "A passenger airplane is taking off into a cloudy sky.",
+    "factual_roles": {
+      "Exposure": [
+        "A passenger airplane is taking off into a cloudy sky."
+      ],
+      "Covariate": [
+        "383621_3_img_0"
+      ],
+      "Mediator": [
+        "object in factual scene"
+      ],
+      "Outcome": [
+        "A passenger airplane is taking off into a cloudy sky."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "383621_3_img_0",
+        "A passenger airplane is taking off into a cloudy sky."
+      ],
+      [
+        "383621_3_img_0",
+        "object in factual scene"
+      ],
+      [
+        "A passenger airplane is taking off into a cloudy sky.",
+        "object in factual scene"
+      ],
+      [
+        "object in factual scene",
+        "A passenger airplane is taking off into a cloudy sky."
+      ],
+      [
+        "A passenger airplane is taking off into a cloudy sky.",
+        "A passenger airplane is taking off into a cloudy sky."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "A passenger airplane is taking off into a night sky."
+      ],
+      "Covariate": [
+        "383621_3_img_0",
+        "383621_3_img_1"
+      ],
+      "Mediator": [
+        "object identity changed in counterfactual scene"
+      ],
+      "Outcome": [
+        "A passenger airplane is taking off into a night sky."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "383621_3_img_0",
+        "A passenger airplane is taking off into a night sky."
+      ],
+      [
+        "383621_3_img_1",
+        "A passenger airplane is taking off into a night sky."
+      ],
+      [
+        "383621_3_img_0",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "383621_3_img_1",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "A passenger airplane is taking off into a night sky.",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "object identity changed in counterfactual scene",
+        "A passenger airplane is taking off into a night sky."
+      ],
+      [
+        "A passenger airplane is taking off into a night sky.",
+        "A passenger airplane is taking off into a night sky."
+      ]
+    ]
+  },
+  {
+    "text": "a person playing frisbee on a field in sport wear",
+    "factual_roles": {
+      "Exposure": [
+        "a person playing frisbee on a field in sport wear"
+      ],
+      "Covariate": [
+        "401244_0_img_0"
+      ],
+      "Mediator": [
+        "object in factual scene"
+      ],
+      "Outcome": [
+        "a person playing frisbee on a field in sport wear"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "401244_0_img_0",
+        "a person playing frisbee on a field in sport wear"
+      ],
+      [
+        "401244_0_img_0",
+        "object in factual scene"
+      ],
+      [
+        "a person playing frisbee on a field in sport wear",
+        "object in factual scene"
+      ],
+      [
+        "object in factual scene",
+        "a person playing frisbee on a field in sport wear"
+      ],
+      [
+        "a person playing frisbee on a field in sport wear",
+        "a person playing frisbee on a field in sport wear"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "a person playing frisbee on a field in winter wear"
+      ],
+      "Covariate": [
+        "401244_0_img_0",
+        "401244_0_img_1"
+      ],
+      "Mediator": [
+        "object identity changed in counterfactual scene"
+      ],
+      "Outcome": [
+        "a person playing frisbee on a field in winter wear"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "401244_0_img_0",
+        "a person playing frisbee on a field in winter wear"
+      ],
+      [
+        "401244_0_img_1",
+        "a person playing frisbee on a field in winter wear"
+      ],
+      [
+        "401244_0_img_0",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "401244_0_img_1",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "a person playing frisbee on a field in winter wear",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "object identity changed in counterfactual scene",
+        "a person playing frisbee on a field in winter wear"
+      ],
+      [
+        "a person playing frisbee on a field in winter wear",
+        "a person playing frisbee on a field in winter wear"
+      ]
+    ]
+  },
+  {
+    "text": "A vanity and toilet are in a bathroom under a mirror.",
+    "factual_roles": {
+      "Exposure": [
+        "A vanity and toilet are in a bathroom under a mirror."
+      ],
+      "Covariate": [
+        "489091_4_img_0"
+      ],
+      "Mediator": [
+        "object in factual scene"
+      ],
+      "Outcome": [
+        "A vanity and toilet are in a bathroom under a mirror."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "489091_4_img_0",
+        "A vanity and toilet are in a bathroom under a mirror."
+      ],
+      [
+        "489091_4_img_0",
+        "object in factual scene"
+      ],
+      [
+        "A vanity and toilet are in a bathroom under a mirror.",
+        "object in factual scene"
+      ],
+      [
+        "object in factual scene",
+        "A vanity and toilet are in a bathroom under a mirror."
+      ],
+      [
+        "A vanity and toilet are in a bathroom under a mirror.",
+        "A vanity and toilet are in a bathroom under a mirror."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "A shower and toilet are in a bathroom under a mirror."
+      ],
+      "Covariate": [
+        "489091_4_img_0",
+        "489091_4_img_1"
+      ],
+      "Mediator": [
+        "object identity changed in counterfactual scene"
+      ],
+      "Outcome": [
+        "A shower and toilet are in a bathroom under a mirror."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "489091_4_img_0",
+        "A shower and toilet are in a bathroom under a mirror."
+      ],
+      [
+        "489091_4_img_1",
+        "A shower and toilet are in a bathroom under a mirror."
+      ],
+      [
+        "489091_4_img_0",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "489091_4_img_1",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "A shower and toilet are in a bathroom under a mirror.",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "object identity changed in counterfactual scene",
+        "A shower and toilet are in a bathroom under a mirror."
+      ],
+      [
+        "A shower and toilet are in a bathroom under a mirror.",
+        "A shower and toilet are in a bathroom under a mirror."
+      ]
+    ]
+  },
+  {
+    "text": "A little boy sitting on a kitchen counter top next to a plate of sliced apples.",
+    "factual_roles": {
+      "Exposure": [
+        "A little boy sitting on a kitchen counter top next to a plate of sliced apples."
+      ],
+      "Covariate": [
+        "473406_2_img_0"
+      ],
+      "Mediator": [
+        "object in factual scene"
+      ],
+      "Outcome": [
+        "A little boy sitting on a kitchen counter top next to a plate of sliced apples."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "473406_2_img_0",
+        "A little boy sitting on a kitchen counter top next to a plate of sliced apples."
+      ],
+      [
+        "473406_2_img_0",
+        "object in factual scene"
+      ],
+      [
+        "A little boy sitting on a kitchen counter top next to a plate of sliced apples.",
+        "object in factual scene"
+      ],
+      [
+        "object in factual scene",
+        "A little boy sitting on a kitchen counter top next to a plate of sliced apples."
+      ],
+      [
+        "A little boy sitting on a kitchen counter top next to a plate of sliced apples.",
+        "A little boy sitting on a kitchen counter top next to a plate of sliced apples."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "A little apple sitting on a kitchen counter top next to a plate of sliced apples."
+      ],
+      "Covariate": [
+        "473406_2_img_0",
+        "473406_2_img_1"
+      ],
+      "Mediator": [
+        "object identity changed in counterfactual scene"
+      ],
+      "Outcome": [
+        "A little apple sitting on a kitchen counter top next to a plate of sliced apples."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "473406_2_img_0",
+        "A little apple sitting on a kitchen counter top next to a plate of sliced apples."
+      ],
+      [
+        "473406_2_img_1",
+        "A little apple sitting on a kitchen counter top next to a plate of sliced apples."
+      ],
+      [
+        "473406_2_img_0",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "473406_2_img_1",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "A little apple sitting on a kitchen counter top next to a plate of sliced apples.",
+        "object identity changed in counterfactual scene"
+      ],
+      [
+        "object identity changed in counterfactual scene",
+        "A little apple sitting on a kitchen counter top next to a plate of sliced apples."
+      ],
+      [
+        "A little apple sitting on a kitchen counter top next to a plate of sliced apples.",
+        "A little apple sitting on a kitchen counter top next to a plate of sliced apples."
+      ]
+    ]
+  }
+]
