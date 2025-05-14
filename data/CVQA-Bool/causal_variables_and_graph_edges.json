@@ -1,0 +1,2278 @@
+[
+  {
+    "text": "Is there a red sandal here?",
+    "factual_roles": {
+      "Exposure": [
+        "presence of red sandal"
+      ],
+      "Covariate": [
+        "original shoe collection in cart",
+        "visual recognition capability"
+      ],
+      "Mediator": [
+        "sandal-as-shoe categorical inclusion"
+      ],
+      "Outcome": [
+        "yes"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "original shoe collection in cart",
+        "presence of red sandal"
+      ],
+      [
+        "original shoe collection in cart",
+        "sandal-as-shoe categorical inclusion"
+      ],
+      [
+        "original shoe collection in cart",
+        "yes"
+      ],
+      [
+        "visual recognition capability",
+        "presence of red sandal"
+      ],
+      [
+        "visual recognition capability",
+        "sandal-as-shoe categorical inclusion"
+      ],
+      [
+        "visual recognition capability",
+        "yes"
+      ],
+      [
+        "presence of red sandal", 
+        "sandal-as-shoe categorical inclusion"
+      ],
+      [
+        "sandal-as-shoe categorical inclusion", 
+        "yes"
+      ],
+      [
+        "presence of red sandal",
+         "yes"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "removal of all shoes"
+      ],
+      "Covariate": [
+        "original shoe collection in cart",
+        "visual recognition capability"
+      ],
+      "Mediator": [
+        "sandal-shoe categorical dependency"
+      ],
+      "Outcome": [
+        "no"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "original shoe collection in cart",
+        "sandal-shoe categorical dependency"
+      ],
+      [
+        "original shoe collection in cart",
+        "no"
+      ],
+      [
+        "visual recognition capability",
+        "sandal-shoe categorical dependency"
+      ],
+      [
+        "visual recognition capability",
+        "no"
+      ],
+      [
+        "removal of all shoes", 
+        "sandal-shoe categorical dependency"
+      ],
+      [
+        "sandal-shoe categorical dependency", 
+        "no"
+      ],
+      [
+        "removal of all shoes", 
+        "no"
+      ]
+    ]
+  },
+  {
+    "text": "Is this a hospital?",
+    "factual_roles": {
+      "Exposure": [
+        "hospital"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000000873.jpg"
+      ],
+      "Mediator": [
+        "hospital status depends on visible red cross or building structure"
+      ],
+      "Outcome": [
+        "no hospital"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000000873.jpg",
+        "hospital"
+      ],
+      [
+        "COCO_val2014_000000000873.jpg",
+        "hospital status depends on visible red cross or building structure"
+      ],
+      [
+        "hospital",
+        "hospital status depends on visible red cross or building structure"
+      ],
+      [
+        "hospital status depends on visible red cross or building structure",
+        "no hospital"
+      ],
+      [
+        "hospital",
+        "no hospital"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "external condition changed"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000000873.jpg"
+      ],
+      "Mediator": [
+        "hospital status depends on visible red cross or building structure"
+      ],
+      "Outcome": [
+        "hospital"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000000873.jpg",
+        "external condition changed"
+      ],
+      [
+        "COCO_val2014_000000000873.jpg",
+        "hospital status depends on visible red cross or building structure"
+      ],
+      [
+        "external condition changed",
+        "hospital status depends on visible red cross or building structure"
+      ],
+      [
+        "hospital status depends on visible red cross or building structure",
+        "hospital"
+      ],
+      [
+        "external condition changed",
+        "hospital"
+      ]
+    ]
+  },
+  {
+    "text": "Does this dog have a collar?",
+    "factual_roles": {
+      "Exposure": [
+        "does this dog have a collar"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000000074.jpg"
+      ],
+      "Mediator": [
+        "dog's presence depends on not being relocated"
+      ],
+      "Outcome": [
+        "no does this dog have a collar"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000000074.jpg",
+        "does this dog have a collar"
+      ],
+      [
+        "COCO_val2014_000000000074.jpg",
+        "dog's presence depends on not being relocated"
+      ],
+      [
+        "does this dog have a collar",
+        "dog's presence depends on not being relocated"
+      ],
+      [
+        "dog's presence depends on not being relocated",
+        "no does this dog have a collar"
+      ],
+      [
+        "does this dog have a collar",
+        "no does this dog have a collar"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "external condition changed"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000000074.jpg"
+      ],
+      "Mediator": [
+        "dog's presence depends on not being relocated"
+      ],
+      "Outcome": [
+        "no does this dog have a collar"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000000074.jpg",
+        "external condition changed"
+      ],
+      [
+        "COCO_val2014_000000000074.jpg",
+        "dog's presence depends on not being relocated"
+      ],
+      [
+        "external condition changed",
+        "dog's presence depends on not being relocated"
+      ],
+      [
+        "dog's presence depends on not being relocated",
+        "no does this dog have a collar"
+      ],
+      [
+        "external condition changed",
+        "no does this dog have a collar"
+      ]
+    ]
+  },
+  {
+    "text": "Is the catcher wearing safety gear?",
+    "factual_roles": {
+      "Exposure": [
+        "catcher wearing safety gear"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000000192.jpg"
+      ],
+      "Mediator": [
+        "safety gear would not be worn if removed"
+      ],
+      "Outcome": [
+        "catcher wearing safety gear"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000000192.jpg",
+        "catcher wearing safety gear"
+      ],
+      [
+        "COCO_val2014_000000000192.jpg",
+        "safety gear would not be worn if removed"
+      ],
+      [
+        "catcher wearing safety gear",
+        "safety gear would not be worn if removed"
+      ],
+      [
+        "safety gear would not be worn if removed",
+        "catcher wearing safety gear"
+      ],
+      [
+        "catcher wearing safety gear",
+        "catcher wearing safety gear"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "external condition changed"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000000192.jpg"
+      ],
+      "Mediator": [
+        "safety gear would not be worn if removed"
+      ],
+      "Outcome": [
+        "no catcher wearing safety gear"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000000192.jpg",
+        "external condition changed"
+      ],
+      [
+        "COCO_val2014_000000000192.jpg",
+        "safety gear would not be worn if removed"
+      ],
+      [
+        "external condition changed",
+        "safety gear would not be worn if removed"
+      ],
+      [
+        "safety gear would not be worn if removed",
+        "no catcher wearing safety gear"
+      ],
+      [
+        "external condition changed",
+        "no catcher wearing safety gear"
+      ]
+    ]
+  },
+  {
+    "text": "Is the bear sitting?",
+    "factual_roles": {
+      "Exposure": [
+        "bear sitting"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000000285.jpg"
+      ],
+      "Mediator": [
+        "bear's posture would differ if moved or disturbed"
+      ],
+      "Outcome": [
+        "bear sitting"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000000285.jpg",
+        "bear sitting"
+      ],
+      [
+        "COCO_val2014_000000000285.jpg",
+        "bear's posture would differ if moved or disturbed"
+      ],
+      [
+        "bear sitting",
+        "bear's posture would differ if moved or disturbed"
+      ],
+      [
+        "bear's posture would differ if moved or disturbed",
+        "bear sitting"
+      ],
+      [
+        "bear sitting",
+        "bear sitting"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "external condition changed"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000000285.jpg"
+      ],
+      "Mediator": [
+        "bear's posture would differ if moved or disturbed"
+      ],
+      "Outcome": [
+        "no bear sitting"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000000285.jpg",
+        "external condition changed"
+      ],
+      [
+        "COCO_val2014_000000000285.jpg",
+        "bear's posture would differ if moved or disturbed"
+      ],
+      [
+        "external condition changed",
+        "bear's posture would differ if moved or disturbed"
+      ],
+      [
+        "bear's posture would differ if moved or disturbed",
+        "no bear sitting"
+      ],
+      [
+        "external condition changed",
+        "no bear sitting"
+      ]
+    ]
+  },
+  {
+    "text": "Is there a dog?",
+    "factual_roles": {
+      "Exposure": [
+        "dog"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000000400.jpg"
+      ],
+      "Mediator": [
+        "dog's presence depends on not being relocated"
+      ],
+      "Outcome": [
+        "dog"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000000400.jpg",
+        "dog"
+      ],
+      [
+        "COCO_val2014_000000000400.jpg",
+        "dog's presence depends on not being relocated"
+      ],
+      [
+        "dog",
+        "dog's presence depends on not being relocated"
+      ],
+      [
+        "dog's presence depends on not being relocated",
+        "dog"
+      ],
+      [
+        "dog",
+        "dog"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "external condition changed"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000000400.jpg"
+      ],
+      "Mediator": [
+        "dog's presence depends on not being relocated"
+      ],
+      "Outcome": [
+        "dog"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000000400.jpg",
+        "external condition changed"
+      ],
+      [
+        "COCO_val2014_000000000400.jpg",
+        "dog's presence depends on not being relocated"
+      ],
+      [
+        "external condition changed",
+        "dog's presence depends on not being relocated"
+      ],
+      [
+        "dog's presence depends on not being relocated",
+        "dog"
+      ],
+      [
+        "external condition changed",
+        "dog"
+      ]
+    ]
+  },
+  {
+    "text": "Is he going to need a bath soon?",
+    "factual_roles": {
+      "Exposure": [
+        "is he going to need a bath soon"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000000428.jpg"
+      ],
+      "Mediator": [
+        "object existence depends on external conditions"
+      ],
+      "Outcome": [
+        "is he going to need a bath soon"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000000428.jpg",
+        "is he going to need a bath soon"
+      ],
+      [
+        "COCO_val2014_000000000428.jpg",
+        "object existence depends on external conditions"
+      ],
+      [
+        "is he going to need a bath soon",
+        "object existence depends on external conditions"
+      ],
+      [
+        "object existence depends on external conditions",
+        "is he going to need a bath soon"
+      ],
+      [
+        "is he going to need a bath soon",
+        "is he going to need a bath soon"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "external condition changed"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000000428.jpg"
+      ],
+      "Mediator": [
+        "object existence depends on external conditions"
+      ],
+      "Outcome": [
+        "no is he going to need a bath soon"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000000428.jpg",
+        "external condition changed"
+      ],
+      [
+        "COCO_val2014_000000000428.jpg",
+        "object existence depends on external conditions"
+      ],
+      [
+        "external condition changed",
+        "object existence depends on external conditions"
+      ],
+      [
+        "object existence depends on external conditions",
+        "no is he going to need a bath soon"
+      ],
+      [
+        "external condition changed",
+        "no is he going to need a bath soon"
+      ]
+    ]
+  },
+  {
+    "text": "Is there a camera?",
+    "factual_roles": {
+      "Exposure": [
+        "camera"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000000459.jpg"
+      ],
+      "Mediator": [
+        "camera would disappear if removed from possession"
+      ],
+      "Outcome": [
+        "camera"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000000459.jpg",
+        "camera"
+      ],
+      [
+        "COCO_val2014_000000000459.jpg",
+        "camera would disappear if removed from possession"
+      ],
+      [
+        "camera",
+        "camera would disappear if removed from possession"
+      ],
+      [
+        "camera would disappear if removed from possession",
+        "camera"
+      ],
+      [
+        "camera",
+        "camera"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "camera dropped"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000000459.jpg"
+      ],
+      "Mediator": [
+        "camera would disappear if removed from possession"
+      ],
+      "Outcome": [
+        "no camera"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000000459.jpg",
+        "camera dropped"
+      ],
+      [
+        "COCO_val2014_000000000459.jpg",
+        "camera would disappear if removed from possession"
+      ],
+      [
+        "camera dropped",
+        "camera would disappear if removed from possession"
+      ],
+      [
+        "camera would disappear if removed from possession",
+        "no camera"
+      ],
+      [
+        "camera dropped",
+        "no camera"
+      ]
+    ]
+  },
+  {
+    "text": "Is there grass?",
+    "factual_roles": {
+      "Exposure": [
+        "grass"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000000474.jpg"
+      ],
+      "Mediator": [
+        "grass would be destroyed if area burned"
+      ],
+      "Outcome": [
+        "grass"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000000474.jpg",
+        "grass"
+      ],
+      [
+        "COCO_val2014_000000000474.jpg",
+        "grass would be destroyed if area burned"
+      ],
+      [
+        "grass",
+        "grass would be destroyed if area burned"
+      ],
+      [
+        "grass would be destroyed if area burned",
+        "grass"
+      ],
+      [
+        "grass",
+        "grass"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "ground burned"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000000474.jpg"
+      ],
+      "Mediator": [
+        "grass would be destroyed if area burned"
+      ],
+      "Outcome": [
+        "no grass"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000000474.jpg",
+        "ground burned"
+      ],
+      [
+        "COCO_val2014_000000000474.jpg",
+        "grass would be destroyed if area burned"
+      ],
+      [
+        "ground burned",
+        "grass would be destroyed if area burned"
+      ],
+      [
+        "grass would be destroyed if area burned",
+        "no grass"
+      ],
+      [
+        "ground burned",
+        "no grass"
+      ]
+    ]
+  },
+  {
+    "text": "Are there bicycles?",
+    "factual_roles": {
+      "Exposure": [
+        "bicycles"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000000486.jpg"
+      ],
+      "Mediator": [
+        "bicycles would not be present if removed from parking"
+      ],
+      "Outcome": [
+        "no bicycles"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000000486.jpg",
+        "bicycles"
+      ],
+      [
+        "COCO_val2014_000000000486.jpg",
+        "bicycles would not be present if removed from parking"
+      ],
+      [
+        "bicycles",
+        "bicycles would not be present if removed from parking"
+      ],
+      [
+        "bicycles would not be present if removed from parking",
+        "no bicycles"
+      ],
+      [
+        "bicycles",
+        "no bicycles"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "external condition changed"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000000486.jpg"
+      ],
+      "Mediator": [
+        "bicycles would not be present if removed from parking"
+      ],
+      "Outcome": [
+        "bicycles"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000000486.jpg",
+        "external condition changed"
+      ],
+      [
+        "COCO_val2014_000000000486.jpg",
+        "bicycles would not be present if removed from parking"
+      ],
+      [
+        "external condition changed",
+        "bicycles would not be present if removed from parking"
+      ],
+      [
+        "bicycles would not be present if removed from parking",
+        "bicycles"
+      ],
+      [
+        "external condition changed",
+        "bicycles"
+      ]
+    ]
+  },
+  {
+    "text": "Is this a high bridge?",
+    "factual_roles": {
+      "Exposure": [
+        "high bridge"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000000520.jpg"
+      ],
+      "Mediator": [
+        "object existence depends on external conditions"
+      ],
+      "Outcome": [
+        "no high bridge"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000000520.jpg",
+        "high bridge"
+      ],
+      [
+        "COCO_val2014_000000000520.jpg",
+        "object existence depends on external conditions"
+      ],
+      [
+        "high bridge",
+        "object existence depends on external conditions"
+      ],
+      [
+        "object existence depends on external conditions",
+        "no high bridge"
+      ],
+      [
+        "high bridge",
+        "no high bridge"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "external condition changed"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000000520.jpg"
+      ],
+      "Mediator": [
+        "object existence depends on external conditions"
+      ],
+      "Outcome": [
+        "high bridge"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000000520.jpg",
+        "external condition changed"
+      ],
+      [
+        "COCO_val2014_000000000520.jpg",
+        "object existence depends on external conditions"
+      ],
+      [
+        "external condition changed",
+        "object existence depends on external conditions"
+      ],
+      [
+        "object existence depends on external conditions",
+        "high bridge"
+      ],
+      [
+        "external condition changed",
+        "high bridge"
+      ]
+    ]
+  },
+  {
+    "text": "Is the catcher wearing blue?",
+    "factual_roles": {
+      "Exposure": [
+        "catcher wearing blue"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000000544.jpg"
+      ],
+      "Mediator": [
+        "object existence depends on external conditions"
+      ],
+      "Outcome": [
+        "no catcher wearing blue"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000000544.jpg",
+        "catcher wearing blue"
+      ],
+      [
+        "COCO_val2014_000000000544.jpg",
+        "object existence depends on external conditions"
+      ],
+      [
+        "catcher wearing blue",
+        "object existence depends on external conditions"
+      ],
+      [
+        "object existence depends on external conditions",
+        "no catcher wearing blue"
+      ],
+      [
+        "catcher wearing blue",
+        "no catcher wearing blue"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "external condition changed"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000000544.jpg"
+      ],
+      "Mediator": [
+        "object existence depends on external conditions"
+      ],
+      "Outcome": [
+        "no catcher wearing blue"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000000544.jpg",
+        "external condition changed"
+      ],
+      [
+        "COCO_val2014_000000000544.jpg",
+        "object existence depends on external conditions"
+      ],
+      [
+        "external condition changed",
+        "object existence depends on external conditions"
+      ],
+      [
+        "object existence depends on external conditions",
+        "no catcher wearing blue"
+      ],
+      [
+        "external condition changed",
+        "no catcher wearing blue"
+      ]
+    ]
+  },
+  {
+    "text": "Is the lid up?",
+    "factual_roles": {
+      "Exposure": [
+        "lid up"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000000636.jpg"
+      ],
+      "Mediator": [
+        "object existence depends on external conditions"
+      ],
+      "Outcome": [
+        "lid up"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000000636.jpg",
+        "lid up"
+      ],
+      [
+        "COCO_val2014_000000000636.jpg",
+        "object existence depends on external conditions"
+      ],
+      [
+        "lid up",
+        "object existence depends on external conditions"
+      ],
+      [
+        "object existence depends on external conditions",
+        "lid up"
+      ],
+      [
+        "lid up",
+        "lid up"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "external condition changed"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000000636.jpg"
+      ],
+      "Mediator": [
+        "object existence depends on external conditions"
+      ],
+      "Outcome": [
+        "no lid up"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000000636.jpg",
+        "external condition changed"
+      ],
+      [
+        "COCO_val2014_000000000636.jpg",
+        "object existence depends on external conditions"
+      ],
+      [
+        "external condition changed",
+        "object existence depends on external conditions"
+      ],
+      [
+        "object existence depends on external conditions",
+        "no lid up"
+      ],
+      [
+        "external condition changed",
+        "no lid up"
+      ]
+    ]
+  },
+  {
+    "text": "There a person holding the sandwich?",
+    "factual_roles": {
+      "Exposure": [
+        "there a person holding the sandwich"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000000661.jpg"
+      ],
+      "Mediator": [
+        "object existence depends on external conditions"
+      ],
+      "Outcome": [
+        "no there a person holding the sandwich"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000000661.jpg",
+        "there a person holding the sandwich"
+      ],
+      [
+        "COCO_val2014_000000000661.jpg",
+        "object existence depends on external conditions"
+      ],
+      [
+        "there a person holding the sandwich",
+        "object existence depends on external conditions"
+      ],
+      [
+        "object existence depends on external conditions",
+        "no there a person holding the sandwich"
+      ],
+      [
+        "there a person holding the sandwich",
+        "no there a person holding the sandwich"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "external condition changed"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000000661.jpg"
+      ],
+      "Mediator": [
+        "object existence depends on external conditions"
+      ],
+      "Outcome": [
+        "there a person holding the sandwich"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000000661.jpg",
+        "external condition changed"
+      ],
+      [
+        "COCO_val2014_000000000661.jpg",
+        "object existence depends on external conditions"
+      ],
+      [
+        "external condition changed",
+        "object existence depends on external conditions"
+      ],
+      [
+        "object existence depends on external conditions",
+        "there a person holding the sandwich"
+      ],
+      [
+        "external condition changed",
+        "there a person holding the sandwich"
+      ]
+    ]
+  },
+  {
+    "text": "Is the light on?",
+    "factual_roles": {
+      "Exposure": [
+        "light on"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000000675.jpg"
+      ],
+      "Mediator": [
+        "object existence depends on external conditions"
+      ],
+      "Outcome": [
+        "light on"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000000675.jpg",
+        "light on"
+      ],
+      [
+        "COCO_val2014_000000000675.jpg",
+        "object existence depends on external conditions"
+      ],
+      [
+        "light on",
+        "object existence depends on external conditions"
+      ],
+      [
+        "object existence depends on external conditions",
+        "light on"
+      ],
+      [
+        "light on",
+        "light on"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "external condition changed"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000000675.jpg"
+      ],
+      "Mediator": [
+        "object existence depends on external conditions"
+      ],
+      "Outcome": [
+        "no light on"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000000675.jpg",
+        "external condition changed"
+      ],
+      [
+        "COCO_val2014_000000000675.jpg",
+        "object existence depends on external conditions"
+      ],
+      [
+        "external condition changed",
+        "object existence depends on external conditions"
+      ],
+      [
+        "object existence depends on external conditions",
+        "no light on"
+      ],
+      [
+        "external condition changed",
+        "no light on"
+      ]
+    ]
+  },
+  {
+    "text": "Is the baby wearing stripes?",
+    "factual_roles": {
+      "Exposure": [
+        "baby wearing stripes"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000000692.jpg"
+      ],
+      "Mediator": [
+        "object existence depends on external conditions"
+      ],
+      "Outcome": [
+        "baby wearing stripes"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000000692.jpg",
+        "baby wearing stripes"
+      ],
+      [
+        "COCO_val2014_000000000692.jpg",
+        "object existence depends on external conditions"
+      ],
+      [
+        "baby wearing stripes",
+        "object existence depends on external conditions"
+      ],
+      [
+        "object existence depends on external conditions",
+        "baby wearing stripes"
+      ],
+      [
+        "baby wearing stripes",
+        "baby wearing stripes"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "external condition changed"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000000692.jpg"
+      ],
+      "Mediator": [
+        "object existence depends on external conditions"
+      ],
+      "Outcome": [
+        "no baby wearing stripes"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000000692.jpg",
+        "external condition changed"
+      ],
+      [
+        "COCO_val2014_000000000692.jpg",
+        "object existence depends on external conditions"
+      ],
+      [
+        "external condition changed",
+        "object existence depends on external conditions"
+      ],
+      [
+        "object existence depends on external conditions",
+        "no baby wearing stripes"
+      ],
+      [
+        "external condition changed",
+        "no baby wearing stripes"
+      ]
+    ]
+  },
+  {
+    "text": "Is the remote control on the table?",
+    "factual_roles": {
+      "Exposure": [
+        "remote control on the table"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000000711.jpg"
+      ],
+      "Mediator": [
+        "object existence depends on external conditions"
+      ],
+      "Outcome": [
+        "remote control on the table"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000000711.jpg",
+        "remote control on the table"
+      ],
+      [
+        "COCO_val2014_000000000711.jpg",
+        "object existence depends on external conditions"
+      ],
+      [
+        "remote control on the table",
+        "object existence depends on external conditions"
+      ],
+      [
+        "object existence depends on external conditions",
+        "remote control on the table"
+      ],
+      [
+        "remote control on the table",
+        "remote control on the table"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "external condition changed"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000000711.jpg"
+      ],
+      "Mediator": [
+        "object existence depends on external conditions"
+      ],
+      "Outcome": [
+        "no remote control on the table"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000000711.jpg",
+        "external condition changed"
+      ],
+      [
+        "COCO_val2014_000000000711.jpg",
+        "object existence depends on external conditions"
+      ],
+      [
+        "external condition changed",
+        "object existence depends on external conditions"
+      ],
+      [
+        "object existence depends on external conditions",
+        "no remote control on the table"
+      ],
+      [
+        "external condition changed",
+        "no remote control on the table"
+      ]
+    ]
+  },
+  {
+    "text": "Are there clouds?",
+    "factual_roles": {
+      "Exposure": [
+        "clouds"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000000724.jpg"
+      ],
+      "Mediator": [
+        "object existence depends on external conditions"
+      ],
+      "Outcome": [
+        "clouds"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000000724.jpg",
+        "clouds"
+      ],
+      [
+        "COCO_val2014_000000000724.jpg",
+        "object existence depends on external conditions"
+      ],
+      [
+        "clouds",
+        "object existence depends on external conditions"
+      ],
+      [
+        "object existence depends on external conditions",
+        "clouds"
+      ],
+      [
+        "clouds",
+        "clouds"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "external condition changed"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000000724.jpg"
+      ],
+      "Mediator": [
+        "object existence depends on external conditions"
+      ],
+      "Outcome": [
+        "no clouds"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000000724.jpg",
+        "external condition changed"
+      ],
+      [
+        "COCO_val2014_000000000724.jpg",
+        "object existence depends on external conditions"
+      ],
+      [
+        "external condition changed",
+        "object existence depends on external conditions"
+      ],
+      [
+        "object existence depends on external conditions",
+        "no clouds"
+      ],
+      [
+        "external condition changed",
+        "no clouds"
+      ]
+    ]
+  },
+  {
+    "text": "Are the animals in the wild?",
+    "factual_roles": {
+      "Exposure": [
+        "are the animals in the wild"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000000757.jpg"
+      ],
+      "Mediator": [
+        "object existence depends on external conditions"
+      ],
+      "Outcome": [
+        "are the animals in the wild"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000000757.jpg",
+        "are the animals in the wild"
+      ],
+      [
+        "COCO_val2014_000000000757.jpg",
+        "object existence depends on external conditions"
+      ],
+      [
+        "are the animals in the wild",
+        "object existence depends on external conditions"
+      ],
+      [
+        "object existence depends on external conditions",
+        "are the animals in the wild"
+      ],
+      [
+        "are the animals in the wild",
+        "are the animals in the wild"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "external condition changed"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000000757.jpg"
+      ],
+      "Mediator": [
+        "object existence depends on external conditions"
+      ],
+      "Outcome": [
+        "are the animals in the wild"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000000757.jpg",
+        "external condition changed"
+      ],
+      [
+        "COCO_val2014_000000000757.jpg",
+        "object existence depends on external conditions"
+      ],
+      [
+        "external condition changed",
+        "object existence depends on external conditions"
+      ],
+      [
+        "object existence depends on external conditions",
+        "are the animals in the wild"
+      ],
+      [
+        "external condition changed",
+        "are the animals in the wild"
+      ]
+    ]
+  },
+  {
+    "text": "Are the sheep eating grass?",
+    "factual_roles": {
+      "Exposure": [
+        "are the sheep eating grass"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000000772.jpg"
+      ],
+      "Mediator": [
+        "grass would be destroyed if area burned"
+      ],
+      "Outcome": [
+        "no are the sheep eating grass"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000000772.jpg",
+        "are the sheep eating grass"
+      ],
+      [
+        "COCO_val2014_000000000772.jpg",
+        "grass would be destroyed if area burned"
+      ],
+      [
+        "are the sheep eating grass",
+        "grass would be destroyed if area burned"
+      ],
+      [
+        "grass would be destroyed if area burned",
+        "no are the sheep eating grass"
+      ],
+      [
+        "are the sheep eating grass",
+        "no are the sheep eating grass"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "external condition changed"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000000772.jpg"
+      ],
+      "Mediator": [
+        "grass would be destroyed if area burned"
+      ],
+      "Outcome": [
+        "are the sheep eating grass"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000000772.jpg",
+        "external condition changed"
+      ],
+      [
+        "COCO_val2014_000000000772.jpg",
+        "grass would be destroyed if area burned"
+      ],
+      [
+        "external condition changed",
+        "grass would be destroyed if area burned"
+      ],
+      [
+        "grass would be destroyed if area burned",
+        "are the sheep eating grass"
+      ],
+      [
+        "external condition changed",
+        "are the sheep eating grass"
+      ]
+    ]
+  },
+  {
+    "text": "Are the goggles covering her eyes?",
+    "factual_roles": {
+      "Exposure": [
+        "are the goggles covering her eyes"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000000785.jpg"
+      ],
+      "Mediator": [
+        "object existence depends on external conditions"
+      ],
+      "Outcome": [
+        "are the goggles covering her eyes"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000000785.jpg",
+        "are the goggles covering her eyes"
+      ],
+      [
+        "COCO_val2014_000000000785.jpg",
+        "object existence depends on external conditions"
+      ],
+      [
+        "are the goggles covering her eyes",
+        "object existence depends on external conditions"
+      ],
+      [
+        "object existence depends on external conditions",
+        "are the goggles covering her eyes"
+      ],
+      [
+        "are the goggles covering her eyes",
+        "are the goggles covering her eyes"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "external condition changed"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000000785.jpg"
+      ],
+      "Mediator": [
+        "object existence depends on external conditions"
+      ],
+      "Outcome": [
+        "no are the goggles covering her eyes"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000000785.jpg",
+        "external condition changed"
+      ],
+      [
+        "COCO_val2014_000000000785.jpg",
+        "object existence depends on external conditions"
+      ],
+      [
+        "external condition changed",
+        "object existence depends on external conditions"
+      ],
+      [
+        "object existence depends on external conditions",
+        "no are the goggles covering her eyes"
+      ],
+      [
+        "external condition changed",
+        "no are the goggles covering her eyes"
+      ]
+    ]
+  },
+  {
+    "text": "Is this a hospital?",
+    "factual_roles": {
+      "Exposure": [
+        "hospital"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000000873.jpg"
+      ],
+      "Mediator": [
+        "hospital status depends on visible red cross or building structure"
+      ],
+      "Outcome": [
+        "no hospital"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000000873.jpg",
+        "hospital"
+      ],
+      [
+        "COCO_val2014_000000000873.jpg",
+        "hospital status depends on visible red cross or building structure"
+      ],
+      [
+        "hospital",
+        "hospital status depends on visible red cross or building structure"
+      ],
+      [
+        "hospital status depends on visible red cross or building structure",
+        "no hospital"
+      ],
+      [
+        "hospital",
+        "no hospital"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "external condition changed"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000000873.jpg"
+      ],
+      "Mediator": [
+        "hospital status depends on visible red cross or building structure"
+      ],
+      "Outcome": [
+        "hospital"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000000873.jpg",
+        "external condition changed"
+      ],
+      [
+        "COCO_val2014_000000000873.jpg",
+        "hospital status depends on visible red cross or building structure"
+      ],
+      [
+        "external condition changed",
+        "hospital status depends on visible red cross or building structure"
+      ],
+      [
+        "hospital status depends on visible red cross or building structure",
+        "hospital"
+      ],
+      [
+        "external condition changed",
+        "hospital"
+      ]
+    ]
+  },
+  {
+    "text": "Are both men bending down?",
+    "factual_roles": {
+      "Exposure": [
+        "are both men bending down"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000000969.jpg"
+      ],
+      "Mediator": [
+        "object existence depends on external conditions"
+      ],
+      "Outcome": [
+        "no are both men bending down"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000000969.jpg",
+        "are both men bending down"
+      ],
+      [
+        "COCO_val2014_000000000969.jpg",
+        "object existence depends on external conditions"
+      ],
+      [
+        "are both men bending down",
+        "object existence depends on external conditions"
+      ],
+      [
+        "object existence depends on external conditions",
+        "no are both men bending down"
+      ],
+      [
+        "are both men bending down",
+        "no are both men bending down"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "external condition changed"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000000969.jpg"
+      ],
+      "Mediator": [
+        "object existence depends on external conditions"
+      ],
+      "Outcome": [
+        "are both men bending down"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000000969.jpg",
+        "external condition changed"
+      ],
+      [
+        "COCO_val2014_000000000969.jpg",
+        "object existence depends on external conditions"
+      ],
+      [
+        "external condition changed",
+        "object existence depends on external conditions"
+      ],
+      [
+        "object existence depends on external conditions",
+        "are both men bending down"
+      ],
+      [
+        "external condition changed",
+        "are both men bending down"
+      ]
+    ]
+  },
+  {
+    "text": "Are there clouds?",
+    "factual_roles": {
+      "Exposure": [
+        "clouds"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000001029.jpg"
+      ],
+      "Mediator": [
+        "object existence depends on external conditions"
+      ],
+      "Outcome": [
+        "clouds"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000001029.jpg",
+        "clouds"
+      ],
+      [
+        "COCO_val2014_000000001029.jpg",
+        "object existence depends on external conditions"
+      ],
+      [
+        "clouds",
+        "object existence depends on external conditions"
+      ],
+      [
+        "object existence depends on external conditions",
+        "clouds"
+      ],
+      [
+        "clouds",
+        "clouds"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "external condition changed"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000001029.jpg"
+      ],
+      "Mediator": [
+        "object existence depends on external conditions"
+      ],
+      "Outcome": [
+        "clouds"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000001029.jpg",
+        "external condition changed"
+      ],
+      [
+        "COCO_val2014_000000001029.jpg",
+        "object existence depends on external conditions"
+      ],
+      [
+        "external condition changed",
+        "object existence depends on external conditions"
+      ],
+      [
+        "object existence depends on external conditions",
+        "clouds"
+      ],
+      [
+        "external condition changed",
+        "clouds"
+      ]
+    ]
+  },
+  {
+    "text": "Is the toast burned on the edges?",
+    "factual_roles": {
+      "Exposure": [
+        "toast burned on the edges"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000001064.jpg"
+      ],
+      "Mediator": [
+        "object existence depends on external conditions"
+      ],
+      "Outcome": [
+        "toast burned on the edges"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000001064.jpg",
+        "toast burned on the edges"
+      ],
+      [
+        "COCO_val2014_000000001064.jpg",
+        "object existence depends on external conditions"
+      ],
+      [
+        "toast burned on the edges",
+        "object existence depends on external conditions"
+      ],
+      [
+        "object existence depends on external conditions",
+        "toast burned on the edges"
+      ],
+      [
+        "toast burned on the edges",
+        "toast burned on the edges"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "ground burned"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000001064.jpg"
+      ],
+      "Mediator": [
+        "object existence depends on external conditions"
+      ],
+      "Outcome": [
+        "no toast burned on the edges"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000001064.jpg",
+        "ground burned"
+      ],
+      [
+        "COCO_val2014_000000001064.jpg",
+        "object existence depends on external conditions"
+      ],
+      [
+        "ground burned",
+        "object existence depends on external conditions"
+      ],
+      [
+        "object existence depends on external conditions",
+        "no toast burned on the edges"
+      ],
+      [
+        "ground burned",
+        "no toast burned on the edges"
+      ]
+    ]
+  },
+  {
+    "text": "Are these cows suffering?",
+    "factual_roles": {
+      "Exposure": [
+        "are these cows suffering"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000001083.jpg"
+      ],
+      "Mediator": [
+        "object existence depends on external conditions"
+      ],
+      "Outcome": [
+        "no are these cows suffering"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000001083.jpg",
+        "are these cows suffering"
+      ],
+      [
+        "COCO_val2014_000000001083.jpg",
+        "object existence depends on external conditions"
+      ],
+      [
+        "are these cows suffering",
+        "object existence depends on external conditions"
+      ],
+      [
+        "object existence depends on external conditions",
+        "no are these cows suffering"
+      ],
+      [
+        "are these cows suffering",
+        "no are these cows suffering"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "external condition changed"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000001083.jpg"
+      ],
+      "Mediator": [
+        "object existence depends on external conditions"
+      ],
+      "Outcome": [
+        "are these cows suffering"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000001083.jpg",
+        "external condition changed"
+      ],
+      [
+        "COCO_val2014_000000001083.jpg",
+        "object existence depends on external conditions"
+      ],
+      [
+        "external condition changed",
+        "object existence depends on external conditions"
+      ],
+      [
+        "object existence depends on external conditions",
+        "are these cows suffering"
+      ],
+      [
+        "external condition changed",
+        "are these cows suffering"
+      ]
+    ]
+  },
+  {
+    "text": "Is this a color photograph?",
+    "factual_roles": {
+      "Exposure": [
+        "color photograph"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000001103.jpg"
+      ],
+      "Mediator": [
+        "object existence depends on external conditions"
+      ],
+      "Outcome": [
+        "no color photograph"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000001103.jpg",
+        "color photograph"
+      ],
+      [
+        "COCO_val2014_000000001103.jpg",
+        "object existence depends on external conditions"
+      ],
+      [
+        "color photograph",
+        "object existence depends on external conditions"
+      ],
+      [
+        "object existence depends on external conditions",
+        "no color photograph"
+      ],
+      [
+        "color photograph",
+        "no color photograph"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "external condition changed"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000001103.jpg"
+      ],
+      "Mediator": [
+        "object existence depends on external conditions"
+      ],
+      "Outcome": [
+        "color photograph"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000001103.jpg",
+        "external condition changed"
+      ],
+      [
+        "COCO_val2014_000000001103.jpg",
+        "object existence depends on external conditions"
+      ],
+      [
+        "external condition changed",
+        "object existence depends on external conditions"
+      ],
+      [
+        "object existence depends on external conditions",
+        "color photograph"
+      ],
+      [
+        "external condition changed",
+        "color photograph"
+      ]
+    ]
+  },
+  {
+    "text": "Does he have on the appropriate shirt to wear with a tie?",
+    "factual_roles": {
+      "Exposure": [
+        "does he have on the appropriate shirt to wear with a tie"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000001146.jpg"
+      ],
+      "Mediator": [
+        "object existence depends on external conditions"
+      ],
+      "Outcome": [
+        "does he have on the appropriate shirt to wear with a tie"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000001146.jpg",
+        "does he have on the appropriate shirt to wear with a tie"
+      ],
+      [
+        "COCO_val2014_000000001146.jpg",
+        "object existence depends on external conditions"
+      ],
+      [
+        "does he have on the appropriate shirt to wear with a tie",
+        "object existence depends on external conditions"
+      ],
+      [
+        "object existence depends on external conditions",
+        "does he have on the appropriate shirt to wear with a tie"
+      ],
+      [
+        "does he have on the appropriate shirt to wear with a tie",
+        "does he have on the appropriate shirt to wear with a tie"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "external condition changed"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000001146.jpg"
+      ],
+      "Mediator": [
+        "object existence depends on external conditions"
+      ],
+      "Outcome": [
+        "no does he have on the appropriate shirt to wear with a tie"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000001146.jpg",
+        "external condition changed"
+      ],
+      [
+        "COCO_val2014_000000001146.jpg",
+        "object existence depends on external conditions"
+      ],
+      [
+        "external condition changed",
+        "object existence depends on external conditions"
+      ],
+      [
+        "object existence depends on external conditions",
+        "no does he have on the appropriate shirt to wear with a tie"
+      ],
+      [
+        "external condition changed",
+        "no does he have on the appropriate shirt to wear with a tie"
+      ]
+    ]
+  },
+  {
+    "text": "Have these bananas been peeled?",
+    "factual_roles": {
+      "Exposure": [
+        "have these bananas been peeled"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000001153.jpg"
+      ],
+      "Mediator": [
+        "object existence depends on external conditions"
+      ],
+      "Outcome": [
+        "no have these bananas been peeled"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000001153.jpg",
+        "have these bananas been peeled"
+      ],
+      [
+        "COCO_val2014_000000001153.jpg",
+        "object existence depends on external conditions"
+      ],
+      [
+        "have these bananas been peeled",
+        "object existence depends on external conditions"
+      ],
+      [
+        "object existence depends on external conditions",
+        "no have these bananas been peeled"
+      ],
+      [
+        "have these bananas been peeled",
+        "no have these bananas been peeled"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "external condition changed"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000001153.jpg"
+      ],
+      "Mediator": [
+        "object existence depends on external conditions"
+      ],
+      "Outcome": [
+        "have these bananas been peeled"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000001153.jpg",
+        "external condition changed"
+      ],
+      [
+        "COCO_val2014_000000001153.jpg",
+        "object existence depends on external conditions"
+      ],
+      [
+        "external condition changed",
+        "object existence depends on external conditions"
+      ],
+      [
+        "object existence depends on external conditions",
+        "have these bananas been peeled"
+      ],
+      [
+        "external condition changed",
+        "have these bananas been peeled"
+      ]
+    ]
+  },
+  {
+    "text": "Is the light on?",
+    "factual_roles": {
+      "Exposure": [
+        "light on"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000001205.jpg"
+      ],
+      "Mediator": [
+        "object existence depends on external conditions"
+      ],
+      "Outcome": [
+        "light on"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "COCO_val2014_000000001205.jpg",
+        "light on"
+      ],
+      [
+        "COCO_val2014_000000001205.jpg",
+        "object existence depends on external conditions"
+      ],
+      [
+        "light on",
+        "object existence depends on external conditions"
+      ],
+      [
+        "object existence depends on external conditions",
+        "light on"
+      ],
+      [
+        "light on",
+        "light on"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "external condition changed"
+      ],
+      "Covariate": [
+        "COCO_val2014_000000001205.jpg"
+      ],
+      "Mediator": [
+        "object existence depends on external conditions"
+      ],
+      "Outcome": [
+        "no light on"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "COCO_val2014_000000001205.jpg",
+        "external condition changed"
+      ],
+      [
+        "COCO_val2014_000000001205.jpg",
+        "object existence depends on external conditions"
+      ],
+      [
+        "external condition changed",
+        "object existence depends on external conditions"
+      ],
+      [
+        "object existence depends on external conditions",
+        "no light on"
+      ],
+      [
+        "external condition changed",
+        "no light on"
+      ]
+    ]
+  }
+]
