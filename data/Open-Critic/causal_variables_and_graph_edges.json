@@ -1,0 +1,281 @@
+[
+  {
+    "factual_roles": {
+      "Exposure": [
+        "Correct explanation (valid ranges and checks)"
+      ],
+      "Covariate": [
+        "Task requirements (0-9 digits)",
+        "Exclusion logic (no 5/repeats)",
+        "Nested loop structure"
+      ],
+      "Mediator": [
+        "Proper range initialization (range(10) x3)"
+      ],
+      "Outcome": [
+        "Correct triple-nested loop code"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "Task requirements",
+        "Correct explanation"
+      ],
+      [
+        "Exclusion logic",
+        "Correct explanation"
+      ],
+      [
+        "Nested loop structure",
+        "Correct explanation"
+      ],
+      [
+        "Task requirements",
+        "Proper range initialization"
+      ],
+      [
+        "Exclusion logic",
+        "Proper range initialization"
+      ],
+      [
+        "Nested loop structure",
+        "Proper range initialization"
+      ],
+      [
+        "Task requirements",
+        "Correct triple-nested loop code"
+      ],
+      [
+        "Exclusion logic",
+        "Correct triple-nested loop code"
+      ],
+      [
+        "Nested loop structure",
+        "Correct triple-nested loop code"
+      ],
+      [
+        "Correct explanation",
+        "Proper range initialization"
+      ],
+      [
+        "Proper range initialization",
+        "Correct triple-nested loop code"
+      ],
+      [
+        "Correct explanation",
+        "Correct triple-nested loop code"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "Counterfactual explanation (invalid ranges)"
+      ],
+      "Covariate": [
+        "Task requirements (0-9 digits)",
+        "Exclusion logic (no 5/repeats)",
+        "Nested loop structure"
+      ],
+      "Mediator": [
+        "Flawed range parameters (range(100)/range(1))",
+        "Incomplete digit iteration"
+      ],
+      "Outcome": [
+        "Bugged code with limited iterations"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "Task requirements",
+        "Flawed range parameters"
+      ],
+      [
+        "Exclusion logic",
+        "Flawed range parameters"
+      ],
+      [
+        "Nested loop structure",
+        "Flawed range parameters"
+      ],
+      [
+        "Task requirements",
+        "Bugged code with limited iterations"
+      ],
+      [
+        "Exclusion logic",
+        "Bugged code with limited iterations"
+      ],
+      [
+        "Nested loop structure",
+        "Bugged code with limited iterations"
+      ],
+      [
+        "Counterfactual explanation",
+        "Flawed range parameters"
+      ],
+      [
+        "Flawed range parameters",
+        "Incomplete digit iteration"
+      ],
+      [
+        "Incomplete digit iteration",
+        "Bugged code with limited iterations"
+      ],
+      [
+        "Counterfactual explanation",
+        "Bugged code with limited iterations"
+      ]
+    ]
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "The code correctly converts each cell's state into a string..."
+      ],
+      "Covariate": [
+        "Write a function to find the number of distinct states in a given matrix...",
+        "def count_distinct_states(matrix): ..."
+      ],
+      "Mediator": [
+        "step-by-step logic that leads correct explanation to produce incorrect_code"
+      ],
+      "Outcome": [
+        "def count_distinct_states(matrix): ..."
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "Write a function to find the number of distinct states in a given matrix...",
+        "The code correctly converts each cell's state into a string..."
+      ],
+      [
+        "def count_distinct_states(matrix): ...",
+        "step-by-step logic that leads correct explanation to produce incorrect_code"
+      ],
+      [
+        "The code correctly converts each cell's state into a string...",
+        "step-by-step logic that leads correct explanation to produce incorrect_code"
+      ],
+      [
+        "step-by-step logic that leads correct explanation to produce incorrect_code",
+        "def count_distinct_states(matrix): ..."
+      ],
+      [
+        "The code correctly converts each cell's state into a string...",
+        "def count_distinct_states(matrix): ..."
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "When reading this code, I noticed several issues including the incorrect join operation..."
+      ],
+      "Covariate": [
+        "Write a function to find the number of distinct states in a given matrix...",
+        "def count_distinct_states(matrix): ..."
+      ],
+      "Mediator": [
+        "reasoning flaws or misinterpretations that cause bug in output"
+      ],
+      "Outcome": [
+        "def count_distinct_states(matrix): ..."
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "Write a function to find the number of distinct states in a given matrix...",
+        "When reading this code, I noticed several issues including the incorrect join operation..."
+      ],
+      [
+        "def count_distinct_states(matrix): ...",
+        "reasoning flaws or misinterpretations that cause bug in output"
+      ],
+      [
+        "When reading this code, I noticed several issues including the incorrect join operation...",
+        "reasoning flaws or misinterpretations that cause bug in output"
+      ],
+      [
+        "reasoning flaws or misinterpretations that cause bug in output",
+        "def count_distinct_states(matrix): ..."
+      ],
+      [
+        "When reading this code, I noticed several issues including the incorrect join operation...",
+        "def count_distinct_states(matrix): ..."
+      ]
+    ]
+  },
+  {
+    "factual_roles": {
+      "Exposure": [
+        "1. The function first checks if the number is less than 2..."
+      ],
+      "Covariate": [
+        "Write a function that checks if a given number is prime or not...",
+        "import math\ndef is_prime(n): ..."
+      ],
+      "Mediator": [
+        "step-by-step logic that leads correct explanation to produce incorrect_code"
+      ],
+      "Outcome": [
+        "import math\ndef is_prime(n): ... + 1()"
+      ]
+    },
+    "factual_graph_edges": [
+      [
+        "Write a function that checks if a given number is prime or not...",
+        "1. The function first checks if the number is less than 2..."
+      ],
+      [
+        "import math\ndef is_prime(n): ...",
+        "step-by-step logic that leads correct explanation to produce incorrect_code"
+      ],
+      [
+        "1. The function first checks if the number is less than 2...",
+        "step-by-step logic that leads correct explanation to produce incorrect_code"
+      ],
+      [
+        "step-by-step logic that leads correct explanation to produce incorrect_code",
+        "import math\ndef is_prime(n): ... + 1()"
+      ],
+      [
+        "1. The function first checks if the number is less than 2...",
+        "import math\ndef is_prime(n): ... + 1()"
+      ]
+    ],
+    "counterfactual_roles": {
+      "Exposure": [
+        "Upon reading this code, I notice that there are some bugs that prevent it from working correctly..."
+      ],
+      "Covariate": [
+        "Write a function that checks if a given number is prime or not...",
+        "import math\ndef is_prime(n): ..."
+      ],
+      "Mediator": [
+        "reasoning flaws or misinterpretations that cause bug in output"
+      ],
+      "Outcome": [
+        "import math\ndef is_prime(n): ... + 1()"
+      ]
+    },
+    "counterfactual_graph_edges": [
+      [
+        "Write a function that checks if a given number is prime or not...",
+        "Upon reading this code, I notice that there are some bugs that prevent it from working correctly..."
+      ],
+      [
+        "import math\ndef is_prime(n): ...",
+        "reasoning flaws or misinterpretations that cause bug in output"
+      ],
+      [
+        "Upon reading this code, I notice that there are some bugs that prevent it from working correctly...",
+        "reasoning flaws or misinterpretations that cause bug in output"
+      ],
+      [
+        "reasoning flaws or misinterpretations that cause bug in output",
+        "import math\ndef is_prime(n): ... + 1()"
+      ],
+      [
+        "Upon reading this code, I notice that there are some bugs that prevent it from working correctly...",
+        "import math\ndef is_prime(n): ... + 1()"
+      ]
+    ]
+  }
+]
