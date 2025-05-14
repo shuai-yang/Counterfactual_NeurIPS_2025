@@ -1,0 +1,855 @@
+[
+  {
+    "factual_roles": {
+      "Exposure": ["Ordered from greatest to least"],
+      "Covariate": ["Number set (276, 254, 237, 235)"],
+      "Mediator": ["Descending comparison logic"],
+      "Outcome": ["Choice C"]
+    },
+    "counterfactual_roles": {
+      "Exposure": ["Ordered least to greatest"],
+      "Covariate": ["Number set (276, 254, 237, 235)"],
+      "Mediator": ["Ascending comparison logic"],
+      "Outcome": ["Choice A"]
+    },
+    "factual_edges": [
+      ["Number set (276, 254, 237, 235)", "Ordered from greatest to least"],
+      ["Number set (276, 254, 237, 235)", "Descending comparison logic"],
+      ["Number set (276, 254, 237, 235)", "Choice C"],
+      ["Ordered from greatest to least", "Descending comparison logic"],
+      ["Descending comparison logic", "Choice C"],
+      ["Ordered from greatest to least", "Choice C"]
+    ],
+    "counterfactual_edges": [
+      ["Number set (276, 254, 237, 235)", "Ordered least to greatest"],
+      ["Number set (276, 254, 237, 235)", "Ascending comparison logic"],
+      ["Number set (276, 254, 237, 235)", "Choice A"],
+      ["Ordered least to greatest", "Ascending comparison logic"],
+      ["Ascending comparison logic", "Choice A"],
+      ["Ordered least to greatest", "Choice A"]
+    ]
+  },
+  {
+    "factual_roles": {
+      "Exposure": ["Ordered from greatest to least"],
+      "Covariate": ["Number set (276, 254, 237, 235)"],
+      "Mediator": ["Descending comparison logic"],
+      "Outcome": ["Choice C"]
+    },
+    "counterfactual_roles": {
+      "Exposure": ["Ordered by ones place"],
+      "Covariate": ["Number set (276, 254, 237, 235)"],
+      "Mediator": ["Ones place comparison logic"],
+      "Outcome": ["Choice B"]
+    },
+    "factual_edges": [
+      ["Number set (276, 254, 237, 235)", "Ordered from greatest to least"],
+      ["Number set (276, 254, 237, 235)", "Descending comparison logic"],
+      ["Number set (276, 254, 237, 235)", "Choice C"],
+      ["Ordered from greatest to least", "Descending comparison logic"],
+      ["Descending comparison logic", "Choice C"],
+      ["Ordered from greatest to least", "Choice C"]
+    ],
+    "counterfactual_edges": [
+      ["Number set (276, 254, 237, 235)", "Ordered by ones place"],
+      ["Number set (276, 254, 237, 235)", "Ones place comparison logic"],
+      ["Number set (276, 254, 237, 235)", "Choice B"],
+      ["Ordered by ones place", "Ones place comparison logic"],
+      ["Ones place comparison logic", "Choice B"],
+      ["Ordered by ones place", "Choice B"]
+    ]
+  },
+  {
+    "factual_roles": {
+      "Exposure": ["Ordered from greatest to least"],
+      "Covariate": ["Number set (276, 254, 237, 235)"],
+      "Mediator": ["Descending comparison logic"],
+      "Outcome": ["Choice C"]
+    },
+    "counterfactual_roles": {
+      "Exposure": ["Switched last 2 numbers"],
+      "Covariate": ["Number set (276, 254, 237, 235)"],
+      "Mediator": ["Partial descending logic with error"],
+      "Outcome": ["Choice D"]
+    },
+    "factual_edges": [
+      ["Number set (276, 254, 237, 235)", "Ordered from greatest to least"],
+      ["Number set (276, 254, 237, 235)", "Descending comparison logic"],
+      ["Number set (276, 254, 237, 235)", "Choice C"],
+      ["Ordered from greatest to least", "Descending comparison logic"],
+      ["Descending comparison logic", "Choice C"],
+      ["Ordered from greatest to least", "Choice C"]
+    ],
+    "counterfactual_edges": [
+      ["Number set (276, 254, 237, 235)", "Switched last 2 numbers"],
+      ["Number set (276, 254, 237, 235)", "Partial descending logic with error"],
+      ["Number set (276, 254, 237, 235)", "Choice D"],
+      ["Switched last 2 numbers", "Partial descending logic with error"],
+      ["Partial descending logic with error", "Choice D"],
+      ["Switched last 2 numbers", "Choice D"]
+    ]
+  },
+  {
+    "factual_roles": {
+      "Exposure": ["Correct place value decomposition"],
+      "Covariate": ["Number 2,819"],
+      "Mediator": ["Place value addition logic"],
+      "Outcome": ["Choice B (2,000 + 800 + 10 + 9)"]
+    },
+    "counterfactual_roles": {
+      "Exposure": ["Extended tens place to 80"],
+      "Covariate": ["Number 2,819"],
+      "Mediator": ["Flawed tens place logic"],
+      "Outcome": ["Choice A (2,000 + 80 + 10 + 9)"]
+    },
+    "factual_edges": [
+      ["Number 2,819", "Correct place value decomposition"],
+      ["Number 2,819", "Place value addition logic"],
+      ["Number 2,819", "Choice B (2,000 + 800 + 10 + 9)"],
+      ["Correct place value decomposition", "Place value addition logic"],
+      ["Place value addition logic", "Choice B (2,000 + 800 + 10 + 9)"],
+      ["Correct place value decomposition", "Choice B (2,000 + 800 + 10 + 9)"]
+    ],
+    "counterfactual_edges": [
+      ["Number 2,819", "Extended tens place to 80"],
+      ["Number 2,819", "Flawed tens place logic"],
+      ["Number 2,819", "Choice A (2,000 + 80 + 10 + 9)"],
+      ["Extended tens place to 80", "Flawed tens place logic"],
+      ["Flawed tens place logic", "Choice A (2,000 + 80 + 10 + 9)"],
+      ["Extended tens place to 80", "Choice A (2,000 + 80 + 10 + 9)"]
+    ]
+  },
+  {
+    "factual_roles": {
+      "Exposure": ["Correct place value decomposition"],
+      "Covariate": ["Number 2,819"],
+      "Mediator": ["Place value addition logic"],
+      "Outcome": ["Choice B (2,000 + 800 + 10 + 9)"]
+    },
+    "counterfactual_roles": {
+      "Exposure": ["Misplaced hundreds as thousands"],
+      "Covariate": ["Number 2,819"],
+      "Mediator": ["Thousands-place inflation logic"],
+      "Outcome": ["Choice C (2,000 + 8,000 + 10 + 9)"]
+    },
+    "factual_edges": [
+      ["Number 2,819", "Correct place value decomposition"],
+      ["Number 2,819", "Place value addition logic"],
+      ["Number 2,819", "Choice B (2,000 + 800 + 10 + 9)"],
+      ["Correct place value decomposition", "Place value addition logic"],
+      ["Place value addition logic", "Choice B (2,000 + 800 + 10 + 9)"],
+      ["Correct place value decomposition", "Choice B (2,000 + 800 + 10 + 9)"]
+    ],
+    "counterfactual_edges": [
+      ["Number 2,819", "Misplaced hundreds as thousands"],
+      ["Number 2,819", "Thousands-place inflation logic"],
+      ["Number 2,819", "Choice C (2,000 + 8,000 + 10 + 9)"],
+      ["Misplaced hundreds as thousands", "Thousands-place inflation logic"],
+      ["Thousands-place inflation logic", "Choice C (2,000 + 8,000 + 10 + 9)"],
+      ["Misplaced hundreds as thousands", "Choice C (2,000 + 8,000 + 10 + 9)"]
+    ]
+  },
+  {
+    "factual_roles": {
+      "Exposure": ["Correct place value decomposition"],
+      "Covariate": ["Number 2,819"],
+      "Mediator": ["Place value addition logic"],
+      "Outcome": ["Choice B (2,000 + 800 + 10 + 9)"]
+    },
+    "counterfactual_roles": {
+      "Exposure": ["Misplaced tens as hundreds"],
+      "Covariate": ["Number 2,819"],
+      "Mediator": ["Hundreds-place substitution logic"],
+      "Outcome": ["Choice D (2,000 + 800 + 100 + 90)"]
+    },
+    "factual_edges": [
+      ["Number 2,819", "Correct place value decomposition"],
+      ["Number 2,819", "Place value addition logic"],
+      ["Number 2,819", "Choice B (2,000 + 800 + 10 + 9)"],
+      ["Correct place value decomposition", "Place value addition logic"],
+      ["Place value addition logic", "Choice B (2,000 + 800 + 10 + 9)"],
+      ["Correct place value decomposition", "Choice B (2,000 + 800 + 10 + 9)"]
+    ],
+    "counterfactual_edges": [
+      ["Number 2,819", "Misplaced tens as hundreds"],
+      ["Number 2,819", "Hundreds-place substitution logic"],
+      ["Number 2,819", "Choice D (2,000 + 800 + 100 + 90)"],
+      ["Misplaced tens as hundreds", "Hundreds-place substitution logic"],
+      ["Hundreds-place substitution logic", "Choice D (2,000 + 800 + 100 + 90)"],
+      ["Misplaced tens as hundreds", "Choice D (2,000 + 800 + 100 + 90)"]
+    ]
+  },
+  {
+    "factual_roles": {
+      "Exposure": ["Correct place value decomposition"],
+      "Covariate": ["Number 3,236"],
+      "Mediator": ["Thousands-place separation logic"],
+      "Outcome": ["Choice D (3,000 + 236)"]
+    },
+    "counterfactual_roles": {
+      "Exposure": ["Digit-wise additive decomposition"],
+      "Covariate": ["Number 3,236"],
+      "Mediator": ["Non-place-value addition logic"],
+      "Outcome": ["Choice A (3 + 2 + 3 + 6)"]
+    },
+    "factual_edges": [
+      ["Number 3,236", "Correct place value decomposition"],
+      ["Number 3,236", "Thousands-place separation logic"],
+      ["Number 3,236", "Choice D (3,000 + 236)"],
+      ["Correct place value decomposition", "Thousands-place separation logic"],
+      ["Thousands-place separation logic", "Choice D (3,000 + 236)"],
+      ["Correct place value decomposition", "Choice D (3,000 + 236)"]
+    ],
+    "counterfactual_edges": [
+      ["Number 3,236", "Digit-wise additive decomposition"],
+      ["Number 3,236", "Non-place-value addition logic"],
+      ["Number 3,236", "Choice A (3 + 2 + 3 + 6)"],
+      ["Digit-wise additive decomposition", "Non-place-value addition logic"],
+      ["Non-place-value addition logic", "Choice A (3 + 2 + 3 + 6)"],
+      ["Digit-wise additive decomposition", "Choice A (3 + 2 + 3 + 6)"]
+    ]
+  },
+  {
+    "factual_roles": {
+      "Exposure": ["Correct place value decomposition"],
+      "Covariate": ["Number 3,236"],
+      "Mediator": ["Thousands-place separation logic"],
+      "Outcome": ["Choice D (3,000 + 236)"]
+    },
+    "counterfactual_roles": {
+      "Exposure": ["Partial digit-grouping decomposition"],
+      "Covariate": ["Number 3,236"],
+      "Mediator": ["Two-part grouping logic"],
+      "Outcome": ["Choice B (32 + 36)"]
+    },
+    "factual_edges": [
+      ["Number 3,236", "Correct place value decomposition"],
+      ["Number 3,236", "Thousands-place separation logic"],
+      ["Number 3,236", "Choice D (3,000 + 236)"],
+      ["Correct place value decomposition", "Thousands-place separation logic"],
+      ["Thousands-place separation logic", "Choice D (3,000 + 236)"],
+      ["Correct place value decomposition", "Choice D (3,000 + 236)"]
+    ],
+    "counterfactual_edges": [
+      ["Number 3,236", "Partial digit-grouping decomposition"],
+      ["Number 3,236", "Two-part grouping logic"],
+      ["Number 3,236", "Choice B (32 + 36)"],
+      ["Partial digit-grouping decomposition", "Two-part grouping logic"],
+      ["Two-part grouping logic", "Choice B (32 + 36)"],
+      ["Partial digit-grouping decomposition", "Choice B (32 + 36)"]
+    ]
+  },
+  {
+    "factual_roles": {
+      "Exposure": ["Correct place value decomposition"],
+      "Covariate": ["Number 3,236"],
+      "Mediator": ["Thousands-place separation logic"],
+      "Outcome": ["Choice D (3,000 + 236)"]
+    },
+    "counterfactual_roles": {
+      "Exposure": ["Truncated thousands-place decomposition"],
+      "Covariate": ["Number 3,236"],
+      "Mediator": ["Incomplete zero-padding logic"],
+      "Outcome": ["Choice C (300 + 236)"]
+    },
+    "factual_edges": [
+      ["Number 3,236", "Correct place value decomposition"],
+      ["Number 3,236", "Thousands-place separation logic"],
+      ["Number 3,236", "Choice D (3,000 + 236)"],
+      ["Correct place value decomposition", "Thousands-place separation logic"],
+      ["Thousands-place separation logic", "Choice D (3,000 + 236)"],
+      ["Correct place value decomposition", "Choice D (3,000 + 236)"]
+    ],
+    "counterfactual_edges": [
+      ["Number 3,236", "Truncated thousands-place decomposition"],
+      ["Number 3,236", "Incomplete zero-padding logic"],
+      ["Number 3,236", "Choice C (300 + 236)"],
+      ["Truncated thousands-place decomposition", "Incomplete zero-padding logic"],
+      ["Incomplete zero-padding logic", "Choice C (300 + 236)"],
+      ["Truncated thousands-place decomposition", "Choice C (300 + 236)"]
+    ]
+  },
+  {
+    "factual_roles": {
+      "Exposure": ["Arithmetic progression (+7 per step)"],
+      "Covariate": ["Number series (18, 25, 32, 39)"],
+      "Mediator": ["Sequential addition logic"],
+      "Outcome": ["Choice B (53)"]
+    },
+    "counterfactual_roles": {
+      "Exposure": ["Misidentified step count (5th term)"],
+      "Covariate": ["Number series (18, 25, 32, 39)"],
+      "Mediator": ["Truncated sequence logic"],
+      "Outcome": ["Choice A (46)"]
+    },
+    "factual_edges": [
+      ["Number series (18, 25, 32, 39)", "Arithmetic progression (+7 per step)"],
+      ["Number series (18, 25, 32, 39)", "Sequential addition logic"],
+      ["Number series (18, 25, 32, 39)", "Choice B (53)"],
+      ["Arithmetic progression (+7 per step)", "Sequential addition logic"],
+      ["Sequential addition logic", "Choice B (53)"],
+      ["Arithmetic progression (+7 per step)", "Choice B (53)"]
+    ],
+    "counterfactual_edges": [
+      ["Number series (18, 25, 32, 39)", "Misidentified step count (5th term)"],
+      ["Number series (18, 25, 32, 39)", "Truncated sequence logic"],
+      ["Number series (18, 25, 32, 39)", "Choice A (46)"],
+      ["Misidentified step count (5th term)", "Truncated sequence logic"],
+      ["Truncated sequence logic", "Choice A (46)"],
+      ["Misidentified step count (5th term)", "Choice A (46)"]
+    ]
+  },
+  {
+    "factual_roles": {
+      "Exposure": ["Arithmetic progression (+7 per step)"],
+      "Covariate": ["Number series (18, 25, 32, 39)"],
+      "Mediator": ["Sequential addition logic"],
+      "Outcome": ["Choice B (53)"]
+    },
+    "counterfactual_roles": {
+      "Exposure": ["Sum of prior terms (25 + 32)"],
+      "Covariate": ["Number series (18, 25, 32, 39)"],
+      "Mediator": ["Non-sequential sum logic"],
+      "Outcome": ["Choice C (57)"]
+    },
+    "factual_edges": [
+      ["Number series (18, 25, 32, 39)", "Arithmetic progression (+7 per step)"],
+      ["Number series (18, 25, 32, 39)", "Sequential addition logic"],
+      ["Number series (18, 25, 32, 39)", "Choice B (53)"],
+      ["Arithmetic progression (+7 per step)", "Sequential addition logic"],
+      ["Sequential addition logic", "Choice B (53)"],
+      ["Arithmetic progression (+7 per step)", "Choice B (53)"]
+    ],
+    "counterfactual_edges": [
+      ["Number series (18, 25, 32, 39)", "Sum of prior terms (25 + 32)"],
+      ["Number series (18, 25, 32, 39)", "Non-sequential sum logic"],
+      ["Number series (18, 25, 32, 39)", "Choice C (57)"],
+      ["Sum of prior terms (25 + 32)", "Non-sequential sum logic"],
+      ["Non-sequential sum logic", "Choice C (57)"],
+      ["Sum of prior terms (25 + 32)", "Choice C (57)"]
+    ]
+  },
+  {
+    "factual_roles": {
+      "Exposure": ["Arithmetic progression (+7 per step)"],
+      "Covariate": ["Number series (18, 25, 32, 39)"],
+      "Mediator": ["Sequential addition logic"],
+      "Outcome": ["Choice B (53)"]
+    },
+    "counterfactual_roles": {
+      "Exposure": ["Over-projection to 7th term"],
+      "Covariate": ["Number series (18, 25, 32, 39)"],
+      "Mediator": ["Over-extension logic"],
+      "Outcome": ["Choice D (60)"]
+    },
+    "factual_edges": [
+      ["Number series (18, 25, 32, 39)", "Arithmetic progression (+7 per step)"],
+      ["Number series (18, 25, 32, 39)", "Sequential addition logic"],
+      ["Number series (18, 25, 32, 39)", "Choice B (53)"],
+      ["Arithmetic progression (+7 per step)", "Sequential addition logic"],
+      ["Sequential addition logic", "Choice B (53)"],
+      ["Arithmetic progression (+7 per step)", "Choice B (53)"]
+    ],
+    "counterfactual_edges": [
+      ["Number series (18, 25, 32, 39)", "Over-projection to 7th term"],
+      ["Number series (18, 25, 32, 39)", "Over-extension logic"],
+      ["Number series (18, 25, 32, 39)", "Choice D (60)"],
+      ["Over-projection to 7th term", "Over-extension logic"],
+      ["Over-extension logic", "Choice D (60)"],
+      ["Over-projection to 7th term", "Choice D (60)"]
+    ]
+  },
+  {
+    "factual_roles": {
+      "Exposure": ["Correct time interval calculation"],
+      "Covariate": ["Start time (2:45 p.m.)", "End time (3:22 p.m.)"],
+      "Mediator": ["Partial-hour segmentation logic"],
+      "Outcome": ["Choice B (37 minutes)"]
+    },
+    "counterfactual_roles": {
+      "Exposure": ["Direct minute subtraction without hour adjustment"],
+      "Covariate": ["Start time (2:45 p.m.)", "End time (3:22 p.m.)"],
+      "Mediator": ["Flawed subtraction logic"],
+      "Outcome": ["Choice A (23 minutes)"]
+    },
+    "factual_edges": [
+      ["Start time (2:45 p.m.)", "Correct time interval calculation"],
+      ["End time (3:22 p.m.)", "Correct time interval calculation"],
+      ["Correct time interval calculation", "Partial-hour segmentation logic"],
+      ["Partial-hour segmentation logic", "Choice B (37 minutes)"],
+      ["Start time (2:45 p.m.)", "Partial-hour segmentation logic"],
+      ["End time (3:22 p.m.)", "Partial-hour segmentation logic"]
+    ],
+    "counterfactual_edges": [
+      ["Start time (2:45 p.m.)", "Direct minute subtraction without hour adjustment"],
+      ["End time (3:22 p.m.)", "Direct minute subtraction without hour adjustment"],
+      ["Direct minute subtraction without hour adjustment", "Flawed subtraction logic"],
+      ["Flawed subtraction logic", "Choice A (23 minutes)"],
+      ["Start time (2:45 p.m.)", "Flawed subtraction logic"],
+      ["End time (3:22 p.m.)", "Flawed subtraction logic"]
+    ]
+  },
+  {
+    "factual_roles": {
+      "Exposure": ["Correct time interval calculation"],
+      "Covariate": ["Start time (2:45 p.m.)", "End time (3:22 p.m.)"],
+      "Mediator": ["Partial-hour segmentation logic"],
+      "Outcome": ["Choice B (37 minutes)"]
+    },
+    "counterfactual_roles": {
+      "Exposure": ["Incorrect addition without carrying"],
+      "Covariate": ["Start time (2:45 p.m.)", "End time (3:22 p.m.)"],
+      "Mediator": ["Place-value arithmetic error"],
+      "Outcome": ["Choice C (67 minutes)"]
+    },
+    "factual_edges": [
+      ["Start time (2:45 p.m.)", "Correct time interval calculation"],
+      ["End time (3:22 p.m.)", "Correct time interval calculation"],
+      ["Correct time interval calculation", "Partial-hour segmentation logic"],
+      ["Partial-hour segmentation logic", "Choice B (37 minutes)"],
+      ["Start time (2:45 p.m.)", "Partial-hour segmentation logic"],
+      ["End time (3:22 p.m.)", "Partial-hour segmentation logic"]
+    ],
+    "counterfactual_edges": [
+      ["Start time (2:45 p.m.)", "Incorrect addition without carrying"],
+      ["End time (3:22 p.m.)", "Incorrect addition without carrying"],
+      ["Incorrect addition without carrying", "Place-value arithmetic error"],
+      ["Place-value arithmetic error", "Choice C (67 minutes)"],
+      ["Start time (2:45 p.m.)", "Place-value arithmetic error"],
+      ["End time (3:22 p.m.)", "Place-value arithmetic error"]
+    ]
+  },
+  {
+    "factual_roles": {
+      "Exposure": ["Correct time interval calculation"],
+      "Covariate": ["Start time (2:45 p.m.)", "End time (3:22 p.m.)"],
+      "Mediator": ["Partial-hour segmentation logic"],
+      "Outcome": ["Choice B (37 minutes)"]
+    },
+    "counterfactual_roles": {
+      "Exposure": ["Simple arithmetic error"],
+      "Covariate": ["Start time (2:45 p.m.)", "End time (3:22 p.m.)"],
+      "Mediator": ["Incorrect sum calculation"],
+      "Outcome": ["Choice D (77 minutes)"]
+    },
+    "factual_edges": [
+      ["Start time (2:45 p.m.)", "Correct time interval calculation"],
+      ["End time (3:22 p.m.)", "Correct time interval calculation"],
+      ["Correct time interval calculation", "Partial-hour segmentation logic"],
+      ["Partial-hour segmentation logic", "Choice B (37 minutes)"],
+      ["Start time (2:45 p.m.)", "Partial-hour segmentation logic"],
+      ["End time (3:22 p.m.)", "Partial-hour segmentation logic"]
+    ],
+    "counterfactual_edges": [
+      ["Start time (2:45 p.m.)", "Simple arithmetic error"],
+      ["End time (3:22 p.m.)", "Simple arithmetic error"],
+      ["Simple arithmetic error", "Incorrect sum calculation"],
+      ["Incorrect sum calculation", "Choice D (77 minutes)"],
+      ["Start time (2:45 p.m.)", "Incorrect sum calculation"],
+      ["End time (3:22 p.m.)", "Incorrect sum calculation"]
+    ]
+  },
+  {
+    "factual_roles": {
+      "Exposure": ["Correct time interval calculation"],
+      "Covariate": ["Start time (11:50 a.m.)", "End time (1:05 p.m.)"],
+      "Mediator": ["Partial-hour segmentation logic"],
+      "Outcome": ["Choice A (1 hour 15 minutes)"]
+    },
+    "counterfactual_roles": {
+      "Exposure": ["Incorrect minute subtraction without hour adjustment"],
+      "Covariate": ["Start time (11:50 a.m.)", "End time (1:05 p.m.)"],
+      "Mediator": ["Flawed subtraction logic"],
+      "Outcome": ["Choice B (1 hour 45 minutes)"]
+    },
+    "factual_edges": [
+      ["Start time (11:50 a.m.)", "Correct time interval calculation"],
+      ["End time (1:05 p.m.)", "Correct time interval calculation"],
+      ["Correct time interval calculation", "Partial-hour segmentation logic"],
+      ["Partial-hour segmentation logic", "Choice A (1 hour 15 minutes)"],
+      ["Start time (11:50 a.m.)", "Partial-hour segmentation logic"],
+      ["End time (1:05 p.m.)", "Partial-hour segmentation logic"]
+    ],
+    "counterfactual_edges": [
+      ["Start time (11:50 a.m.)", "Incorrect minute subtraction without hour adjustment"],
+      ["End time (1:05 p.m.)", "Incorrect minute subtraction without hour adjustment"],
+      ["Incorrect minute subtraction without hour adjustment", "Flawed subtraction logic"],
+      ["Flawed subtraction logic", "Choice B (1 hour 45 minutes)"],
+      ["Start time (11:50 a.m.)", "Flawed subtraction logic"],
+      ["End time (1:05 p.m.)", "Flawed subtraction logic"]
+    ]
+  },
+  {
+    "factual_roles": {
+      "Exposure": ["Correct time interval calculation"],
+      "Covariate": ["Start time (11:50 a.m.)", "End time (1:05 p.m.)"],
+      "Mediator": ["Partial-hour segmentation logic"],
+      "Outcome": ["Choice A (1 hour 15 minutes)"]
+    },
+    "counterfactual_roles": {
+      "Exposure": ["Over-projection to full hours"],
+      "Covariate": ["Start time (11:50 a.m.)", "End time (1:05 p.m.)"],
+      "Mediator": ["Hour-rounding logic"],
+      "Outcome": ["Choice C (2 hours 15 minutes)"]
+    },
+    "factual_edges": [
+      ["Start time (11:50 a.m.)", "Correct time interval calculation"],
+      ["End time (1:05 p.m.)", "Correct time interval calculation"],
+      ["Correct time interval calculation", "Partial-hour segmentation logic"],
+      ["Partial-hour segmentation logic", "Choice A (1 hour 15 minutes)"],
+      ["Start time (11:50 a.m.)", "Partial-hour segmentation logic"],
+      ["End time (1:05 p.m.)", "Partial-hour segmentation logic"]
+    ],
+    "counterfactual_edges": [
+      ["Start time (11:50 a.m.)", "Over-projection to full hours"],
+      ["End time (1:05 p.m.)", "Over-projection to full hours"],
+      ["Over-projection to full hours", "Hour-rounding logic"],
+      ["Hour-rounding logic", "Choice C (2 hours 15 minutes)"],
+      ["Start time (11:50 a.m.)", "Hour-rounding logic"],
+      ["End time (1:05 p.m.)", "Hour-rounding logic"]
+    ]
+  },
+  {
+    "factual_roles": {
+      "Exposure": ["Correct time interval calculation"],
+      "Covariate": ["Start time (11:50 a.m.)", "End time (1:05 p.m.)"],
+      "Mediator": ["Partial-hour segmentation logic"],
+      "Outcome": ["Choice A (1 hour 15 minutes)"]
+    },
+    "counterfactual_roles": {
+      "Exposure": ["Combined hour over-projection and minute error"],
+      "Covariate": ["Start time (11:50 a.m.)", "End time (1:05 p.m.)"],
+      "Mediator": ["Double-counting error logic"],
+      "Outcome": ["Choice D (2 hours 45 minutes)"]
+    },
+    "factual_edges": [
+      ["Start time (11:50 a.m.)", "Correct time interval calculation"],
+      ["End time (1:05 p.m.)", "Correct time interval calculation"],
+      ["Correct time interval calculation", "Partial-hour segmentation logic"],
+      ["Partial-hour segmentation logic", "Choice A (1 hour 15 minutes)"],
+      ["Start time (11:50 a.m.)", "Partial-hour segmentation logic"],
+      ["End time (1:05 p.m.)", "Partial-hour segmentation logic"]
+    ],
+    "counterfactual_edges": [
+      ["Start time (11:50 a.m.)", "Combined hour over-projection and minute error"],
+      ["End time (1:05 p.m.)", "Combined hour over-projection and minute error"],
+      ["Combined hour over-projection and minute error", "Double-counting error logic"],
+      ["Double-counting error logic", "Choice D (2 hours 45 minutes)"],
+      ["Start time (11:50 a.m.)", "Double-counting error logic"],
+      ["End time (1:05 p.m.)", "Double-counting error logic"]
+    ]
+  }, 
+  {
+    "factual_roles": {
+      "Exposure": ["Correct place value decomposition"],
+      "Covariate": ["Number 4,810"],
+      "Mediator": ["Thousands-hundreds-tens separation logic"],
+      "Outcome": ["Choice D (4 thousands + 8 hundreds + 1 ten)"]
+    },
+    "counterfactual_roles": {
+      "Exposure": ["Misplaced ones instead of tens"],
+      "Covariate": ["Number 4,810"],
+      "Mediator": ["Flawed ones-place allocation logic"],
+      "Outcome": ["Choice A (48 hundreds + 1 one)"]
+    },
+    "factual_edges": [
+      ["Number 4,810", "Correct place value decomposition"],
+      ["Correct place value decomposition", "Thousands-hundreds-tens separation logic"],
+      ["Thousands-hundreds-tens separation logic", "Choice D (4 thousands + 8 hundreds + 1 ten)"],
+      ["Number 4,810", "Thousands-hundreds-tens separation logic"]
+    ],
+    "counterfactual_edges": [
+      ["Number 4,810", "Misplaced ones instead of tens"],
+      ["Misplaced ones instead of tens", "Flawed ones-place allocation logic"],
+      ["Flawed ones-place allocation logic", "Choice A (48 hundreds + 1 one)"],
+      ["Number 4,810", "Flawed ones-place allocation logic"]
+    ]
+  },
+  {
+    "factual_roles": {
+      "Exposure": ["Correct place value decomposition"],
+      "Covariate": ["Number 4,810"],
+      "Mediator": ["Thousands-hundreds-tens separation logic"],
+      "Outcome": ["Choice D (4 thousands + 8 hundreds + 1 ten)"]
+    },
+    "counterfactual_roles": {
+      "Exposure": ["Digit shift by factor of 10"],
+      "Covariate": ["Number 4,810"],
+      "Mediator": ["Place value reduction logic"],
+      "Outcome": ["Choice B (4 hundreds + 8 tens + 1 one)"]
+    },
+    "factual_edges": [
+      ["Number 4,810", "Correct place value decomposition"],
+      ["Correct place value decomposition", "Thousands-hundreds-tens separation logic"],
+      ["Thousands-hundreds-tens separation logic", "Choice D (4 thousands + 8 hundreds + 1 ten)"],
+      ["Number 4,810", "Thousands-hundreds-tens separation logic"]
+    ],
+    "counterfactual_edges": [
+      ["Number 4,810", "Digit shift by factor of 10"],
+      ["Digit shift by factor of 10", "Place value reduction logic"],
+      ["Place value reduction logic", "Choice B (4 hundreds + 8 tens + 1 one)"],
+      ["Number 4,810", "Place value reduction logic"]
+    ]
+  },
+  {
+    "factual_roles": {
+      "Exposure": ["Correct place value decomposition"],
+      "Covariate": ["Number 4,810"],
+      "Mediator": ["Thousands-hundreds-tens separation logic"],
+      "Outcome": ["Choice D (4 thousands + 8 hundreds + 1 ten)"]
+    },
+    "counterfactual_roles": {
+      "Exposure": ["Misplaced tens as ones"],
+      "Covariate": ["Number 4,810"],
+      "Mediator": ["Tens-to-ones misplacement logic"],
+      "Outcome": ["Choice C (4 thousands + 8 hundreds + 1 one)"]
+    },
+    "factual_edges": [
+      ["Number 4,810", "Correct place value decomposition"],
+      ["Correct place value decomposition", "Thousands-hundreds-tens separation logic"],
+      ["Thousands-hundreds-tens separation logic", "Choice D (4 thousands + 8 hundreds + 1 ten)"],
+      ["Number 4,810", "Thousands-hundreds-tens separation logic"]
+    ],
+    "counterfactual_edges": [
+      ["Number 4,810", "Misplaced tens as ones"],
+      ["Misplaced tens as ones", "Tens-to-ones misplacement logic"],
+      ["Tens-to-ones misplacement logic", "Choice C (4 thousands + 8 hundreds + 1 one)"],
+      ["Number 4,810", "Tens-to-ones misplacement logic"]
+    ]
+  },
+  {
+    "factual_roles": {
+      "Exposure": ["Ordered from smallest to largest"],
+      "Covariate": ["Number set (489, 498, 849, 984)"],
+      "Mediator": ["Full-number magnitude comparison logic"],
+      "Outcome": ["Choice D (489, 498, 849, 984)"]
+    },
+    "counterfactual_roles": {
+      "Exposure": ["Partial ordering (first two numbers only)"],
+      "Covariate": ["Number set (489, 498, 849, 984)"],
+      "Mediator": ["Truncated comparison logic"],
+      "Outcome": ["Choice A (489, 498, 984, 849)"]
+    },
+    "factual_edges": [
+      ["Number set (489, 498, 849, 984)", "Ordered from smallest to largest"],
+      ["Number set (489, 498, 849, 984)", "Full-number magnitude comparison logic"],
+      ["Ordered from smallest to largest", "Full-number magnitude comparison logic"],
+      ["Full-number magnitude comparison logic", "Choice D (489, 498, 849, 984)"]
+    ],
+    "counterfactual_edges": [
+      ["Number set (489, 498, 849, 984)", "Partial ordering (first two numbers only)"],
+      ["Number set (489, 498, 849, 984)", "Truncated comparison logic"],
+      ["Partial ordering (first two numbers only)", "Truncated comparison logic"],
+      ["Truncated comparison logic", "Choice A (489, 498, 984, 849)"]
+    ]
+  },
+  {
+    "factual_roles": {
+      "Exposure": ["Ordered from smallest to largest"],
+      "Covariate": ["Number set (489, 498, 849, 984)"],
+      "Mediator": ["Full-number magnitude comparison logic"],
+      "Outcome": ["Choice D (489, 498, 849, 984)"]
+    },
+    "counterfactual_roles": {
+      "Exposure": ["Ordered by ones place"],
+      "Covariate": ["Number set (489, 498, 849, 984)"],
+      "Mediator": ["Ones-place prioritization logic"],
+      "Outcome": ["Choice B (984, 498, 849, 489)"]
+    },
+    "factual_edges": [
+      ["Number set (489, 498, 849, 984)", "Ordered from smallest to largest"],
+      ["Number set (489, 498, 849, 984)", "Full-number magnitude comparison logic"],
+      ["Ordered from smallest to largest", "Full-number magnitude comparison logic"],
+      ["Full-number magnitude comparison logic", "Choice D (489, 498, 849, 984)"]
+    ],
+    "counterfactual_edges": [
+      ["Number set (489, 498, 849, 984)", "Ordered by ones place"],
+      ["Number set (489, 498, 849, 984)", "Ones-place prioritization logic"],
+      ["Ordered by ones place", "Ones-place prioritization logic"],
+      ["Ones-place prioritization logic", "Choice B (984, 498, 849, 489)"]
+    ]
+  },
+  {
+    "factual_roles": {
+      "Exposure": ["Ordered from smallest to largest"],
+      "Covariate": ["Number set (489, 498, 849, 984)"],
+      "Mediator": ["Full-number magnitude comparison logic"],
+      "Outcome": ["Choice D (489, 498, 849, 984)"]
+    },
+    "counterfactual_roles": {
+      "Exposure": ["Ordered by tens and ones place"],
+      "Covariate": ["Number set (489, 498, 849, 984)"],
+      "Mediator": ["Tens/ones-place prioritization logic"],
+      "Outcome": ["Choice C (849, 984, 489, 498)"]
+    },
+    "factual_edges": [
+      ["Number set (489, 498, 849, 984)", "Ordered from smallest to largest"],
+      ["Number set (489, 498, 849, 984)", "Full-number magnitude comparison logic"],
+      ["Ordered from smallest to largest", "Full-number magnitude comparison logic"],
+      ["Full-number magnitude comparison logic", "Choice D (489, 498, 849, 984)"]
+    ],
+    "counterfactual_edges": [
+      ["Number set (489, 498, 849, 984)", "Ordered by tens and ones place"],
+      ["Number set (489, 498, 849, 984)", "Tens/ones-place prioritization logic"],
+      ["Ordered by tens and ones place", "Tens/ones-place prioritization logic"],
+      ["Tens/ones-place prioritization logic", "Choice C (849, 984, 489, 498)"]
+    ]
+  },
+  {
+    "factual_roles": {
+      "Exposure": ["Definition of polygon angles"],
+      "Covariate": ["Geometric shape properties"],
+      "Mediator": ["Angle-counting logic"],
+      "Outcome": ["Choice A (Hexagon)"]
+    },
+    "counterfactual_roles": {
+      "Exposure": ["Misattribution of angle count to octagon"],
+      "Covariate": ["Geometric shape properties"],
+      "Mediator": ["Over-counting angle logic"],
+      "Outcome": ["Choice B (Octagon)"]
+    },
+    "factual_edges": [
+      ["Geometric shape properties", "Definition of polygon angles"],
+      ["Definition of polygon angles", "Angle-counting logic"],
+      ["Angle-counting logic", "Choice A (Hexagon)"],
+      ["Geometric shape properties", "Angle-counting logic"]
+    ],
+    "counterfactual_edges": [
+      ["Geometric shape properties", "Misattribution of angle count to octagon"],
+      ["Misattribution of angle count to octagon", "Over-counting angle logic"],
+      ["Over-counting angle logic", "Choice B (Octagon)"],
+      ["Geometric shape properties", "Over-counting angle logic"]
+    ]
+  },
+  {
+    "factual_roles": {
+      "Exposure": ["Definition of polygon angles"],
+      "Covariate": ["Geometric shape properties"],
+      "Mediator": ["Angle-counting logic"],
+      "Outcome": ["Choice A (Hexagon)"]
+    },
+    "counterfactual_roles": {
+      "Exposure": ["Under-counting angle assumption"],
+      "Covariate": ["Geometric shape properties"],
+      "Mediator": ["Five-angle misclassification logic"],
+      "Outcome": ["Choice C (Pentagon)"]
+    },
+    "factual_edges": [
+      ["Geometric shape properties", "Definition of polygon angles"],
+      ["Definition of polygon angles", "Angle-counting logic"],
+      ["Angle-counting logic", "Choice A (Hexagon)"],
+      ["Geometric shape properties", "Angle-counting logic"]
+    ],
+    "counterfactual_edges": [
+      ["Geometric shape properties", "Under-counting angle assumption"],
+      ["Under-counting angle assumption", "Five-angle misclassification logic"],
+      ["Five-angle misclassification logic", "Choice C (Pentagon)"],
+      ["Geometric shape properties", "Five-angle misclassification logic"]
+    ]
+  },
+  {
+    "factual_roles": {
+      "Exposure": ["Definition of polygon angles"],
+      "Covariate": ["Geometric shape properties"],
+      "Mediator": ["Angle-counting logic"],
+      "Outcome": ["Choice A (Hexagon)"]
+    },
+    "counterfactual_roles": {
+      "Exposure": ["Quadrilateral angle confusion"],
+      "Covariate": ["Geometric shape properties"],
+      "Mediator": ["Four-angle generalization logic"],
+      "Outcome": ["Choice D (Rhombus)"]
+    },
+    "factual_edges": [
+      ["Geometric shape properties", "Definition of polygon angles"],
+      ["Definition of polygon angles", "Angle-counting logic"],
+      ["Angle-counting logic", "Choice A (Hexagon)"],
+      ["Geometric shape properties", "Angle-counting logic"]
+    ],
+    "counterfactual_edges": [
+      ["Geometric shape properties", "Quadrilateral angle confusion"],
+      ["Quadrilateral angle confusion", "Four-angle generalization logic"],
+      ["Four-angle generalization logic", "Choice D (Rhombus)"],
+      ["Geometric shape properties", "Four-angle generalization logic"]
+    ]
+  },
+  
+  {
+    "factual_roles": {
+      "Exposure": ["Correct time addition (1h25m)"],
+      "Covariate": ["Start time (11:55 a.m.)", "Duration (1h25m)"],
+      "Mediator": ["Sequential hour-minute addition logic"],
+      "Outcome": ["Choice C (1:20 p.m.)"]
+    },
+    "counterfactual_roles": {
+      "Exposure": ["Partial duration addition (25m only)"],
+      "Covariate": ["Start time (11:55 a.m.)", "Duration (1h25m)"],
+      "Mediator": ["Minute-only addition logic"],
+      "Outcome": ["Choice A (12:20 p.m.)"]
+    },
+    "factual_edges": [
+      ["Start time (11:55 a.m.)", "Correct time addition (1h25m)"],
+      ["Duration (1h25m)", "Correct time addition (1h25m)"],
+      ["Correct time addition (1h25m)", "Sequential hour-minute addition logic"],
+      ["Sequential hour-minute addition logic", "Choice C (1:20 p.m.)"]
+    ],
+    "counterfactual_edges": [
+      ["Start time (11:55 a.m.)", "Partial duration addition (25m only)"],
+      ["Duration (1h25m)", "Partial duration addition (25m only)"],
+      ["Partial duration addition (25m only)", "Minute-only addition logic"],
+      ["Minute-only addition logic", "Choice A (12:20 p.m.)"]
+    ]
+  },
+  {
+    "factual_roles": {
+      "Exposure": ["Correct time addition (1h25m)"],
+      "Covariate": ["Start time (11:55 a.m.)", "Duration (1h25m)"],
+      "Mediator": ["Sequential hour-minute addition logic"],
+      "Outcome": ["Choice C (1:20 p.m.)"]
+    },
+    "counterfactual_roles": {
+      "Exposure": ["Incorrect minute subtraction"],
+      "Covariate": ["Start time (11:55 a.m.)", "Duration (1h25m)"],
+      "Mediator": ["Flawed subtraction logic"],
+      "Outcome": ["Choice B (12:30 p.m.)"]
+    },
+    "factual_edges": [
+      ["Start time (11:55 a.m.)", "Correct time addition (1h25m)"],
+      ["Duration (1h25m)", "Correct time addition (1h25m)"],
+      ["Correct time addition (1h25m)", "Sequential hour-minute addition logic"],
+      ["Sequential hour-minute addition logic", "Choice C (1:20 p.m.)"]
+    ],
+    "counterfactual_edges": [
+      ["Start time (11:55 a.m.)", "Incorrect minute subtraction"],
+      ["Duration (1h25m)", "Incorrect minute subtraction"],
+      ["Incorrect minute subtraction", "Flawed subtraction logic"],
+      ["Flawed subtraction logic", "Choice B (12:30 p.m.)"]
+    ]
+  },
+  {
+    "factual_roles": {
+      "Exposure": ["Correct time addition (1h25m)"],
+      "Covariate": ["Start time (11:55 a.m.)", "Duration (1h25m)"],
+      "Mediator": ["Sequential hour-minute addition logic"],
+      "Outcome": ["Choice C (1:20 p.m.)"]
+    },
+    "counterfactual_roles": {
+      "Exposure": ["Over-projection of hour with minute error"],
+      "Covariate": ["Start time (11:55 a.m.)", "Duration (1h25m)"],
+      "Mediator": ["Hour-correct but minute-flawed logic"],
+      "Outcome": ["Choice D (1:30 p.m.)"]
+    },
+    "factual_edges": [
+      ["Start time (11:55 a.m.)", "Correct time addition (1h25m)"],
+      ["Duration (1h25m)", "Correct time addition (1h25m)"],
+      ["Correct time addition (1h25m)", "Sequential hour-minute addition logic"],
+      ["Sequential hour-minute addition logic", "Choice C (1:20 p.m.)"]
+    ],
+    "counterfactual_edges": [
+      ["Start time (11:55 a.m.)", "Over-projection of hour with minute error"],
+      ["Duration (1h25m)", "Over-projection of hour with minute error"],
+      ["Over-projection of hour with minute error", "Hour-correct but minute-flawed logic"],
+      ["Hour-correct but minute-flawed logic", "Choice D (1:30 p.m.)"]
+    ]
+  }
+]
